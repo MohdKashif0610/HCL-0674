@@ -1,0 +1,1531 @@
+Shipment_ID,Order_Date,Delivery_Date,Delivery_Partner,Shipping_Method,Shipping_Cost,Order_Status,Customer_City
+SHP-10654,2024-05-13,2024-05-22,BlueDart,Standard,,Delivered,San Antonio
+SHP-10076,2024-09-27,2024-10-02,FedEx,Standard,18.67,Delivered,San Diego
+SHP-10316,2024-01-27,2024-01-27,UPS,Same Day,65.23,Delivered,Philadelphia
+SHP-11347,2024-03-16,2024-03-17,DHL,Overnight,37.08,Delivered,Phoenix
+SHP-10571,2024-09-21,,FedEx,Standard,19.1,In Transit,Houston
+SHP-10918,2024-01-25,2024-02-02,UPS,Standard,11.62,Delivered,Los Angeles
+SHP-10754,2024-03-18,2024-03-25,SpeedPost,Express,22.38,Delivered,Los Angeles
+SHP-11466,2024-11-10,2024-11-15,SpeedPost,Standard,19.82,Delivered,San Antonio
+SHP-11339,2024-12-06,,DHL,Standard,10.6,Cancelled,Austin
+SHP-11193,2024-12-09,2024-12-15,UPS,Standard,18.94,Delivered,Phoenix
+SHP-11083,2024-02-07,2024-02-15,BlueDart,Standard,22.35,Delivered,San Diego
+SHP-10874,2024-09-13,2024-10-01,DHL,Standard,13.18,Delivered,Chicago
+SHP-11270,2024-10-14,,FedEx,Standard,18.67,Cancelled,Houston
+SHP-10863,2024-08-01,2024-08-07,UPS,Standard,18.34,Delivered,San Antonio
+SHP-10985,2024-07-30,,FedEx,Standard,13.55,Cancelled,Houston
+SHP-11414,2024-01-25,2024-02-01,UPS,Standard,22.88,Delivered,San Diego
+SHP-11498,2024-09-25,,DHL,Standard,13.81,Cancelled,New York
+SHP-10030,2024-02-28,2024-03-02,UPS,Express,24.39,Delivered,Dallas
+SHP-10049,2024-11-11,2024-11-15,UPS,Express,40.17,Delivered,Philadelphia
+SHP-10240,2024-05-27,2024-05-30,SpeedPost,Express,37.28,Delivered,San Antonio
+SHP-10309,2024-06-06,,DHL,Express,41.59,Cancelled,San Antonio
+SHP-10352,2024-01-18,2024-01-23,DHL,Standard,,Delivered,Philadelphia
+SHP-10124,2024-08-14,,BlueDart,Standard,22.54,Cancelled,Austin
+SHP-11157,2024-09-13,,SpeedPost,Standard,16.71,Cancelled,Los Angeles
+SHP-10650,2024-07-08,2024-07-11,UPS,Standard,10.78,Delivered,Austin
+SHP-10070,2024-02-13,2024-02-14,BlueDart,Overnight,42.64,Delivered,Philadelphia
+SHP-11497,2024-09-03,2024-09-06,FedEx,Express,26.23,Delivered,Phoenix
+SHP-10701,2024-07-10,2024-07-14,BlueDart,Standard,20.48,Delivered,Houston
+SHP-11102,2024-07-02,2024-07-05,FedEx,Express,30.92,Delivered,Los Angeles
+SHP-11316,2024-04-24,,FedEx,Express,43.55,Cancelled,Los Angeles
+SHP-11103,2024-01-15,2024-01-18,UPS,Express,29.81,Delivered,Philadelphia
+SHP-11313,2024-05-07,2024-05-11,DHL,Standard,17.07,Delivered,Los Angeles
+SHP-11481,2024-06-19,,FedEx,Standard,24.1,Returned,Dallas
+SHP-10583,2024-05-23,2024-05-31,DHL,Standard,14.84,Delivered,New York
+SHP-11216,2024-05-20,,UPS,Express,36.2,Cancelled,San Antonio
+SHP-11301,2024-08-13,,FedEx,Express,20.27,In Transit,San Diego
+SHP-10500,2024-09-03,2024-09-06,UPS,Express,41.46,Delivered,Chicago
+SHP-11400,2024-08-31,2024-09-01,BlueDart,Overnight,38.24,Delivered,Houston
+SHP-11188,2024-06-30,2024-07-06,BlueDart,Standard,19.56,Delivered,San Antonio
+SHP-10485,2024-09-02,2024-09-04,FedEx,Overnight,62.08,Delivered,Chicago
+SHP-10882,2024-05-06,,DHL,Express,42.02,Cancelled,San Antonio
+SHP-10949,2024-12-15,2024-12-16,FedEx,Overnight,50.38,Delivered,Philadelphia
+SHP-10610,2024-10-09,2024-10-14,FedEx,Standard,21.32,Delivered,Los Angeles
+SHP-10490,2024-08-10,2024-08-13,BlueDart,Express,22.59,Delivered,Los Angeles
+SHP-10353,2024-10-07,2024-10-15,UPS,Standard,17.71,Delivered,Philadelphia
+SHP-10261,2024-04-21,2024-04-21,UPS,Same Day,46.61,Delivered,Chicago
+SHP-10059,2024-07-24,2024-07-30,DHL,Standard,14.8,Delivered,San Diego
+SHP-11037,2024-08-16,2024-08-17,DHL,Overnight,63.09,Delivered,New York
+SHP-10538,2024-09-05,2024-09-08,UPS,Express,28.17,Delivered,Houston
+SHP-11173,2024-06-02,,UPS,Standard,15.06,In Transit,San Diego
+SHP-10259,2024-05-23,2024-05-29,UPS,Standard,16.03,Delivered,Chicago
+SHP-10765,2024-02-08,2024-02-14,BlueDart,Standard,22.6,Delivered,Los Angeles
+SHP-11495,2024-02-03,2024-02-05,DHL,Express,,Delivered,Chicago
+SHP-11098,2024-10-29,2024-10-30,BlueDart,Overnight,51.7,Delivered,Philadelphia
+SHP-11187,2024-06-27,2024-07-01,UPS,Standard,15.35,Delivered,Austin
+SHP-10462,2024-03-16,2024-03-20,BlueDart,Standard,10.46,Delivered,Dallas
+SHP-10051,2024-08-29,2024-09-05,DHL,Standard,8.26,Delivered,Chicago
+SHP-10471,2024-04-03,2024-04-06,FedEx,Express,25.61,Delivered,Philadelphia
+SHP-10344,2024-07-06,2024-07-13,FedEx,Standard,,Delivered,Austin
+SHP-10677,2024-01-01,,FedEx,Express,31.73,Cancelled,San Diego
+SHP-10303,2024-07-13,2024-07-22,UPS,Standard,8.05,Delivered,Houston
+SHP-10868,2024-11-14,2024-11-18,FedEx,Standard,24.96,Delivered,Austin
+SHP-10023,2024-06-09,2024-06-11,FedEx,Express,44.99,Delivered,Houston
+SHP-10589,2024-07-04,2024-07-13,FedEx,Standard,19.36,Delivered,Dallas
+SHP-11408,2024-01-17,2024-01-20,BlueDart,Standard,21.44,Delivered,San Antonio
+SHP-10461,2024-09-03,2024-09-08,UPS,Standard,10.99,Delivered,San Antonio
+SHP-10858,2024-03-13,2024-03-17,BlueDart,Standard,20.0,Delivered,Phoenix
+SHP-10764,2024-03-12,2024-03-12,SpeedPost,Same Day,82.33,Delivered,San Antonio
+SHP-10759,2024-09-16,2024-09-20,BlueDart,Standard,12.24,Delivered,San Diego
+SHP-10168,2024-10-12,2024-10-15,BlueDart,Express,38.9,Delivered,Chicago
+SHP-11478,2024-04-07,2024-04-14,FedEx,Standard,14.91,Delivered,San Diego
+SHP-10560,2024-09-29,,UPS,Express,41.42,In Transit,San Diego
+SHP-10567,2024-06-25,,SpeedPost,Standard,9.09,In Transit,Austin
+SHP-11477,2024-10-27,2024-10-29,SpeedPost,Express,22.77,Delivered,Houston
+SHP-10237,2024-11-21,2024-11-28,BlueDart,Standard,23.86,Delivered,Phoenix
+SHP-10907,2024-07-20,2024-07-21,DHL,Overnight,61.59,Delivered,Austin
+SHP-11116,2024-10-18,,UPS,Same Day,74.2,In Transit,Dallas
+SHP-10420,2024-12-15,2024-12-18,FedEx,Express,35.65,Delivered,Los Angeles
+SHP-11328,2024-01-04,2024-01-22,DHL,Standard,19.09,Delivered,New York
+SHP-10099,2024-05-08,,DHL,Express,25.85,Cancelled,Phoenix
+SHP-11168,2024-11-04,2024-11-09,FedEx,Standard,20.03,Delivered,New York
+SHP-10824,2024-05-30,,BlueDart,Standard,9.79,In Transit,Philadelphia
+SHP-10415,2024-01-05,2024-01-07,BlueDart,Express,36.41,Delivered,Philadelphia
+SHP-10067,2024-11-05,,FedEx,Same Day,49.26,Cancelled,Phoenix
+SHP-11105,2024-05-15,2024-05-17,SpeedPost,Express,23.14,Delivered,Philadelphia
+SHP-10247,2024-11-03,2024-11-09,FedEx,Standard,18.92,Delivered,New York
+SHP-11176,2024-08-31,2024-09-05,FedEx,Standard,21.29,Delivered,Los Angeles
+SHP-10788,2024-09-08,2024-09-10,FedEx,Express,39.24,Delivered,Dallas
+SHP-11352,2024-01-27,2024-02-01,FedEx,Standard,,Delivered,Philadelphia
+SHP-10838,2024-03-01,2024-03-01,FedEx,Same Day,56.71,Delivered,Houston
+SHP-10554,2024-01-13,2024-01-15,BlueDart,Express,36.48,Delivered,San Antonio
+SHP-10809,2024-07-02,2024-07-10,FedEx,Standard,16.37,Delivered,New York
+SHP-10123,2024-02-04,2024-02-08,FedEx,Standard,14.82,Delivered,Dallas
+SHP-11132,2024-10-28,2024-10-30,DHL,Express,36.54,Delivered,Los Angeles
+SHP-11383,2024-10-21,,FedEx,Standard,18.65,Returned,Dallas
+SHP-10422,2024-12-20,2024-12-21,BlueDart,Overnight,50.17,Delivered,Austin
+SHP-11063,2024-03-03,,BlueDart,Overnight,55.37,Cancelled,Phoenix
+SHP-11121,2024-05-27,2024-05-30,FedEx,Express,41.66,Delivered,San Antonio
+SHP-11026,2024-03-16,2024-03-19,UPS,Standard,21.86,Delivered,Austin
+SHP-11448,2024-02-28,2024-03-11,DHL,Standard,19.21,Delivered,San Antonio
+SHP-10984,2024-10-01,2024-10-01,FedEx,Same Day,48.68,Delivered,New York
+SHP-11259,2024-08-26,2024-08-28,UPS,Express,32.07,Delivered,New York
+SHP-10239,2024-09-15,2024-09-16,DHL,Overnight,47.65,Delivered,San Antonio
+SHP-10367,2024-09-29,2024-10-02,FedEx,Express,31.31,Delivered,Los Angeles
+SHP-10481,2024-12-22,2024-12-24,DHL,Express,30.97,Delivered,San Antonio
+SHP-11034,2024-11-23,,BlueDart,Express,20.36,Cancelled,Houston
+SHP-11399,2024-08-14,2024-08-14,FedEx,Same Day,58.53,Delivered,Los Angeles
+SHP-11101,2024-08-03,2024-08-12,FedEx,Standard,11.13,Delivered,Chicago
+SHP-10990,2024-02-16,,UPS,Overnight,39.34,Delivered,New York
+SHP-11323,2024-12-24,2025-01-03,FedEx,Standard,20.09,Delivered,San Diego
+SHP-10029,2024-02-18,,FedEx,Standard,24.37,In Transit,New York
+SHP-11029,2024-10-22,2024-10-25,UPS,Express,34.13,Delivered,Dallas
+SHP-10342,2024-04-04,2024-04-04,DHL,Same Day,54.69,Delivered,Los Angeles
+SHP-10846,2024-01-22,2024-01-25,UPS,Express,35.56,Delivered,Phoenix
+SHP-10416,2024-04-12,2024-04-17,SpeedPost,Standard,16.02,Delivered,New York
+SHP-10065,2024-04-15,,DHL,Standard,13.66,Cancelled,San Diego
+SHP-10358,2024-12-25,2024-12-30,UPS,Standard,13.06,Delivered,Dallas
+SHP-11232,2024-04-22,2024-04-27,SpeedPost,Standard,25.0,Delivered,Chicago
+SHP-11258,2024-09-05,2024-09-15,BlueDart,Standard,13.27,Delivered,Dallas
+SHP-11035,2024-09-23,2024-09-30,DHL,Standard,9.38,Delivered,Dallas
+SHP-11174,2024-10-17,,DHL,Standard,14.94,Cancelled,Chicago
+SHP-10141,2024-08-28,,FedEx,Express,27.87,Returned,Los Angeles
+SHP-10799,2024-06-14,2024-06-14,UPS,Same Day,76.58,Delivered,New York
+SHP-10950,2024-11-26,2024-12-02,FedEx,Standard,23.88,Delivered,Houston
+SHP-10514,2024-11-25,2024-11-27,UPS,Express,44.2,Delivered,Austin
+SHP-10724,2024-05-25,2024-05-25,SpeedPost,Same Day,52.8,Delivered,Dallas
+SHP-10275,2024-05-10,2024-05-11,BlueDart,Same Day,71.45,Delivered,Austin
+SHP-11274,2024-06-30,2024-06-30,SpeedPost,Same Day,74.42,Delivered,New York
+SHP-11107,2024-06-05,2024-06-08,FedEx,Express,20.89,Delivered,Phoenix
+SHP-10513,2024-06-16,2024-06-20,BlueDart,Express,38.84,Delivered,San Diego
+SHP-10626,2024-10-18,2024-10-21,FedEx,Express,20.34,Delivered,Dallas
+SHP-11138,2024-04-20,2024-04-22,SpeedPost,Express,30.06,Delivered,Los Angeles
+SHP-11043,2024-06-13,2024-06-13,DHL,Same Day,70.92,Delivered,Austin
+SHP-10925,2024-08-15,2024-08-16,BlueDart,Overnight,,Delivered,San Diego
+SHP-11006,2024-06-20,2024-06-21,DHL,Same Day,83.38,Delivered,New York
+SHP-10044,2024-01-21,2024-01-23,DHL,Express,27.18,Delivered,Los Angeles
+SHP-11276,2024-11-06,2024-11-08,BlueDart,Overnight,45.36,Delivered,Houston
+SHP-10270,2024-08-20,2024-08-21,DHL,Same Day,61.18,Delivered,Austin
+SHP-10405,2024-06-28,,SpeedPost,Same Day,81.46,Cancelled,San Antonio
+SHP-11089,2024-11-17,2024-11-18,SpeedPost,Same Day,59.5,Delivered,Austin
+SHP-10115,2024-02-17,2024-02-18,BlueDart,Overnight,52.74,Delivered,New York
+SHP-11057,2024-01-14,,FedEx,Express,35.96,Returned,Chicago
+SHP-11000,2024-09-15,2024-09-25,DHL,Standard,8.93,Delivered,San Antonio
+SHP-10792,2024-04-07,2024-04-11,FedEx,Standard,20.72,Delivered,Phoenix
+SHP-10527,2024-09-20,2024-09-23,FedEx,Express,43.24,Delivered,Phoenix
+SHP-10432,2024-04-29,2024-05-01,DHL,Express,38.27,Delivered,Los Angeles
+SHP-10893,2024-11-07,2024-11-13,BlueDart,Standard,24.35,Delivered,Austin
+SHP-11196,2024-10-11,2024-10-13,FedEx,Express,44.3,Delivered,San Diego
+SHP-10078,2024-09-08,2024-09-09,UPS,Overnight,51.06,Delivered,Phoenix
+SHP-11233,2024-04-23,2024-04-25,FedEx,Express,26.1,Delivered,San Antonio
+SHP-10630,2024-12-29,2025-01-05,UPS,Standard,19.54,Delivered,New York
+SHP-10936,2024-10-08,2024-10-10,SpeedPost,Express,41.05,Delivered,Phoenix
+SHP-11080,2024-10-15,2024-10-23,UPS,Standard,24.84,Delivered,Chicago
+SHP-10629,2024-10-01,2024-10-01,SpeedPost,Same Day,48.04,Delivered,Los Angeles
+SHP-11042,2024-07-31,2024-08-02,FedEx,Express,41.01,Delivered,Houston
+SHP-10015,2024-05-10,2024-05-10,FedEx,Same Day,75.57,Delivered,New York
+SHP-11117,2024-10-08,2024-10-11,FedEx,Express,23.29,Delivered,Phoenix
+SHP-11027,2024-02-04,2024-02-09,BlueDart,Express,42.23,Delivered,Austin
+SHP-10175,2024-10-09,2024-10-12,BlueDart,Express,37.01,Delivered,Dallas
+SHP-10986,2024-08-12,2024-08-17,UPS,Standard,15.43,Delivered,Dallas
+SHP-11311,2024-02-28,2024-03-01,DHL,Overnight,,Delivered,Chicago
+SHP-10865,2024-02-25,2024-03-03,FedEx,Standard,24.05,Delivered,Los Angeles
+SHP-10506,2024-06-11,2024-06-17,DHL,Standard,21.0,Delivered,Chicago
+SHP-10940,2024-12-30,2025-01-02,FedEx,Express,20.79,Delivered,Austin
+SHP-10365,2024-05-06,2024-05-10,UPS,Standard,16.19,Delivered,New York
+SHP-10548,2024-05-30,2024-06-05,UPS,Standard,8.51,Delivered,Phoenix
+SHP-10203,2024-03-21,2024-03-26,FedEx,Standard,20.27,Delivered,Houston
+SHP-10780,2024-10-29,2024-11-04,DHL,Standard,19.58,Delivered,Philadelphia
+SHP-11220,2024-02-01,2024-02-05,BlueDart,Standard,24.47,Delivered,San Antonio
+SHP-11296,2024-01-20,2024-01-21,SpeedPost,Overnight,45.09,Delivered,Austin
+SHP-11261,2024-03-07,2024-03-08,UPS,Overnight,60.17,Delivered,Chicago
+SHP-10808,2024-05-17,,UPS,Overnight,48.68,Cancelled,San Antonio
+SHP-10910,2024-08-18,2024-08-20,SpeedPost,Express,43.05,Delivered,Chicago
+SHP-11387,2024-04-07,2024-04-09,SpeedPost,Express,20.45,Delivered,Chicago
+SHP-10184,2024-06-13,,UPS,Express,42.58,In Transit,Los Angeles
+SHP-11464,2024-06-24,2024-06-28,UPS,Standard,8.34,Delivered,San Diego
+SHP-10479,2024-09-10,2024-09-11,FedEx,Same Day,56.73,Delivered,Chicago
+SHP-10056,2024-04-01,2024-04-03,DHL,Express,33.81,Delivered,Austin
+SHP-11145,2024-10-19,2024-10-25,FedEx,Standard,21.2,Delivered,San Antonio
+SHP-10486,2024-11-20,,BlueDart,Standard,22.83,Cancelled,Dallas
+SHP-10383,2024-01-20,2024-01-27,FedEx,Standard,24.48,Delivered,Chicago
+SHP-10043,2024-05-14,2024-05-15,FedEx,Overnight,42.93,Delivered,Austin
+SHP-10532,2024-07-14,2024-07-17,FedEx,Express,,Delivered,Philadelphia
+SHP-10755,2024-01-01,2024-01-04,BlueDart,Express,21.36,Delivered,Philadelphia
+SHP-11182,2024-12-12,2024-12-16,BlueDart,Standard,,Delivered,Los Angeles
+SHP-10596,2024-08-22,2024-08-30,DHL,Standard,18.33,Delivered,Dallas
+SHP-10101,2024-03-03,2024-03-10,SpeedPost,Standard,16.8,Delivered,San Antonio
+SHP-10551,2024-02-06,,DHL,Same Day,62.26,Cancelled,Los Angeles
+SHP-10578,2024-03-09,2024-03-10,BlueDart,Overnight,55.1,Delivered,Austin
+SHP-10107,2024-08-18,,DHL,Standard,13.49,Cancelled,Phoenix
+SHP-11289,2024-01-02,,SpeedPost,Express,30.04,In Transit,Philadelphia
+SHP-11068,2024-11-04,2024-11-05,FedEx,Overnight,63.02,Delivered,New York
+SHP-10220,2024-09-03,2024-09-05,SpeedPost,Overnight,61.47,Delivered,Philadelphia
+SHP-10943,2024-05-29,2024-06-01,SpeedPost,Express,30.38,Delivered,San Diego
+SHP-10451,2024-04-27,2024-05-02,BlueDart,Standard,19.09,Delivered,Chicago
+SHP-11496,2024-09-07,2024-09-10,UPS,Express,24.08,Delivered,Philadelphia
+SHP-10886,2024-01-28,2024-01-28,DHL,Same Day,80.53,Delivered,Austin
+SHP-10722,2024-10-15,,FedEx,Express,24.21,Delivered,San Diego
+SHP-10128,2024-01-05,2024-01-10,DHL,Express,35.06,Delivered,Phoenix
+SHP-10332,2024-06-06,,BlueDart,Standard,17.45,Returned,Chicago
+SHP-10297,2024-06-09,,DHL,Express,41.47,In Transit,Los Angeles
+SHP-11461,2024-04-26,2024-04-26,FedEx,Same Day,53.19,Delivered,Austin
+SHP-10704,2024-07-30,2024-07-31,FedEx,Overnight,56.09,Delivered,New York
+SHP-10678,2024-02-23,2024-02-27,FedEx,Standard,16.58,Delivered,Phoenix
+SHP-10244,2024-05-27,,FedEx,Standard,9.91,Cancelled,New York
+SHP-10974,2024-07-12,2024-07-15,UPS,Express,37.78,Delivered,New York
+SHP-10661,2024-10-29,2024-11-01,FedEx,Express,42.37,Delivered,Los Angeles
+SHP-10844,2024-06-18,2024-06-22,BlueDart,Express,22.35,Delivered,Austin
+SHP-10706,2024-08-27,2024-08-30,DHL,Standard,11.12,Delivered,New York
+SHP-11167,2024-05-28,,DHL,Same Day,48.01,In Transit,Phoenix
+SHP-10231,2024-08-27,2024-08-28,BlueDart,Overnight,47.41,Delivered,Los Angeles
+SHP-10032,2024-07-06,2024-07-10,SpeedPost,Standard,23.56,Delivered,Houston
+SHP-11197,2024-03-03,,DHL,Same Day,46.5,In Transit,San Antonio
+SHP-10494,2024-09-13,2024-09-15,FedEx,Express,33.72,Delivered,San Diego
+SHP-10598,2024-05-25,2024-05-31,FedEx,Standard,11.53,Delivered,Chicago
+SHP-11288,2024-03-22,2024-04-01,UPS,Standard,16.88,Delivered,Houston
+SHP-11181,2024-07-28,2024-07-29,BlueDart,Overnight,43.77,Delivered,San Diego
+SHP-10350,2024-11-18,2024-11-23,DHL,Express,21.46,Delivered,Phoenix
+SHP-10989,2024-05-19,2024-05-24,UPS,Standard,8.94,Delivered,Dallas
+SHP-11151,2024-02-20,2024-02-23,FedEx,Standard,15.41,Delivered,Los Angeles
+SHP-10964,2024-01-06,2024-01-14,BlueDart,Standard,17.68,Delivered,Philadelphia
+SHP-11310,2024-04-29,2024-05-04,UPS,Standard,21.21,Delivered,Dallas
+SHP-10411,2024-09-20,2024-09-23,DHL,Express,24.94,Delivered,Phoenix
+SHP-10163,2024-10-10,2024-10-17,DHL,Express,32.07,Delivered,Philadelphia
+SHP-10903,2024-01-15,2024-01-16,UPS,Overnight,38.38,Delivered,Chicago
+SHP-10497,2024-01-16,2024-01-21,UPS,Standard,17.19,Delivered,Houston
+SHP-10306,2024-06-24,2024-06-29,UPS,Standard,12.41,Delivered,Dallas
+SHP-10433,2024-11-14,2024-11-16,UPS,Express,27.19,Delivered,Philadelphia
+SHP-10669,2024-08-14,2024-08-21,FedEx,Standard,20.56,Delivered,San Diego
+SHP-10599,2024-08-26,,FedEx,Same Day,77.54,Cancelled,Phoenix
+SHP-10371,2024-06-24,2024-06-29,UPS,Standard,22.25,Delivered,Los Angeles
+SHP-11421,2024-04-11,2024-04-13,UPS,Express,27.64,Delivered,Phoenix
+SHP-11212,2024-02-18,,FedEx,Express,44.96,Cancelled,San Antonio
+SHP-11084,2024-04-06,,FedEx,Standard,12.07,Cancelled,Philadelphia
+SHP-10192,2024-04-05,2024-04-06,UPS,Overnight,50.94,Delivered,San Antonio
+SHP-11110,2024-11-27,,UPS,Standard,11.53,Returned,Dallas
+SHP-11097,2024-06-07,2024-06-10,BlueDart,Express,37.88,Delivered,Los Angeles
+SHP-10926,2024-04-20,2024-04-23,FedEx,Express,42.26,Delivered,Phoenix
+SHP-10063,2024-01-02,2024-01-03,SpeedPost,Overnight,51.93,Delivered,Chicago
+SHP-10707,2024-02-15,2024-02-18,FedEx,Express,30.79,Delivered,Phoenix
+SHP-11146,2024-11-23,2024-11-28,DHL,Standard,20.74,Delivered,Philadelphia
+SHP-11203,2024-03-24,,SpeedPost,Standard,9.62,Returned,New York
+SHP-10939,2024-11-10,2024-11-12,FedEx,Overnight,55.14,Delivered,Dallas
+SHP-10908,2024-02-08,2024-02-14,FedEx,Standard,22.24,Delivered,Chicago
+SHP-10274,2024-07-26,2024-07-28,BlueDart,Express,25.91,Delivered,Phoenix
+SHP-11375,2024-01-29,2024-02-04,DHL,Standard,21.72,Delivered,New York
+SHP-10668,2024-06-12,2024-06-12,FedEx,Same Day,67.4,Delivered,Chicago
+SHP-11377,2024-09-23,2024-09-26,DHL,Standard,14.56,Delivered,Dallas
+SHP-10198,2024-09-24,2024-09-26,FedEx,Overnight,61.34,Delivered,Phoenix
+SHP-10453,2024-03-29,,FedEx,Same Day,60.91,In Transit,San Antonio
+SHP-10339,2024-12-14,,SpeedPost,Express,31.25,In Transit,Philadelphia
+SHP-11036,2024-12-26,,DHL,Express,34.43,Returned,San Diego
+SHP-10889,2024-12-30,2025-01-03,UPS,Express,20.98,Delivered,Dallas
+SHP-10271,2024-04-08,,UPS,Standard,15.75,Cancelled,Austin
+SHP-10576,2024-12-04,2024-12-10,DHL,Standard,,Delivered,Los Angeles
+SHP-10218,2024-06-08,2024-06-09,UPS,Overnight,37.17,Delivered,Phoenix
+SHP-10796,2024-12-12,2024-12-17,DHL,Express,36.44,Delivered,New York
+SHP-11236,2024-11-14,2024-11-22,DHL,Standard,12.44,Delivered,Phoenix
+SHP-10427,2024-05-03,2024-05-05,DHL,Express,27.01,Delivered,New York
+SHP-10351,2024-05-07,2024-05-11,UPS,Express,43.03,Delivered,San Antonio
+SHP-11030,2024-11-15,2024-11-19,FedEx,Express,36.74,Delivered,Dallas
+SHP-11262,2024-02-20,,FedEx,Express,27.44,In Transit,Philadelphia
+SHP-10324,2024-05-26,,DHL,Overnight,48.43,Cancelled,Austin
+SHP-10413,2024-02-29,2024-03-04,UPS,Standard,20.52,Delivered,Austin
+SHP-11335,2024-03-15,,DHL,Standard,10.08,Cancelled,Dallas
+SHP-11040,2024-10-12,2024-10-14,FedEx,Express,33.2,Delivered,San Diego
+SHP-10694,2024-11-11,2024-11-16,DHL,Standard,18.48,Delivered,Houston
+SHP-11093,2024-11-25,2024-11-28,SpeedPost,Express,,Delivered,San Antonio
+SHP-11483,2024-12-29,2024-12-31,DHL,Express,41.87,Delivered,Los Angeles
+SHP-11155,2024-08-01,2024-08-05,FedEx,Standard,20.69,Delivered,Chicago
+SHP-10289,2024-06-01,,BlueDart,Standard,8.36,Cancelled,Houston
+SHP-11169,2024-05-16,2024-05-17,FedEx,Overnight,49.49,Delivered,San Diego
+SHP-11422,2024-12-19,,DHL,Express,39.53,Returned,San Diego
+SHP-11005,2024-05-17,2024-05-27,BlueDart,Standard,,Delivered,San Diego
+SHP-11004,2024-09-17,,FedEx,Standard,21.71,Cancelled,San Diego
+SHP-10618,2024-12-30,,UPS,Standard,15.22,In Transit,Los Angeles
+SHP-10997,2024-05-18,2024-05-25,UPS,Express,22.74,Delivered,Dallas
+SHP-10277,2024-02-23,2024-02-29,FedEx,Standard,14.27,Delivered,New York
+SHP-11189,2024-05-31,2024-06-07,DHL,Standard,18.35,Delivered,San Antonio
+SHP-10861,2024-02-16,,FedEx,Overnight,41.66,Cancelled,San Diego
+SHP-10236,2024-07-05,2024-07-07,FedEx,Express,44.22,Delivered,Los Angeles
+SHP-10614,2024-01-29,,DHL,Standard,10.43,In Transit,Dallas
+SHP-11330,2024-01-29,2024-02-01,UPS,Standard,14.09,Delivered,New York
+SHP-11475,2024-04-17,2024-04-21,UPS,Standard,8.05,Delivered,Phoenix
+SHP-11397,2024-08-26,,DHL,Standard,24.74,Cancelled,San Antonio
+SHP-11302,2024-02-22,2024-02-29,FedEx,Standard,21.2,Delivered,Houston
+SHP-10208,2024-08-07,,DHL,Express,21.34,Cancelled,San Diego
+SHP-10380,2024-11-08,2024-11-12,UPS,Standard,16.26,Delivered,Los Angeles
+SHP-11247,2024-10-14,2024-10-14,DHL,Same Day,45.76,Delivered,San Antonio
+SHP-10938,2024-08-13,,FedEx,Standard,13.38,Cancelled,San Diego
+SHP-10058,2024-02-04,2024-02-06,SpeedPost,Express,26.86,Delivered,Austin
+SHP-10382,2024-06-21,2024-06-26,UPS,Express,33.2,Delivered,Dallas
+SHP-10374,2024-09-03,2024-09-06,UPS,Overnight,64.03,Delivered,San Diego
+SHP-10429,2024-06-06,2024-06-10,DHL,Standard,17.93,Delivered,Los Angeles
+SHP-10994,2024-11-15,2024-11-20,UPS,Standard,8.93,Delivered,Dallas
+SHP-11225,2024-05-23,2024-05-23,SpeedPost,Same Day,51.86,Delivered,San Antonio
+SHP-10741,2024-01-06,,DHL,Standard,22.19,Delivered,San Antonio
+SHP-11235,2024-06-14,,DHL,Standard,17.97,Delivered,San Diego
+SHP-10361,2024-04-23,2024-04-27,SpeedPost,Standard,16.91,Delivered,Philadelphia
+SHP-11079,2024-06-05,2024-06-10,FedEx,Standard,14.48,Delivered,New York
+SHP-10464,2024-05-23,2024-05-28,SpeedPost,Standard,23.55,Delivered,Los Angeles
+SHP-10582,2024-05-30,2024-05-30,DHL,Same Day,64.2,Delivered,Chicago
+SHP-11178,2024-03-30,2024-04-03,UPS,Standard,16.14,Delivered,Chicago
+SHP-10841,2024-10-03,2024-10-06,UPS,Express,40.81,Delivered,Los Angeles
+SHP-11067,2024-08-12,2024-08-16,BlueDart,Standard,18.26,Delivered,San Diego
+SHP-10233,2024-04-06,2024-04-16,FedEx,Standard,14.38,Delivered,Dallas
+SHP-11431,2024-11-06,,SpeedPost,Standard,22.79,Returned,Phoenix
+SHP-10196,2024-11-13,2024-11-14,SpeedPost,Overnight,40.17,Delivered,Austin
+SHP-10664,2024-07-31,2024-08-04,BlueDart,Standard,20.27,Delivered,Philadelphia
+SHP-11287,2024-07-06,2024-07-13,UPS,Standard,14.78,Delivered,Houston
+SHP-10081,2024-07-31,2024-08-05,SpeedPost,Standard,24.28,Delivered,Phoenix
+SHP-11433,2024-01-12,,DHL,Standard,19.52,Cancelled,San Antonio
+SHP-10998,2024-12-21,2024-12-23,FedEx,Express,34.18,Delivered,Philadelphia
+SHP-11429,2024-11-25,,DHL,Standard,20.01,Cancelled,San Diego
+SHP-10111,2024-07-19,2024-07-19,FedEx,Same Day,49.24,Delivered,Dallas
+SHP-11304,2024-12-07,2024-12-09,BlueDart,Express,21.49,Delivered,Phoenix
+SHP-10806,2024-05-12,2024-05-17,SpeedPost,Standard,22.21,Delivered,Los Angeles
+SHP-11013,2024-04-10,,BlueDart,Standard,17.86,Cancelled,Philadelphia
+SHP-11440,2024-03-21,2024-03-27,UPS,Standard,8.33,Delivered,New York
+SHP-11293,2024-08-21,,DHL,Express,38.07,In Transit,Phoenix
+SHP-10674,2024-10-31,2024-11-01,UPS,Overnight,44.04,Delivered,Houston
+SHP-10310,2024-02-07,2024-02-12,DHL,Standard,23.59,Delivered,New York
+SHP-10611,2024-05-01,2024-05-04,BlueDart,Express,43.05,Delivered,Houston
+SHP-10922,2024-04-18,2024-04-23,SpeedPost,Standard,16.22,Delivered,Austin
+SHP-10917,2024-07-30,2024-07-31,FedEx,Overnight,45.67,Delivered,San Diego
+SHP-10845,2024-11-12,2024-11-20,UPS,Standard,24.17,Delivered,Philadelphia
+SHP-11133,2024-12-28,2024-12-28,BlueDart,Same Day,80.28,Delivered,Philadelphia
+SHP-10619,2024-11-16,2024-11-20,UPS,Standard,10.18,Delivered,San Antonio
+SHP-10366,2024-06-03,2024-06-06,FedEx,Express,38.9,Delivered,Houston
+SHP-11160,2024-12-11,2024-12-13,BlueDart,Express,38.3,Delivered,San Antonio
+SHP-11242,2024-10-14,2024-10-18,UPS,Express,35.1,Delivered,San Antonio
+SHP-10425,2024-05-23,2024-05-27,SpeedPost,Standard,19.15,Delivered,Austin
+SHP-10881,2024-10-29,2024-11-02,FedEx,Express,39.29,Delivered,San Antonio
+SHP-10829,2024-12-25,2024-12-31,FedEx,Standard,12.34,Delivered,Dallas
+SHP-11353,2024-11-08,2024-11-12,BlueDart,Standard,23.83,Delivered,Dallas
+SHP-11403,2024-07-19,2024-07-26,UPS,Standard,8.55,Delivered,Los Angeles
+SHP-10649,2024-12-13,2024-12-13,FedEx,Same Day,55.52,Delivered,New York
+SHP-10588,2024-02-11,,BlueDart,Express,20.13,Cancelled,Dallas
+SHP-11209,2024-03-03,2024-03-08,FedEx,Standard,15.57,Delivered,Houston
+SHP-11430,2024-02-26,2024-03-03,FedEx,Standard,16.49,Delivered,Houston
+SHP-10782,2024-08-16,2024-08-22,UPS,Standard,23.02,Delivered,Houston
+SHP-11309,2024-06-06,2024-06-13,UPS,Standard,22.47,Delivered,Chicago
+SHP-10254,2024-05-30,2024-05-31,SpeedPost,Overnight,55.17,Delivered,San Antonio
+SHP-10322,2024-11-12,,DHL,Express,39.88,Cancelled,Los Angeles
+SHP-11114,2024-04-24,,FedEx,Overnight,47.33,Cancelled,Austin
+SHP-10428,2024-04-15,2024-04-15,BlueDart,Same Day,77.82,Delivered,Philadelphia
+SHP-10575,2024-02-21,2024-02-25,FedEx,Express,35.76,Delivered,Dallas
+SHP-11075,2024-06-27,2024-06-30,DHL,Express,40.02,Delivered,Austin
+SHP-10869,2024-02-17,2024-02-18,FedEx,Overnight,61.61,Delivered,Los Angeles
+SHP-10354,2024-08-10,2024-08-12,BlueDart,Express,20.22,Delivered,San Antonio
+SHP-11467,2024-08-02,2024-08-07,FedEx,Standard,10.04,Delivered,Houston
+SHP-10086,2024-10-06,,SpeedPost,Standard,8.93,In Transit,San Diego
+SHP-11450,2024-01-26,2024-02-17,UPS,Standard,24.7,Delivered,Chicago
+SHP-10265,2024-09-10,2024-09-13,FedEx,Express,40.06,Delivered,San Antonio
+SHP-10287,2024-04-21,2024-04-28,DHL,Standard,18.31,Delivered,San Diego
+SHP-10169,2024-11-26,2024-11-26,SpeedPost,Same Day,64.34,Delivered,San Diego
+SHP-10438,2024-08-16,2024-08-23,UPS,Standard,15.45,Delivered,San Diego
+SHP-11424,2024-10-01,2024-10-04,FedEx,Standard,12.11,Delivered,Philadelphia
+SHP-11085,2024-10-15,2024-10-16,DHL,Overnight,47.46,Delivered,Philadelphia
+SHP-10439,2024-04-26,2024-04-27,UPS,Overnight,53.33,Delivered,Austin
+SHP-10756,2024-02-20,2024-02-22,DHL,Express,38.14,Delivered,San Antonio
+SHP-10221,2024-11-19,2024-11-21,SpeedPost,Express,23.68,Delivered,San Diego
+SHP-10113,2024-09-24,,FedEx,Standard,12.91,Returned,Austin
+SHP-10590,2024-08-10,2024-08-17,UPS,Standard,24.53,Delivered,Chicago
+SHP-10601,2024-01-09,2024-01-09,DHL,Same Day,71.46,Delivered,Phoenix
+SHP-10174,2024-08-12,,SpeedPost,Overnight,49.45,Cancelled,Philadelphia
+SHP-10552,2024-09-24,2024-09-24,UPS,Same Day,75.54,Delivered,San Diego
+SHP-10381,2024-02-05,2024-02-09,DHL,Standard,19.29,Delivered,Dallas
+SHP-11200,2024-06-04,2024-06-09,FedEx,Standard,18.77,Delivered,Austin
+SHP-10018,2024-09-14,2024-09-21,BlueDart,Standard,22.51,Delivered,New York
+SHP-11190,2024-01-25,2024-01-28,DHL,Standard,21.07,Delivered,New York
+SHP-10285,2024-09-10,2024-09-17,DHL,Standard,8.26,Delivered,Dallas
+SHP-11210,2024-07-07,2024-07-12,DHL,Standard,9.92,Delivered,Houston
+SHP-10746,2024-09-15,,BlueDart,Standard,13.24,In Transit,Phoenix
+SHP-11221,2024-06-06,2024-06-12,SpeedPost,Standard,24.86,Delivered,Los Angeles
+SHP-10031,2024-06-18,2024-06-18,SpeedPost,Same Day,52.1,Delivered,Philadelphia
+SHP-11161,2024-04-19,2024-04-24,SpeedPost,Standard,14.52,Delivered,Austin
+SHP-10210,2024-12-08,,DHL,Standard,8.84,Returned,Philadelphia
+SHP-10999,2024-11-28,2024-12-03,BlueDart,Standard,23.78,Delivered,Houston
+SHP-10478,2024-10-15,2024-10-23,UPS,Standard,23.56,Delivered,Chicago
+SHP-10836,2024-04-02,2024-04-04,BlueDart,Express,35.77,Delivered,Austin
+SHP-10043,2024-05-14,2024-05-15,FedEx,Overnight,42.93,Delivered,Austin
+SHP-10962,2024-02-05,2024-02-08,DHL,Express,35.52,Delivered,Philadelphia
+SHP-10394,2024-02-20,2024-02-21,FedEx,Same Day,49.53,Delivered,Chicago
+SHP-11192,2024-07-16,2024-07-16,BlueDart,Same Day,63.91,Delivered,Houston
+SHP-10188,2024-06-20,,FedEx,Express,36.21,Returned,Austin
+SHP-11175,2024-03-03,2024-03-08,BlueDart,Standard,13.52,Delivered,Chicago
+SHP-10966,2024-08-07,,FedEx,Same Day,50.66,Cancelled,San Diego
+SHP-10634,2024-07-20,2024-07-27,DHL,Standard,11.98,Delivered,Austin
+SHP-10493,2024-04-05,2024-04-13,DHL,Standard,8.19,Delivered,Phoenix
+SHP-11341,2024-12-21,2024-12-21,UPS,Same Day,54.52,Delivered,Houston
+SHP-10931,2024-03-23,2024-03-26,SpeedPost,Express,22.75,Delivered,Chicago
+SHP-10083,2024-08-24,2024-08-25,SpeedPost,Same Day,67.59,Delivered,Chicago
+SHP-10693,2024-07-04,2024-07-07,FedEx,Express,22.9,Delivered,San Diego
+SHP-10048,2024-03-29,2024-03-29,BlueDart,Same Day,69.14,Delivered,New York
+SHP-11137,2024-07-28,2024-08-01,FedEx,Standard,17.77,Delivered,Los Angeles
+SHP-10155,2024-08-30,2024-09-06,FedEx,Standard,8.17,Delivered,New York
+SHP-10426,2024-09-25,,BlueDart,Same Day,54.57,In Transit,New York
+SHP-11163,2024-11-08,2024-11-09,UPS,Same Day,64.27,Delivered,Philadelphia
+SHP-10435,2024-04-01,2024-04-04,UPS,Standard,9.19,Delivered,San Diego
+SHP-11073,2024-05-13,2024-05-16,FedEx,Express,24.66,Delivered,San Diego
+SHP-10834,2024-07-13,2024-07-14,UPS,Overnight,59.65,Delivered,Los Angeles
+SHP-11255,2024-09-11,2024-09-18,DHL,Standard,18.46,Delivered,Phoenix
+SHP-10900,2024-09-30,2024-10-05,FedEx,Standard,14.34,Delivered,San Diego
+SHP-10535,2024-03-15,2024-03-17,UPS,Express,,Delivered,New York
+SHP-10179,2024-09-15,2024-09-20,UPS,Standard,21.01,Delivered,Chicago
+SHP-10543,2024-06-25,2024-07-02,DHL,Express,31.14,Delivered,Philadelphia
+SHP-11273,2024-06-13,,UPS,Standard,19.99,Cancelled,Dallas
+SHP-10631,2024-06-30,,SpeedPost,Overnight,40.28,Cancelled,Los Angeles
+SHP-10714,2024-01-10,2024-01-12,FedEx,Express,42.8,Delivered,San Antonio
+SHP-10843,2024-04-01,2024-04-05,BlueDart,Standard,20.46,Delivered,San Diego
+SHP-10363,2024-12-07,2024-12-11,FedEx,Express,20.95,Delivered,New York
+SHP-11201,2024-02-18,2024-02-23,BlueDart,Standard,9.8,Delivered,New York
+SHP-11223,2024-10-31,2024-11-02,FedEx,Express,36.59,Delivered,Dallas
+SHP-10346,2024-07-09,,UPS,Standard,8.33,In Transit,Austin
+SHP-10818,2024-05-05,2024-05-15,FedEx,Standard,20.72,Delivered,Phoenix
+SHP-10534,2024-04-23,2024-04-26,UPS,Standard,21.36,Delivered,Houston
+SHP-10679,2024-09-15,2024-09-19,FedEx,Standard,17.95,Delivered,Austin
+SHP-11320,2024-02-09,2024-02-12,DHL,Express,40.14,Delivered,Phoenix
+SHP-10607,2024-05-20,2024-05-23,FedEx,Express,21.41,Delivered,San Diego
+SHP-11269,2024-03-18,,UPS,Same Day,83.44,In Transit,New York
+SHP-10941,2024-08-16,,FedEx,Standard,20.35,In Transit,Los Angeles
+SHP-10243,2024-05-26,2024-05-27,BlueDart,Overnight,47.43,Delivered,Phoenix
+SHP-11485,2024-01-15,2024-01-21,FedEx,Standard,24.68,Delivered,San Antonio
+SHP-11425,2024-04-10,2024-04-12,BlueDart,Express,36.81,Delivered,Houston
+SHP-10636,2024-01-19,,FedEx,Standard,19.13,In Transit,San Antonio
+SHP-11128,2024-07-18,2024-07-22,FedEx,Standard,16.71,Delivered,Chicago
+SHP-11185,2024-12-29,2024-12-31,SpeedPost,Overnight,55.08,Delivered,New York
+SHP-11090,2024-01-10,2024-01-12,FedEx,Express,34.67,Delivered,San Antonio
+SHP-11449,2024-12-30,2025-01-02,UPS,Standard,23.47,Delivered,Austin
+SHP-10812,2024-12-05,2024-12-07,BlueDart,Express,40.67,Delivered,Philadelphia
+SHP-10308,2024-08-25,2024-08-29,DHL,Standard,15.72,Delivered,Houston
+SHP-10430,2024-05-26,2024-05-28,DHL,Express,32.71,Delivered,New York
+SHP-11101,2024-08-03,2024-08-12,FedEx,Standard,11.13,Delivered,Chicago
+SHP-10398,2024-07-08,2024-07-13,FedEx,Standard,17.93,Delivered,Dallas
+SHP-10423,2024-11-06,2024-11-10,SpeedPost,Standard,9.31,Delivered,San Antonio
+SHP-10370,2024-09-02,,UPS,Standard,13.44,Returned,Austin
+SHP-10054,2024-02-22,2024-02-23,FedEx,Same Day,50.53,Delivered,Austin
+SHP-10787,2024-07-10,,UPS,Standard,24.35,In Transit,San Diego
+SHP-11165,2024-11-14,2024-11-20,UPS,Standard,22.03,Delivered,Los Angeles
+SHP-10993,2024-05-21,2024-05-23,DHL,Overnight,54.19,Delivered,Austin
+SHP-10312,2024-12-30,,BlueDart,Express,23.84,Cancelled,Phoenix
+SHP-11340,2024-02-11,2024-02-16,FedEx,Standard,8.17,Delivered,Philadelphia
+SHP-10591,2024-05-01,2024-05-01,FedEx,Same Day,69.27,Delivered,Chicago
+SHP-10109,2024-01-28,2024-02-02,FedEx,Express,29.08,Delivered,Dallas
+SHP-11088,2024-03-26,,DHL,Overnight,48.79,Cancelled,Houston
+SHP-10810,2024-11-25,,FedEx,Express,20.92,In Transit,San Antonio
+SHP-10100,2024-05-15,2024-05-19,FedEx,Express,21.5,Delivered,Philadelphia
+SHP-10482,2024-01-23,2024-01-24,SpeedPost,Overnight,57.81,Delivered,Dallas
+SHP-10691,2024-03-30,,SpeedPost,Express,27.47,In Transit,Dallas
+SHP-11404,2024-06-02,2024-06-08,SpeedPost,Standard,16.84,Delivered,San Diego
+SHP-10266,2024-05-19,2024-05-19,DHL,Same Day,58.95,Delivered,San Antonio
+SHP-10700,2024-08-15,2024-08-18,DHL,Express,33.18,Delivered,Chicago
+SHP-10296,2024-06-17,2024-06-27,BlueDart,Standard,13.27,Delivered,Chicago
+SHP-11343,2024-02-03,2024-02-08,BlueDart,Standard,11.56,Delivered,San Antonio
+SHP-10974,2024-07-12,2024-07-15,UPS,Express,37.78,Delivered,New York
+SHP-10720,2024-01-05,,SpeedPost,Express,41.06,In Transit,Houston
+SHP-11204,2024-12-26,2024-12-28,FedEx,Express,22.37,Delivered,San Antonio
+SHP-10377,2024-11-01,2024-11-04,SpeedPost,Express,44.9,Delivered,Phoenix
+SHP-10286,2024-08-14,2024-08-17,FedEx,Express,24.17,Delivered,Philadelphia
+SHP-11468,2024-03-22,2024-03-28,BlueDart,Standard,11.92,Delivered,Dallas
+SHP-10752,2024-05-24,2024-05-29,SpeedPost,Standard,17.25,Delivered,Houston
+SHP-10126,2024-05-10,2024-05-10,DHL,Same Day,,Delivered,Dallas
+SHP-10327,2024-07-10,2024-07-20,UPS,Standard,15.95,Delivered,Austin
+SHP-10292,2024-07-12,2024-07-22,DHL,Standard,9.25,Delivered,Dallas
+SHP-10566,2024-01-19,2024-01-25,DHL,Standard,17.31,Delivered,Phoenix
+SHP-11395,2024-09-06,2024-09-09,UPS,Standard,24.82,Delivered,Los Angeles
+SHP-10670,2024-05-26,2024-05-28,BlueDart,Express,40.32,Delivered,Phoenix
+SHP-10355,2024-02-23,2024-02-27,UPS,Standard,12.38,Delivered,Chicago
+SHP-11245,2024-03-27,2024-04-14,BlueDart,Standard,9.43,Delivered,Chicago
+SHP-10170,2024-05-07,2024-05-10,FedEx,Express,22.79,Delivered,Houston
+SHP-11391,2024-09-02,2024-09-05,FedEx,Express,27.82,Delivered,Houston
+SHP-10528,2024-04-02,2024-04-05,UPS,Standard,18.68,Delivered,Dallas
+SHP-10643,2024-05-05,2024-05-12,FedEx,Standard,9.8,Delivered,New York
+SHP-11295,2024-04-28,2024-05-04,UPS,Standard,12.25,Delivered,Dallas
+SHP-10209,2024-02-23,2024-02-24,UPS,Overnight,48.37,Delivered,Chicago
+SHP-10620,2024-12-07,2024-12-08,UPS,Overnight,38.69,Delivered,Los Angeles
+SHP-11349,2024-04-26,2024-05-02,DHL,Standard,12.8,Delivered,New York
+SHP-10140,2024-08-18,2024-08-24,DHL,Standard,20.16,Delivered,Phoenix
+SHP-11100,2024-12-30,2025-01-01,FedEx,Express,43.24,Delivered,Houston
+SHP-11054,2024-11-23,,UPS,Standard,23.85,Cancelled,Phoenix
+SHP-11170,2024-07-20,2024-07-24,FedEx,Express,42.41,Delivered,San Diego
+SHP-11213,2024-11-22,2024-11-23,SpeedPost,Overnight,61.67,Delivered,Chicago
+SHP-10817,2024-07-23,2024-07-26,UPS,Standard,15.1,Delivered,San Diego
+SHP-11246,2024-02-24,,BlueDart,Same Day,55.37,In Transit,Philadelphia
+SHP-10615,2024-06-13,2024-06-17,DHL,Standard,16.65,Delivered,San Diego
+SHP-10199,2024-10-21,2024-10-27,DHL,Standard,17.34,Delivered,Los Angeles
+SHP-11050,2024-08-24,2024-08-25,UPS,Same Day,74.98,Delivered,Phoenix
+SHP-11240,2024-12-24,2024-12-26,DHL,Overnight,35.78,Delivered,Philadelphia
+SHP-10730,2024-10-08,2024-10-08,BlueDart,Same Day,56.63,Delivered,Dallas
+SHP-10745,2024-12-23,,UPS,Overnight,45.08,Cancelled,Phoenix
+SHP-11426,2024-02-13,,UPS,Standard,11.34,Cancelled,Los Angeles
+SHP-10010,2024-11-26,2024-11-30,DHL,Standard,20.05,Delivered,San Antonio
+SHP-10147,2024-05-22,2024-05-25,UPS,Standard,13.72,Delivered,Philadelphia
+SHP-10743,2024-12-16,2024-12-16,FedEx,Same Day,72.93,Delivered,San Antonio
+SHP-10282,2024-04-22,2024-04-26,UPS,Standard,9.72,Delivered,Dallas
+SHP-10298,2024-03-08,2024-03-11,UPS,Standard,19.91,Delivered,Austin
+SHP-10721,2024-04-28,2024-05-01,FedEx,Express,39.02,Delivered,Austin
+SHP-10291,2024-12-03,2024-12-09,SpeedPost,Standard,23.34,Delivered,Los Angeles
+SHP-10526,2024-03-30,2024-04-03,FedEx,Standard,22.16,Delivered,San Antonio
+SHP-11058,2024-10-14,,DHL,Express,27.17,Cancelled,San Antonio
+SHP-11374,2024-10-08,2024-10-09,BlueDart,Overnight,42.43,Delivered,Houston
+SHP-10570,2024-03-16,2024-03-17,UPS,Overnight,61.87,Delivered,Phoenix
+SHP-10522,2024-08-29,2024-09-07,DHL,Standard,17.1,Delivered,Austin
+SHP-10129,2024-08-05,2024-08-09,BlueDart,Standard,9.82,Delivered,New York
+SHP-10597,2024-11-26,2024-11-26,FedEx,Same Day,61.11,Delivered,Philadelphia
+SHP-10331,2024-08-07,2024-08-10,DHL,Express,31.38,Delivered,Dallas
+SHP-10323,2024-10-30,,FedEx,Same Day,50.42,In Transit,Chicago
+SHP-11453,2024-09-22,,SpeedPost,Express,21.41,In Transit,Austin
+SHP-11018,2024-04-03,2024-04-11,BlueDart,Standard,24.83,Delivered,Philadelphia
+SHP-10651,2024-07-09,,SpeedPost,Express,29.07,Cancelled,Houston
+SHP-10135,2024-12-11,2024-12-12,BlueDart,Overnight,41.78,Delivered,Philadelphia
+SHP-10544,2024-04-08,2024-04-16,SpeedPost,Standard,23.23,Delivered,San Antonio
+SHP-10946,2024-03-10,,DHL,Express,28.06,Cancelled,Los Angeles
+SHP-10680,2024-05-23,,UPS,Standard,16.72,Cancelled,New York
+SHP-10711,2024-09-12,2024-09-14,FedEx,Express,41.52,Delivered,Dallas
+SHP-10158,2024-03-06,,SpeedPost,Standard,22.53,Cancelled,Houston
+SHP-10852,2024-12-11,2024-12-13,BlueDart,Overnight,49.64,Delivered,New York
+SHP-11492,2024-11-06,2024-11-11,FedEx,Standard,,Delivered,Chicago
+SHP-10195,2024-04-22,2024-04-27,DHL,Standard,22.72,Delivered,New York
+SHP-11486,2024-01-04,2024-01-11,FedEx,Standard,23.75,Delivered,Dallas
+SHP-10529,2024-03-30,2024-03-31,FedEx,Overnight,46.85,Delivered,New York
+SHP-10410,2024-04-10,2024-04-20,UPS,Standard,23.6,Delivered,Phoenix
+SHP-10096,2024-11-22,2024-11-22,FedEx,Same Day,82.29,Delivered,Houston
+SHP-10602,2024-03-14,2024-03-20,DHL,Standard,12.02,Delivered,San Diego
+SHP-10156,2024-03-26,2024-04-03,FedEx,Standard,9.28,Delivered,New York
+SHP-10419,2024-12-30,2025-01-09,DHL,Standard,18.61,Delivered,Los Angeles
+SHP-10660,2024-11-12,2024-11-17,UPS,Standard,12.81,Delivered,San Diego
+SHP-10477,2024-04-09,2024-04-12,UPS,Express,22.07,Delivered,New York
+SHP-10628,2024-09-08,2024-09-17,FedEx,Standard,24.74,Delivered,San Diego
+SHP-10879,2024-06-28,2024-07-02,FedEx,Standard,22.29,Delivered,San Diego
+SHP-10965,2024-11-17,2024-11-20,FedEx,Express,38.46,Delivered,Phoenix
+SHP-10447,2024-08-26,,UPS,Standard,,In Transit,Austin
+SHP-10178,2024-08-20,2024-08-23,DHL,Standard,20.97,Delivered,Austin
+SHP-10390,2024-11-17,2024-11-18,UPS,Overnight,44.33,Delivered,Chicago
+SHP-11317,2024-07-27,2024-08-02,DHL,Standard,23.09,Delivered,Philadelphia
+SHP-11144,2024-05-12,2024-05-18,DHL,Standard,18.19,Delivered,San Diego
+SHP-11268,2024-03-28,2024-03-30,SpeedPost,Overnight,51.8,Delivered,Houston
+SHP-11078,2024-04-20,2024-04-25,UPS,Standard,13.41,Delivered,Houston
+SHP-11420,2024-06-20,2024-06-28,UPS,Standard,9.95,Delivered,San Antonio
+SHP-10887,2024-03-18,2024-03-22,UPS,Standard,22.29,Delivered,Chicago
+SHP-10932,2024-02-11,2024-02-14,UPS,Standard,20.26,Delivered,New York
+SHP-10813,2024-03-09,2024-03-12,FedEx,Express,40.77,Delivered,Chicago
+SHP-10767,2024-09-06,,SpeedPost,Standard,10.89,Returned,Austin
+SHP-10811,2024-09-29,,DHL,Express,24.89,Cancelled,New York
+SHP-10294,2024-06-11,2024-06-13,UPS,Express,25.7,Delivered,San Antonio
+SHP-10561,2024-03-02,2024-03-05,FedEx,Standard,23.77,Delivered,Dallas
+SHP-10899,2024-08-26,2024-08-26,DHL,Same Day,72.24,Delivered,San Antonio
+SHP-10088,2024-09-08,2024-09-09,SpeedPost,Overnight,59.23,Delivered,San Diego
+SHP-11007,2024-01-13,2024-01-20,BlueDart,Standard,14.55,Delivered,San Diego
+SHP-11231,2024-07-12,2024-07-16,UPS,Standard,22.96,Delivered,Phoenix
+SHP-11489,2024-06-09,,BlueDart,Express,29.17,In Transit,San Antonio
+SHP-10715,2024-11-07,,UPS,Standard,21.18,Cancelled,Austin
+SHP-11416,2024-10-17,2024-10-19,BlueDart,Express,30.07,Delivered,Chicago
+SHP-10718,2024-09-07,,BlueDart,Express,43.89,Cancelled,New York
+SHP-10973,2024-03-02,2024-03-06,BlueDart,Standard,12.5,Delivered,New York
+SHP-10290,2024-12-14,2024-12-19,FedEx,Standard,8.62,Delivered,Los Angeles
+SHP-11447,2024-05-22,2024-05-24,DHL,Express,26.01,Delivered,Philadelphia
+SHP-10613,2024-01-05,,UPS,Standard,24.33,In Transit,San Antonio
+SHP-10348,2024-06-09,2024-06-14,FedEx,Standard,11.76,Delivered,Dallas
+SHP-10585,2024-02-08,2024-02-11,SpeedPost,Standard,15.51,Delivered,Chicago
+SHP-11441,2024-08-02,2024-08-06,DHL,Express,40.14,Delivered,New York
+SHP-10712,2024-07-15,2024-07-18,FedEx,Express,20.14,Delivered,Austin
+SHP-10855,2024-03-18,2024-03-23,BlueDart,Standard,14.31,Delivered,San Antonio
+SHP-10617,2024-05-15,2024-05-17,UPS,Express,28.75,Delivered,San Diego
+SHP-10458,2024-03-09,2024-03-14,UPS,Standard,16.25,Delivered,Dallas
+SHP-10375,2024-01-26,2024-01-29,FedEx,Standard,13.47,Delivered,Houston
+SHP-10333,2024-02-15,2024-02-19,FedEx,Standard,14.87,Delivered,San Antonio
+SHP-10781,2024-07-25,2024-07-28,SpeedPost,Express,26.34,Delivered,Phoenix
+SHP-11351,2024-12-07,2024-12-10,UPS,Express,38.26,Delivered,Los Angeles
+SHP-11409,2024-05-08,2024-05-14,UPS,Standard,10.27,Delivered,Philadelphia
+SHP-11418,2024-08-16,2024-08-18,SpeedPost,Express,33.78,Delivered,Phoenix
+SHP-10584,2024-02-26,2024-02-28,FedEx,Express,,Delivered,New York
+SHP-10328,2024-02-18,,FedEx,Standard,12.64,Delivered,Los Angeles
+SHP-10318,2024-10-03,2024-10-10,DHL,Standard,23.86,Delivered,Dallas
+SHP-11177,2024-01-25,2024-01-29,FedEx,Express,38.97,Delivered,Phoenix
+SHP-10982,2024-04-27,2024-05-09,SpeedPost,Standard,16.15,Delivered,Chicago
+SHP-10012,2024-04-09,2024-04-11,DHL,Express,42.21,Delivered,Chicago
+SHP-10171,2024-12-13,,UPS,Standard,9.96,Returned,San Diego
+SHP-10260,2024-12-11,2024-12-17,UPS,Standard,22.92,Delivered,Dallas
+SHP-10847,2024-11-21,2024-11-21,DHL,Same Day,73.27,Delivered,San Diego
+SHP-10888,2024-08-03,2024-08-08,FedEx,Standard,16.04,Delivered,Austin
+SHP-11141,2024-06-19,,FedEx,Standard,15.31,In Transit,New York
+SHP-10138,2024-03-03,2024-03-08,BlueDart,Standard,11.98,Delivered,Austin
+SHP-10549,2024-07-08,,DHL,Overnight,,In Transit,Chicago
+SHP-11357,2024-06-16,2024-06-24,UPS,Standard,,Delivered,San Diego
+SHP-10873,2024-10-18,2024-10-22,DHL,Express,38.37,Delivered,Phoenix
+SHP-10958,2024-08-30,,BlueDart,Standard,20.57,Cancelled,San Diego
+SHP-10558,2024-12-26,2024-12-28,FedEx,Express,33.19,Delivered,Dallas
+SHP-10139,2024-12-17,2024-12-18,UPS,Overnight,,Delivered,Philadelphia
+SHP-10642,2024-08-07,2024-08-10,UPS,Express,32.87,Delivered,New York
+SHP-10901,2024-10-20,2024-10-20,BlueDart,Same Day,50.82,Delivered,Austin
+SHP-10224,2024-05-02,2024-05-07,FedEx,Standard,21.44,Delivered,Phoenix
+SHP-10605,2024-01-07,2024-01-07,DHL,Same Day,67.15,Delivered,New York
+SHP-10409,2024-02-23,2024-02-28,UPS,Standard,8.09,Delivered,Austin
+SHP-10325,2024-01-04,2024-01-08,UPS,Express,40.74,Delivered,Dallas
+SHP-10299,2024-10-15,2024-10-15,DHL,Same Day,61.07,Delivered,Philadelphia
+SHP-10914,2024-01-25,2024-01-30,FedEx,Standard,23.2,Delivered,Los Angeles
+SHP-11053,2024-10-22,2024-10-29,FedEx,Standard,15.43,Delivered,Philadelphia
+SHP-11046,2024-03-18,2024-03-20,DHL,Overnight,60.74,Delivered,San Antonio
+SHP-11419,2024-04-17,2024-04-21,FedEx,Standard,20.05,Delivered,Houston
+SHP-10976,2024-07-21,,SpeedPost,Standard,,Cancelled,Austin
+SHP-10900,2024-09-30,2024-10-05,FedEx,Standard,14.34,Delivered,San Diego
+SHP-10573,2024-07-24,,UPS,Standard,24.43,Cancelled,Houston
+SHP-10503,2024-12-05,2024-12-08,BlueDart,Express,28.58,Delivered,Dallas
+SHP-11244,2024-06-10,2024-06-10,FedEx,Same Day,54.36,Delivered,San Antonio
+SHP-10003,2024-04-16,2024-04-21,FedEx,Standard,22.58,Delivered,Phoenix
+SHP-10785,2024-03-15,2024-03-24,FedEx,Standard,11.81,Delivered,Phoenix
+SHP-10467,2024-10-11,2024-10-20,UPS,Standard,20.88,Delivered,Chicago
+SHP-10321,2024-10-10,2024-10-13,FedEx,Standard,21.35,Delivered,Chicago
+SHP-10005,2024-07-07,2024-07-07,FedEx,Same Day,45.16,Delivered,Chicago
+SHP-11150,2024-10-13,,DHL,Standard,8.26,In Transit,Houston
+SHP-10547,2024-05-31,2024-06-03,UPS,Express,23.69,Delivered,Phoenix
+SHP-10772,2024-09-24,2024-09-28,FedEx,Express,41.68,Delivered,Phoenix
+SHP-10039,2024-08-31,,BlueDart,Standard,17.25,Returned,Dallas
+SHP-10542,2024-08-14,2024-08-21,UPS,Express,31.2,Delivered,San Diego
+SHP-10242,2024-12-11,2024-12-16,UPS,Standard,22.46,Delivered,Austin
+SHP-10136,2024-02-11,2024-02-15,SpeedPost,Standard,22.84,Delivered,Chicago
+SHP-11211,2024-12-25,2024-12-29,FedEx,Standard,13.97,Delivered,Dallas
+SHP-10621,2024-05-24,2024-05-28,UPS,Standard,18.53,Delivered,Los Angeles
+SHP-10798,2024-09-05,2024-09-10,SpeedPost,Express,43.28,Delivered,Chicago
+SHP-11479,2024-05-10,2024-05-18,SpeedPost,Standard,21.11,Delivered,Houston
+SHP-11087,2024-07-14,2024-07-17,DHL,Express,32.03,Delivered,Dallas
+SHP-11473,2024-06-07,2024-06-10,DHL,Express,34.18,Delivered,Dallas
+SHP-11394,2024-10-15,2024-10-18,BlueDart,Standard,21.5,Delivered,Dallas
+SHP-10581,2024-02-22,2024-03-01,SpeedPost,Standard,20.14,Delivered,Dallas
+SHP-10557,2024-12-20,2024-12-24,UPS,Standard,22.98,Delivered,San Antonio
+SHP-10849,2024-05-12,2024-05-13,UPS,Overnight,47.36,Delivered,Houston
+SHP-11417,2024-05-10,2024-05-15,UPS,Standard,8.62,Delivered,Los Angeles
+SHP-10376,2024-12-20,2024-12-25,DHL,Standard,24.97,Delivered,Philadelphia
+SHP-10314,2024-09-20,2024-09-25,BlueDart,Standard,,Delivered,Los Angeles
+SHP-10442,2024-05-06,2024-05-10,UPS,Standard,20.86,Delivered,Austin
+SHP-10319,2024-10-12,2024-10-13,DHL,Overnight,37.35,Delivered,Austin
+SHP-10967,2024-03-15,2024-03-22,UPS,Standard,23.0,Delivered,Los Angeles
+SHP-10819,2024-08-22,2024-08-25,SpeedPost,Express,44.03,Delivered,San Diego
+SHP-11443,2024-07-18,2024-07-22,SpeedPost,Express,44.67,Delivered,Chicago
+SHP-10424,2024-11-03,2024-11-04,DHL,Same Day,57.25,Delivered,New York
+SHP-10553,2024-07-01,2024-07-01,DHL,Same Day,84.7,Delivered,New York
+SHP-10594,2024-08-02,2024-08-03,BlueDart,Overnight,61.03,Delivered,Philadelphia
+SHP-10923,2024-05-25,2024-05-31,BlueDart,Standard,19.65,Delivered,Los Angeles
+SHP-10672,2024-02-16,,FedEx,Standard,8.31,Cancelled,Houston
+SHP-11364,2024-05-01,2024-05-08,FedEx,Standard,12.08,Delivered,Austin
+SHP-11243,2024-09-22,2024-09-26,BlueDart,Express,43.4,Delivered,Dallas
+SHP-11365,2024-02-15,2024-02-19,FedEx,Standard,14.33,Delivered,New York
+SHP-10227,2024-10-06,2024-10-09,FedEx,Standard,9.58,Delivered,Houston
+SHP-10736,2024-06-25,2024-07-01,SpeedPost,Standard,18.39,Delivered,Philadelphia
+SHP-11251,2024-11-16,2024-11-21,DHL,Standard,14.98,Delivered,Austin
+SHP-11009,2024-05-09,,BlueDart,Standard,22.87,Cancelled,Houston
+SHP-10710,2024-03-22,2024-03-23,FedEx,Overnight,50.61,Delivered,Austin
+SHP-10066,2024-09-16,2024-09-20,DHL,Express,,Delivered,San Antonio
+SHP-10393,2024-12-07,2024-12-11,SpeedPost,Express,37.53,Delivered,Austin
+SHP-10579,2024-04-08,2024-04-13,FedEx,Standard,9.22,Delivered,Philadelphia
+SHP-11229,2024-03-18,2024-03-21,FedEx,Express,40.66,Delivered,Phoenix
+SHP-10211,2024-08-11,2024-08-15,SpeedPost,Standard,,Delivered,Houston
+SHP-11362,2024-06-21,2024-06-23,SpeedPost,Express,41.26,Delivered,Philadelphia
+SHP-10807,2024-10-11,2024-10-15,BlueDart,Standard,10.53,Delivered,Los Angeles
+SHP-10536,2024-08-04,2024-08-09,DHL,Standard,21.89,Delivered,San Diego
+SHP-11048,2024-05-11,2024-05-16,FedEx,Standard,23.7,Delivered,Dallas
+SHP-11348,2024-03-27,2024-04-01,FedEx,Standard,13.63,Delivered,Philadelphia
+SHP-10085,2024-02-22,2024-02-28,FedEx,Standard,9.7,Delivered,Phoenix
+SHP-11378,2024-10-22,,DHL,Standard,24.22,Cancelled,Austin
+SHP-10272,2024-05-26,2024-05-26,DHL,Same Day,73.23,Delivered,Austin
+SHP-10979,2024-10-26,2024-11-01,FedEx,Standard,21.53,Delivered,Austin
+SHP-10682,2024-11-25,2024-12-05,UPS,Standard,13.66,Delivered,Chicago
+SHP-11379,2024-01-11,2024-01-18,SpeedPost,Standard,23.48,Delivered,San Diego
+SHP-10630,2024-12-29,2025-01-05,UPS,Standard,19.54,Delivered,New York
+SHP-11049,2024-03-29,,SpeedPost,Standard,11.91,Cancelled,San Antonio
+SHP-11428,2024-01-17,2024-01-20,UPS,Standard,9.8,Delivered,New York
+SHP-10505,2024-06-26,,FedEx,Express,21.83,Cancelled,New York
+SHP-10273,2024-10-30,2024-11-03,DHL,Standard,21.95,Delivered,New York
+SHP-10744,2024-05-12,2024-05-14,BlueDart,Express,27.29,Delivered,Chicago
+SHP-10362,2024-10-14,2024-10-19,FedEx,Standard,12.81,Delivered,Austin
+SHP-10622,2024-11-22,2024-11-25,FedEx,Express,36.89,Delivered,Houston
+SHP-10002,2024-09-27,2024-10-01,FedEx,Express,33.74,Delivered,Los Angeles
+SHP-10006,2024-01-21,2024-01-24,FedEx,Express,20.28,Delivered,Dallas
+SHP-10311,2024-08-17,2024-08-22,DHL,Standard,24.95,Delivered,Houston
+SHP-11108,2024-02-16,2024-02-21,UPS,Standard,16.98,Delivered,Los Angeles
+SHP-10665,2024-07-21,2024-07-23,UPS,Express,22.0,Delivered,New York
+SHP-10968,2024-01-04,,UPS,Standard,17.9,In Transit,New York
+SHP-11087,2024-07-14,2024-07-17,DHL,Express,32.03,Delivered,Dallas
+SHP-10215,2024-02-22,2024-02-24,DHL,Express,34.82,Delivered,Austin
+SHP-10705,2024-08-07,2024-08-09,FedEx,Express,25.4,Delivered,San Antonio
+SHP-10027,2024-08-23,2024-08-30,SpeedPost,Standard,17.98,Delivered,Chicago
+SHP-11113,2024-04-04,2024-04-05,BlueDart,Same Day,63.84,Delivered,Philadelphia
+SHP-11164,2024-01-01,,UPS,Standard,17.71,Delivered,Dallas
+SHP-11034,2024-11-23,,BlueDart,Express,20.36,Cancelled,Houston
+SHP-10638,2024-05-05,2024-05-05,BlueDart,Same Day,52.78,Delivered,Austin
+SHP-10774,2024-08-23,2024-08-30,DHL,Standard,14.88,Delivered,San Diego
+SHP-11333,2024-08-02,2024-08-06,SpeedPost,Standard,13.57,Delivered,San Antonio
+SHP-10624,2024-10-27,2024-10-28,BlueDart,Overnight,51.7,Delivered,Phoenix
+SHP-11260,2024-08-16,,FedEx,Standard,13.49,In Transit,New York
+SHP-10256,2024-04-08,,BlueDart,Same Day,73.84,In Transit,Chicago
+SHP-10025,2024-01-22,2024-01-25,DHL,Standard,9.94,Delivered,New York
+SHP-10336,2024-08-20,,DHL,Standard,12.82,In Transit,San Antonio
+SHP-10572,2024-10-10,2024-10-17,SpeedPost,Standard,13.93,Delivered,Philadelphia
+SHP-10047,2024-09-30,,BlueDart,Overnight,36.5,Cancelled,Phoenix
+SHP-10106,2024-09-17,,SpeedPost,Express,29.69,Cancelled,Philadelphia
+SHP-10349,2024-09-12,2024-09-17,DHL,Express,40.14,Delivered,Los Angeles
+SHP-10055,2024-12-05,2024-12-08,DHL,Express,30.65,Delivered,Phoenix
+SHP-11326,2024-10-04,2024-10-07,UPS,Express,37.65,Delivered,New York
+SHP-10213,2024-05-05,2024-05-11,DHL,Standard,20.87,Delivered,San Antonio
+SHP-10120,2024-06-20,,UPS,Express,40.94,Returned,San Antonio
+SHP-10898,2024-12-28,2024-12-29,FedEx,Overnight,45.42,Delivered,San Antonio
+SHP-10757,2024-06-21,2024-06-26,DHL,Standard,9.38,Delivered,Austin
+SHP-10072,2024-07-20,2024-07-29,DHL,Standard,11.19,Delivered,Austin
+SHP-10768,2024-06-10,2024-06-15,UPS,Standard,12.62,Delivered,Chicago
+SHP-11384,2024-08-19,2024-08-20,FedEx,Overnight,55.54,Delivered,Austin
+SHP-10045,2024-11-24,2024-11-30,FedEx,Standard,16.69,Delivered,Houston
+SHP-11342,2024-02-10,,FedEx,Standard,21.94,In Transit,San Diego
+SHP-10523,2024-02-04,2024-02-14,UPS,Standard,10.88,Delivered,Los Angeles
+SHP-11470,2024-04-12,2024-04-13,UPS,Same Day,75.31,Delivered,Los Angeles
+SHP-10816,2024-02-22,,FedEx,Same Day,,Cancelled,Los Angeles
+SHP-10892,2024-07-05,,FedEx,Standard,23.75,Returned,Dallas
+SHP-10820,2024-02-12,2024-02-12,DHL,Same Day,63.36,Delivered,San Diego
+SHP-10533,2024-11-09,,FedEx,Standard,23.72,Delivered,San Antonio
+SHP-11159,2024-04-10,2024-04-17,UPS,Express,32.35,Delivered,Houston
+SHP-10603,2024-09-09,2024-09-12,DHL,Express,22.45,Delivered,San Diego
+SHP-10465,2024-03-26,2024-03-26,FedEx,Same Day,49.52,Delivered,Dallas
+SHP-11111,2024-06-21,2024-06-23,UPS,Express,42.65,Delivered,Austin
+SHP-11305,2024-12-29,2025-01-03,UPS,Standard,18.39,Delivered,San Diego
+SHP-10802,2024-09-03,2024-09-05,FedEx,Express,41.15,Delivered,Philadelphia
+SHP-11047,2024-03-02,2024-03-04,UPS,Express,27.46,Delivered,San Diego
+SHP-10060,2024-03-21,2024-03-25,UPS,Standard,21.23,Delivered,Phoenix
+SHP-10915,2024-05-24,2024-05-27,UPS,Express,44.36,Delivered,Philadelphia
+SHP-10092,2024-01-15,2024-01-16,BlueDart,Overnight,,Delivered,Dallas
+SHP-10666,2024-09-08,,DHL,Same Day,52.33,Cancelled,Chicago
+SHP-10727,2024-06-25,2024-06-30,FedEx,Standard,19.51,Delivered,Los Angeles
+SHP-10194,2024-06-28,2024-07-03,BlueDart,Standard,21.81,Delivered,San Antonio
+SHP-10280,2024-04-25,2024-05-04,UPS,Standard,13.88,Delivered,Houston
+SHP-10695,2024-06-26,2024-06-30,BlueDart,Standard,15.55,Delivered,Dallas
+SHP-10359,2024-06-22,2024-06-23,UPS,Overnight,35.99,Delivered,San Diego
+SHP-10519,2024-04-04,2024-04-06,FedEx,Express,40.64,Delivered,Phoenix
+SHP-10839,2024-05-01,,FedEx,Standard,14.67,Cancelled,Austin
+SHP-10793,2024-12-03,,FedEx,Standard,21.33,Cancelled,Phoenix
+SHP-10182,2024-05-16,2024-05-17,BlueDart,Overnight,59.03,Delivered,Chicago
+SHP-10200,2024-04-22,2024-04-25,FedEx,Express,36.4,Delivered,Dallas
+SHP-10110,2024-05-14,2024-05-19,BlueDart,Express,29.76,Delivered,Dallas
+SHP-10042,2024-11-02,2024-11-11,FedEx,Standard,18.38,Delivered,Philadelphia
+SHP-10944,2024-10-03,2024-10-05,DHL,Express,39.12,Delivered,San Antonio
+SHP-10204,2024-07-05,2024-07-10,UPS,Express,41.55,Delivered,Los Angeles
+SHP-11074,2024-03-07,2024-03-10,UPS,Express,26.73,Delivered,San Antonio
+SHP-10052,2024-09-21,2024-09-26,UPS,Standard,13.32,Delivered,Austin
+SHP-10545,2024-02-05,2024-02-07,BlueDart,Express,23.15,Delivered,Phoenix
+SHP-11022,2024-11-13,2024-11-16,UPS,Express,20.34,Delivered,San Antonio
+SHP-10924,2024-04-20,2024-04-23,FedEx,Express,39.48,Delivered,San Antonio
+SHP-11023,2024-08-23,2024-08-25,FedEx,Overnight,62.64,Delivered,San Antonio
+SHP-10777,2024-11-08,2024-11-12,FedEx,Standard,,Delivered,Phoenix
+SHP-10183,2024-11-13,2024-11-18,UPS,Standard,14.41,Delivered,Austin
+SHP-10137,2024-06-27,2024-06-29,FedEx,Express,40.36,Delivered,Philadelphia
+SHP-11001,2024-06-09,2024-06-09,FedEx,Same Day,61.86,Delivered,Phoenix
+SHP-10080,2024-10-22,,UPS,Express,40.45,In Transit,Philadelphia
+SHP-11343,2024-02-03,2024-02-08,BlueDart,Standard,11.56,Delivered,San Antonio
+SHP-10105,2024-10-15,2024-10-23,SpeedPost,Standard,22.5,Delivered,Philadelphia
+SHP-10541,2024-07-10,,BlueDart,Express,21.21,Delivered,Los Angeles
+SHP-11091,2024-01-05,2024-01-10,BlueDart,Standard,18.61,Delivered,New York
+SHP-10480,2024-08-09,2024-08-09,UPS,Same Day,64.63,Delivered,Los Angeles
+SHP-10165,2024-04-17,2024-04-21,BlueDart,Express,32.77,Delivered,New York
+SHP-10248,2024-05-07,2024-05-07,SpeedPost,Same Day,78.99,Delivered,Phoenix
+SHP-10307,2024-01-22,2024-01-23,SpeedPost,Overnight,54.08,Delivered,Philadelphia
+SHP-10446,2024-01-01,2024-01-03,DHL,Express,28.66,Delivered,Philadelphia
+SHP-10312,2024-12-30,,BlueDart,Express,23.84,Cancelled,Phoenix
+SHP-10334,2024-01-06,2024-01-06,UPS,Same Day,63.4,Delivered,Chicago
+SHP-10097,2024-01-09,2024-01-16,FedEx,Standard,21.09,Delivered,Houston
+SHP-11191,2024-06-28,,FedEx,Overnight,48.4,Cancelled,New York
+SHP-10737,2024-04-07,2024-04-12,DHL,Standard,8.68,Delivered,Chicago
+SHP-10906,2024-01-28,2024-01-30,UPS,Express,33.18,Delivered,New York
+SHP-10864,2024-08-26,2024-08-31,BlueDart,Standard,15.55,Delivered,Phoenix
+SHP-11355,2024-05-13,2024-05-19,BlueDart,Standard,14.14,Delivered,Dallas
+SHP-10102,2024-05-18,2024-05-18,FedEx,Same Day,49.98,Delivered,San Antonio
+SHP-10434,2024-10-01,,UPS,Express,38.43,Cancelled,Austin
+SHP-10074,2024-12-16,,UPS,Express,22.47,Cancelled,Dallas
+SHP-11472,2024-01-14,2024-01-20,BlueDart,Standard,19.71,Delivered,New York
+SHP-10905,2024-04-28,2024-05-02,FedEx,Standard,8.7,Delivered,Phoenix
+SHP-11388,2024-02-24,2024-03-02,DHL,Standard,16.21,Delivered,Philadelphia
+SHP-10302,2024-05-14,,DHL,Overnight,53.51,Cancelled,Austin
+SHP-11321,2024-08-24,2024-08-29,BlueDart,Standard,12.61,Delivered,Austin
+SHP-11290,2024-10-29,2024-10-30,DHL,Overnight,44.01,Delivered,Houston
+SHP-11249,2024-12-14,2024-12-18,DHL,Express,42.87,Delivered,Chicago
+SHP-10762,2024-12-13,2024-12-31,FedEx,Standard,24.28,Delivered,Phoenix
+SHP-10733,2024-12-07,2024-12-10,DHL,Standard,13.45,Delivered,Houston
+SHP-10388,2024-04-01,2024-04-09,FedEx,Standard,10.69,Delivered,Phoenix
+SHP-10235,2024-05-03,2024-05-08,SpeedPost,Standard,13.42,Delivered,Philadelphia
+SHP-11272,2024-10-28,2024-10-31,DHL,Express,27.31,Delivered,Los Angeles
+SHP-10267,2024-02-06,2024-02-06,UPS,Same Day,72.76,Delivered,Chicago
+SHP-10305,2024-02-02,2024-02-05,BlueDart,Express,40.22,Delivered,Dallas
+SHP-11228,2024-09-13,2024-09-21,SpeedPost,Standard,21.34,Delivered,San Antonio
+SHP-10117,2024-08-03,2024-08-05,FedEx,Express,38.63,Delivered,San Antonio
+SHP-11237,2024-05-11,2024-05-16,UPS,Standard,24.69,Delivered,Los Angeles
+SHP-10673,2024-08-20,2024-08-23,UPS,Express,37.24,Delivered,Dallas
+SHP-10249,2024-02-08,2024-02-12,UPS,Express,27.31,Delivered,Los Angeles
+SHP-11112,2024-05-09,2024-05-17,BlueDart,Standard,22.26,Delivered,Houston
+SHP-11096,2024-10-20,2024-10-24,FedEx,Express,33.52,Delivered,San Antonio
+SHP-10071,2024-06-10,,FedEx,Standard,24.97,Returned,Austin
+SHP-10094,2024-03-05,2024-03-09,UPS,Standard,21.76,Delivered,Austin
+SHP-10952,2024-12-15,2024-12-18,SpeedPost,Standard,12.96,Delivered,Dallas
+SHP-10033,2024-09-27,2024-09-28,UPS,Same Day,63.61,Delivered,Chicago
+SHP-11120,2024-03-09,2024-03-16,UPS,Standard,11.88,Delivered,Phoenix
+SHP-10448,2024-10-16,2024-10-17,SpeedPost,Same Day,,Delivered,San Antonio
+SHP-10445,2024-05-01,2024-05-04,BlueDart,Express,40.45,Delivered,Philadelphia
+SHP-10771,2024-11-01,,FedEx,Standard,16.56,In Transit,Chicago
+SHP-10716,2024-10-12,2024-10-13,BlueDart,Overnight,48.52,Delivered,San Diego
+SHP-10916,2024-01-13,2024-01-18,SpeedPost,Standard,8.79,Delivered,Philadelphia
+SHP-11303,2024-12-20,,UPS,Express,40.54,Cancelled,New York
+SHP-10930,2024-08-23,2024-08-23,DHL,Same Day,52.59,Delivered,San Diego
+SHP-11469,2024-08-10,2024-08-12,UPS,Express,28.77,Delivered,Philadelphia
+SHP-10077,2024-08-02,2024-08-05,FedEx,Express,29.13,Delivered,New York
+SHP-10084,2024-12-03,2024-12-13,SpeedPost,Standard,11.05,Delivered,Philadelphia
+SHP-10862,2024-04-30,2024-04-30,DHL,Same Day,77.99,Delivered,San Antonio
+SHP-10082,2024-07-26,2024-08-03,FedEx,Standard,22.01,Delivered,San Diego
+SHP-10457,2024-07-10,2024-07-18,DHL,Standard,13.35,Delivered,Phoenix
+SHP-10948,2024-01-04,2024-01-05,FedEx,Same Day,84.45,Delivered,Phoenix
+SHP-10676,2024-05-22,2024-05-24,FedEx,Express,23.76,Delivered,Austin
+SHP-11281,2024-05-30,,BlueDart,Express,,Cancelled,Philadelphia
+SHP-11094,2024-12-18,2024-12-20,UPS,Express,35.78,Delivered,Austin
+SHP-10436,2024-02-27,2024-03-05,DHL,Standard,22.7,Delivered,Los Angeles
+SHP-10770,2024-09-15,,FedEx,Express,35.09,Cancelled,Chicago
+SHP-10644,2024-02-27,2024-03-02,DHL,Standard,19.8,Delivered,Dallas
+SHP-11458,2024-09-06,2024-09-06,FedEx,Same Day,58.62,Delivered,New York
+SHP-11140,2024-11-11,2024-11-14,BlueDart,Standard,11.11,Delivered,Austin
+SHP-11371,2024-11-02,2024-11-05,FedEx,Express,30.23,Delivered,San Antonio
+SHP-10404,2024-10-31,,BlueDart,Standard,20.79,In Transit,San Antonio
+SHP-11331,2024-04-18,2024-04-30,BlueDart,Standard,,Delivered,Phoenix
+SHP-10963,2024-08-10,2024-08-11,DHL,Overnight,56.57,Delivered,San Diego
+SHP-11061,2024-12-18,2024-12-23,DHL,Standard,22.49,Delivered,Chicago
+SHP-10104,2024-06-11,2024-06-14,FedEx,Express,27.25,Delivered,San Diego
+SHP-10609,2024-06-18,2024-06-20,BlueDart,Express,44.82,Delivered,Houston
+SHP-10859,2024-10-08,2024-10-12,DHL,Standard,16.32,Delivered,Los Angeles
+SHP-10688,2024-05-01,2024-05-06,DHL,Standard,13.18,Delivered,Los Angeles
+SHP-10978,2024-06-21,2024-06-26,UPS,Standard,19.81,Delivered,Phoenix
+SHP-10826,2024-12-01,2024-12-01,UPS,Same Day,65.02,Delivered,San Diego
+SHP-11376,2024-05-28,2024-05-31,DHL,Standard,20.97,Delivered,Los Angeles
+SHP-10062,2024-12-25,,FedEx,Standard,22.65,Cancelled,Phoenix
+SHP-10281,2024-03-15,2024-03-16,DHL,Overnight,60.08,Delivered,Los Angeles
+SHP-10778,2024-04-21,,DHL,Standard,21.47,Cancelled,Austin
+SHP-11033,2024-12-14,2024-12-19,DHL,Standard,17.51,Delivered,San Antonio
+SHP-10238,2024-12-14,2024-12-19,DHL,Standard,22.8,Delivered,Houston
+SHP-10223,2024-07-02,2024-07-10,BlueDart,Standard,24.55,Delivered,Phoenix
+SHP-10145,2024-08-18,2024-08-20,UPS,Express,30.69,Delivered,San Antonio
+SHP-11427,2024-10-31,2024-11-04,FedEx,Standard,23.23,Delivered,New York
+SHP-10373,2024-06-18,2024-06-24,DHL,Standard,12.68,Delivered,Houston
+SHP-11361,2024-11-04,2024-11-07,FedEx,Express,30.39,Delivered,Philadelphia
+SHP-10118,2024-10-19,2024-10-20,FedEx,Overnight,50.43,Delivered,Phoenix
+SHP-11149,2024-04-01,,BlueDart,Express,41.78,In Transit,Philadelphia
+SHP-10250,2024-12-03,2024-12-06,UPS,Standard,10.85,Delivered,Houston
+SHP-11474,2024-05-31,,UPS,Standard,19.62,Cancelled,Houston
+SHP-11234,2024-08-09,2024-08-13,DHL,Standard,20.98,Delivered,Philadelphia
+SHP-10921,2024-08-20,2024-08-25,UPS,Standard,10.04,Delivered,New York
+SHP-10009,2024-08-02,2024-08-07,FedEx,Standard,19.3,Delivered,Chicago
+SHP-10449,2024-04-05,2024-04-07,BlueDart,Express,22.52,Delivered,Chicago
+SHP-10988,2024-04-22,2024-04-23,FedEx,Overnight,52.46,Delivered,Austin
+SHP-10708,2024-02-04,2024-02-06,UPS,Express,40.44,Delivered,Philadelphia
+SHP-10255,2024-10-24,2024-10-29,UPS,Standard,16.65,Delivered,Austin
+SHP-10593,2024-06-11,2024-06-11,BlueDart,Same Day,57.83,Delivered,Los Angeles
+SHP-10389,2024-12-19,,FedEx,Standard,21.39,Returned,San Diego
+SHP-10987,2024-01-20,,DHL,Standard,12.75,Delivered,San Diego
+SHP-11226,2024-01-19,2024-01-21,FedEx,Express,21.97,Delivered,Houston
+SHP-10557,2024-12-20,2024-12-24,UPS,Standard,22.98,Delivered,San Antonio
+SHP-11315,2024-07-27,2024-07-30,BlueDart,Express,31.42,Delivered,Austin
+SHP-10867,2024-04-16,2024-04-26,UPS,Standard,22.45,Delivered,Houston
+SHP-10460,2024-12-14,2024-12-17,UPS,Standard,16.01,Delivered,Phoenix
+SHP-10723,2024-03-05,,UPS,Standard,22.17,In Transit,Philadelphia
+SHP-11410,2024-08-04,2024-08-04,DHL,Same Day,57.42,Delivered,Austin
+SHP-10144,2024-08-09,2024-08-12,SpeedPost,Standard,12.49,Delivered,Los Angeles
+SHP-10501,2024-09-14,2024-09-16,DHL,Express,33.66,Delivered,Philadelphia
+SHP-11118,2024-10-25,,DHL,Standard,19.56,Returned,Philadelphia
+SHP-10739,2024-04-08,,FedEx,Standard,17.48,Cancelled,Chicago
+SHP-11456,2024-10-08,2024-10-17,UPS,Standard,8.03,Delivered,Austin
+SHP-10731,2024-03-03,2024-03-06,BlueDart,Standard,24.72,Delivered,Chicago
+SHP-10539,2024-06-12,2024-06-13,FedEx,Overnight,57.35,Delivered,Chicago
+SHP-10177,2024-04-25,,DHL,Express,35.72,Returned,New York
+SHP-11476,2024-07-06,,BlueDart,Express,43.27,Cancelled,Chicago
+SHP-10697,2024-08-07,2024-08-11,UPS,Express,36.33,Delivered,Dallas
+SHP-10970,2024-05-13,2024-05-17,SpeedPost,Standard,15.85,Delivered,Houston
+SHP-11065,2024-06-01,2024-06-04,BlueDart,Express,26.59,Delivered,Los Angeles
+SHP-10904,2024-07-10,2024-07-12,DHL,Express,34.42,Delivered,Chicago
+SHP-11300,2024-08-09,,FedEx,Express,25.34,Cancelled,New York
+SHP-10928,2024-04-20,2024-04-23,DHL,Overnight,59.36,Delivered,New York
+SHP-10007,2024-04-12,2024-04-17,DHL,Standard,15.08,Delivered,Philadelphia
+SHP-11386,2024-11-05,2024-11-13,BlueDart,Standard,21.37,Delivered,Philadelphia
+SHP-10667,2024-08-16,2024-08-20,DHL,Express,34.73,Delivered,Philadelphia
+SHP-11202,2024-12-02,,FedEx,Standard,18.69,Cancelled,San Antonio
+SHP-10357,2024-11-18,2024-11-23,BlueDart,Standard,15.82,Delivered,Austin
+SHP-10783,2024-12-06,2024-12-10,UPS,Standard,17.55,Delivered,Los Angeles
+SHP-10735,2024-10-09,,FedEx,Express,41.14,Returned,Austin
+SHP-10329,2024-01-17,2024-01-19,UPS,Express,31.59,Delivered,Chicago
+SHP-11406,2024-07-19,,BlueDart,Overnight,51.83,Cancelled,Los Angeles
+SHP-11172,2024-04-26,2024-04-27,FedEx,Overnight,46.97,Delivered,Phoenix
+SHP-11324,2024-07-19,2024-07-24,UPS,Standard,15.46,Delivered,Chicago
+SHP-10258,2024-09-08,2024-09-13,DHL,Standard,,Delivered,Los Angeles
+SHP-10909,2024-09-29,2024-10-02,UPS,Express,42.07,Delivered,Philadelphia
+SHP-11199,2024-06-02,2024-06-05,UPS,Express,,Delivered,San Antonio
+SHP-10372,2024-02-08,,DHL,Standard,19.12,Returned,Phoenix
+SHP-11124,2024-11-25,2024-11-26,FedEx,Overnight,38.55,Delivered,Philadelphia
+SHP-11466,2024-11-10,2024-11-15,SpeedPost,Standard,19.82,Delivered,San Antonio
+SHP-10142,2024-02-21,2024-02-21,FedEx,Same Day,,Delivered,Austin
+SHP-10525,2024-12-02,,DHL,Standard,15.48,In Transit,Philadelphia
+SHP-11160,2024-12-11,2024-12-13,BlueDart,Express,38.3,Delivered,San Antonio
+SHP-10232,2024-05-23,2024-05-27,SpeedPost,Express,27.32,Delivered,Los Angeles
+SHP-11271,2024-04-29,2024-05-11,UPS,Standard,12.41,Delivered,Chicago
+SHP-11452,2024-10-14,2024-10-17,DHL,Express,23.35,Delivered,Austin
+SHP-10440,2024-11-13,,DHL,Express,35.6,Delivered,New York
+SHP-10531,2024-04-14,,FedEx,Express,44.55,Cancelled,Austin
+SHP-11227,2024-01-18,,DHL,Express,37.33,Cancelled,Los Angeles
+SHP-10226,2024-10-20,2024-10-20,UPS,Same Day,81.33,Delivered,Houston
+SHP-11052,2024-03-29,2024-03-29,UPS,Same Day,74.98,Delivered,Austin
+SHP-10228,2024-11-20,2024-11-21,DHL,Overnight,49.04,Delivered,Houston
+SHP-11307,2024-03-21,2024-03-22,SpeedPost,Overnight,58.82,Delivered,San Diego
+SHP-11325,2024-09-02,2024-09-04,BlueDart,Express,22.82,Delivered,Chicago
+SHP-10212,2024-08-12,2024-08-15,FedEx,Standard,14.51,Delivered,Dallas
+SHP-10885,2024-01-14,2024-01-16,FedEx,Express,27.4,Delivered,Los Angeles
+SHP-10079,2024-07-08,2024-07-08,FedEx,Same Day,76.54,Delivered,San Antonio
+SHP-10148,2024-06-19,2024-06-26,UPS,Standard,13.59,Delivered,Phoenix
+SHP-10814,2024-02-03,,UPS,Standard,12.97,In Transit,San Diego
+SHP-10933,2024-04-10,2024-04-12,UPS,Express,23.91,Delivered,Houston
+SHP-10942,2024-10-15,2024-10-18,DHL,Express,40.89,Delivered,Dallas
+SHP-10671,2024-01-20,2024-01-24,FedEx,Standard,10.19,Delivered,Los Angeles
+SHP-11179,2024-03-15,2024-03-23,UPS,Standard,8.76,Delivered,Chicago
+SHP-10555,2024-10-05,2024-10-12,UPS,Standard,8.86,Delivered,Phoenix
+SHP-10937,2024-11-15,2024-11-21,BlueDart,Standard,13.08,Delivered,New York
+SHP-10133,2024-07-25,2024-07-25,BlueDart,Same Day,70.17,Delivered,Houston
+SHP-11265,2024-09-20,,FedEx,Overnight,55.61,Cancelled,New York
+SHP-10823,2024-09-05,2024-09-05,DHL,Same Day,,Delivered,San Diego
+SHP-10408,2024-09-27,2024-10-03,BlueDart,Standard,20.99,Delivered,Phoenix
+SHP-10368,2024-04-13,,FedEx,Overnight,36.3,Returned,San Antonio
+SHP-10507,2024-02-02,2024-02-03,SpeedPost,Overnight,43.54,Delivered,Los Angeles
+SHP-11206,2024-05-27,2024-05-30,FedEx,Express,28.1,Delivered,San Diego
+SHP-10504,2024-05-31,2024-06-05,UPS,Standard,17.55,Delivered,Austin
+SHP-11360,2024-08-24,2024-08-24,SpeedPost,Same Day,66.22,Delivered,Philadelphia
+SHP-10347,2024-09-09,,SpeedPost,Overnight,64.19,Returned,San Diego
+SHP-10386,2024-05-21,,SpeedPost,Standard,9.79,Cancelled,Dallas
+SHP-10000,2024-04-12,2024-04-15,DHL,Express,39.66,Delivered,Phoenix
+SHP-10360,2024-10-06,2024-10-11,FedEx,Standard,18.03,Delivered,Phoenix
+SHP-10894,2024-01-07,2024-01-07,UPS,Same Day,52.58,Delivered,Dallas
+SHP-10828,2024-01-08,2024-01-12,FedEx,Express,,Delivered,Los Angeles
+SHP-11444,2024-01-25,2024-01-27,DHL,Express,35.48,Delivered,Phoenix
+SHP-10475,2024-12-06,2024-12-07,UPS,Overnight,54.08,Delivered,Philadelphia
+SHP-11308,2024-07-20,,BlueDart,Standard,22.87,Cancelled,San Diego
+SHP-10057,2024-09-20,2024-09-21,SpeedPost,Overnight,52.97,Delivered,Philadelphia
+SHP-10637,2024-02-08,2024-02-09,SpeedPost,Same Day,60.6,Delivered,Chicago
+SHP-11334,2024-10-19,2024-10-28,FedEx,Standard,22.62,Delivered,Houston
+SHP-11219,2024-11-13,2024-11-20,FedEx,Standard,23.37,Delivered,Los Angeles
+SHP-10983,2024-11-19,2024-11-23,SpeedPost,Standard,8.27,Delivered,Dallas
+SHP-10172,2024-08-18,2024-08-28,SpeedPost,Standard,21.63,Delivered,New York
+SHP-10450,2024-05-05,2024-05-10,SpeedPost,Standard,24.35,Delivered,Philadelphia
+SHP-10125,2024-04-10,2024-04-13,FedEx,Express,30.8,Delivered,Los Angeles
+SHP-11010,2024-03-24,2024-03-26,FedEx,Express,34.1,Delivered,San Diego
+SHP-10530,2024-04-24,2024-04-28,UPS,Standard,12.32,Delivered,Phoenix
+SHP-10857,2024-10-27,2024-10-29,BlueDart,Express,36.9,Delivered,Dallas
+SHP-10713,2024-10-29,,BlueDart,Same Day,46.41,Cancelled,Philadelphia
+SHP-10090,2024-02-10,2024-02-15,UPS,Standard,8.93,Delivered,Los Angeles
+SHP-11480,2024-10-19,2024-10-20,FedEx,Overnight,48.06,Delivered,Dallas
+SHP-10181,2024-07-16,,FedEx,Express,26.85,In Transit,Phoenix
+SHP-10875,2024-01-08,2024-01-09,BlueDart,Overnight,40.28,Delivered,Austin
+SHP-11031,2024-02-29,,DHL,Standard,24.34,Cancelled,Los Angeles
+SHP-10786,2024-04-12,2024-04-15,FedEx,Express,32.35,Delivered,Houston
+SHP-10414,2024-04-17,,DHL,Express,39.36,Returned,Phoenix
+SHP-10251,2024-12-25,2024-12-28,UPS,Express,29.48,Delivered,New York
+SHP-10069,2024-08-05,2024-08-06,FedEx,Overnight,42.79,Delivered,Philadelphia
+SHP-10803,2024-04-15,2024-04-18,UPS,Express,30.69,Delivered,Philadelphia
+SHP-10131,2024-12-24,2024-12-28,FedEx,Standard,20.5,Delivered,Austin
+SHP-10300,2024-10-03,2024-10-04,UPS,Overnight,37.29,Delivered,Austin
+SHP-11041,2024-10-17,2024-10-19,FedEx,Express,39.7,Delivered,New York
+SHP-10326,2024-02-04,2024-02-12,UPS,Standard,13.15,Delivered,Dallas
+SHP-11494,2024-06-18,2024-06-21,UPS,Express,43.22,Delivered,San Antonio
+SHP-11134,2024-08-05,2024-08-05,SpeedPost,Same Day,61.38,Delivered,San Diego
+SHP-10499,2024-12-01,2024-12-04,FedEx,Express,26.38,Delivered,Austin
+SHP-10341,2024-06-29,2024-07-08,DHL,Standard,14.6,Delivered,Los Angeles
+SHP-10832,2024-07-13,2024-07-18,DHL,Standard,11.96,Delivered,San Antonio
+SHP-10364,2024-05-30,2024-06-02,FedEx,Express,,Delivered,Austin
+SHP-10495,2024-11-20,2024-11-25,BlueDart,Standard,24.55,Delivered,Chicago
+SHP-11423,2024-01-12,2024-01-14,DHL,Express,,Delivered,Houston
+SHP-10338,2024-10-06,,FedEx,Standard,18.77,Cancelled,Los Angeles
+SHP-10421,2024-02-16,2024-02-20,UPS,Standard,23.15,Delivered,Phoenix
+SHP-10164,2024-01-28,,BlueDart,Express,36.48,In Transit,Austin
+SHP-10028,2024-12-10,2024-12-14,BlueDart,Express,24.36,Delivered,San Antonio
+SHP-10516,2024-02-13,,BlueDart,Standard,8.38,In Transit,Austin
+SHP-10193,2024-08-20,2024-08-20,FedEx,Same Day,48.95,Delivered,Chicago
+SHP-11156,2024-09-23,2024-09-24,UPS,Overnight,37.81,Delivered,Houston
+SHP-11467,2024-08-02,2024-08-07,FedEx,Standard,10.04,Delivered,Houston
+SHP-10945,2024-07-16,2024-07-17,FedEx,Overnight,40.24,Delivered,Chicago
+SHP-11389,2024-04-20,2024-04-20,UPS,Same Day,58.24,Delivered,Chicago
+SHP-10169,2024-11-26,2024-11-26,SpeedPost,Same Day,64.34,Delivered,San Diego
+SHP-10167,2024-12-05,2024-12-07,FedEx,Express,40.87,Delivered,Austin
+SHP-10652,2024-11-07,2024-11-07,BlueDart,Same Day,55.04,Delivered,Chicago
+SHP-10173,2024-07-08,2024-07-16,BlueDart,Standard,17.0,Delivered,Chicago
+SHP-10518,2024-01-12,2024-01-24,DHL,Standard,19.82,Delivered,New York
+SHP-11239,2024-02-24,2024-03-01,DHL,Standard,10.18,Delivered,San Diego
+SHP-11205,2024-06-25,2024-06-27,UPS,Overnight,,Delivered,Austin
+SHP-10912,2024-05-05,2024-05-12,UPS,Standard,10.19,Delivered,Dallas
+SHP-10491,2024-09-06,2024-09-08,FedEx,Overnight,38.22,Delivered,Dallas
+SHP-10953,2024-04-04,,DHL,Express,26.67,Cancelled,Chicago
+SHP-10073,2024-09-26,2024-09-27,SpeedPost,Overnight,39.44,Delivered,Philadelphia
+SHP-11280,2024-06-09,2024-06-14,FedEx,Express,21.56,Delivered,New York
+SHP-10587,2024-06-29,,UPS,Standard,12.49,In Transit,Chicago
+SHP-10750,2024-07-20,2024-07-21,DHL,Overnight,60.62,Delivered,Houston
+SHP-10657,2024-06-21,,UPS,Standard,22.3,Cancelled,San Antonio
+SHP-10842,2024-01-05,2024-01-08,DHL,Express,,Delivered,San Diego
+SHP-10234,2024-07-19,2024-07-23,UPS,Express,32.72,Delivered,Los Angeles
+SHP-10732,2024-08-04,,DHL,Standard,24.33,Delivered,San Diego
+SHP-10214,2024-05-09,2024-05-14,UPS,Standard,13.2,Delivered,Dallas
+SHP-10162,2024-05-13,,BlueDart,Express,41.05,Delivered,San Diego
+SHP-10132,2024-10-09,2024-10-10,BlueDart,Overnight,64.76,Delivered,Austin
+SHP-11125,2024-12-25,2024-12-27,FedEx,Express,36.14,Delivered,Philadelphia
+SHP-10222,2024-07-21,2024-07-25,UPS,Express,37.77,Delivered,Houston
+SHP-11253,2024-09-03,2024-09-10,FedEx,Standard,12.6,Delivered,New York
+SHP-10934,2024-01-06,,FedEx,Standard,22.45,Cancelled,New York
+SHP-10185,2024-08-12,,DHL,Express,21.74,Returned,Los Angeles
+SHP-10041,2024-05-10,2024-05-13,BlueDart,Express,33.0,Delivered,Los Angeles
+SHP-10692,2024-05-15,2024-05-22,FedEx,Standard,11.28,Delivered,Philadelphia
+SHP-10108,2024-02-10,,BlueDart,Same Day,82.41,Cancelled,New York
+SHP-10038,2024-02-24,2024-02-28,DHL,Standard,24.53,Delivered,Phoenix
+SHP-10568,2024-04-09,,DHL,Standard,18.93,Cancelled,Phoenix
+SHP-11024,2024-11-29,2024-12-05,FedEx,Standard,10.19,Delivered,San Antonio
+SHP-11445,2024-03-29,2024-04-02,UPS,Standard,19.06,Delivered,New York
+SHP-11471,2024-09-29,2024-09-29,UPS,Same Day,68.3,Delivered,New York
+SHP-10483,2024-09-06,2024-09-11,BlueDart,Standard,15.15,Delivered,Houston
+SHP-10468,2024-08-07,2024-08-12,DHL,Standard,21.77,Delivered,Austin
+SHP-10890,2024-06-02,2024-06-04,BlueDart,Express,35.96,Delivered,Chicago
+SHP-10947,2024-04-21,2024-04-28,FedEx,Standard,24.56,Delivered,San Antonio
+SHP-10024,2024-11-09,2024-11-15,FedEx,Standard,20.32,Delivered,Los Angeles
+SHP-11032,2024-11-15,2024-11-15,DHL,Same Day,69.11,Delivered,San Antonio
+SHP-11217,2024-08-02,2024-08-04,UPS,Express,25.24,Delivered,San Diego
+SHP-10068,2024-07-09,,DHL,Express,37.21,Returned,Los Angeles
+SHP-10884,2024-08-01,,UPS,Express,35.06,In Transit,San Antonio
+SHP-11292,2024-01-11,2024-01-16,BlueDart,Standard,12.62,Delivered,Philadelphia
+SHP-10850,2024-08-20,2024-08-20,BlueDart,Same Day,53.95,Delivered,Phoenix
+SHP-10734,2024-11-10,2024-11-17,DHL,Standard,24.94,Delivered,Philadelphia
+SHP-10717,2024-08-29,2024-09-03,UPS,Standard,20.81,Delivered,Austin
+SHP-10454,2024-08-24,2024-08-25,UPS,Overnight,44.74,Delivered,San Diego
+SHP-10264,2024-10-30,2024-10-30,FedEx,Same Day,79.18,Delivered,Houston
+SHP-10075,2024-10-30,2024-11-07,DHL,Standard,17.86,Delivered,San Diego
+SHP-10444,2024-02-27,2024-02-27,UPS,Same Day,81.2,Delivered,Philadelphia
+SHP-10395,2024-06-01,2024-06-03,UPS,Express,39.32,Delivered,Los Angeles
+SHP-10176,2024-04-30,,DHL,Overnight,60.77,In Transit,Los Angeles
+SHP-11338,2024-05-07,2024-05-16,UPS,Standard,23.95,Delivered,Austin
+SHP-11312,2024-08-02,2024-08-03,FedEx,Overnight,59.36,Delivered,New York
+SHP-11055,2024-10-21,2024-10-22,DHL,Overnight,53.97,Delivered,Dallas
+SHP-10595,2024-08-08,2024-08-09,UPS,Same Day,54.3,Delivered,San Antonio
+SHP-10061,2024-02-19,2024-02-20,BlueDart,Overnight,63.24,Delivered,New York
+SHP-10872,2024-01-26,2024-01-30,FedEx,Standard,11.93,Delivered,Philadelphia
+SHP-11142,2024-12-21,,FedEx,Standard,24.74,Returned,Philadelphia
+SHP-11435,2024-03-20,2024-03-26,BlueDart,Standard,16.16,Delivered,San Diego
+SHP-10278,2024-04-29,2024-05-06,FedEx,Standard,19.73,Delivered,New York
+SHP-10036,2024-02-20,2024-02-22,BlueDart,Express,35.05,Delivered,Los Angeles
+SHP-10662,2024-05-28,,FedEx,Standard,8.41,In Transit,Dallas
+SHP-11380,2024-06-12,2024-06-19,UPS,Standard,24.36,Delivered,San Diego
+SHP-11106,2024-09-17,2024-09-23,UPS,Standard,21.83,Delivered,Dallas
+SHP-10977,2024-01-26,2024-01-31,FedEx,Standard,17.53,Delivered,Phoenix
+SHP-10738,2024-04-14,2024-04-18,SpeedPost,Standard,23.32,Delivered,Phoenix
+SHP-10191,2024-06-08,2024-06-10,DHL,Express,,Delivered,San Antonio
+SHP-10919,2024-03-08,2024-03-11,UPS,Express,38.9,Delivered,Dallas
+SHP-10456,2024-07-07,2024-07-14,DHL,Standard,10.29,Delivered,Dallas
+SHP-10675,2024-01-14,2024-01-17,UPS,Standard,18.64,Delivered,Austin
+SHP-10760,2024-10-14,2024-10-23,FedEx,Standard,22.92,Delivered,Los Angeles
+SHP-11381,2024-04-22,2024-04-23,FedEx,Overnight,47.84,Delivered,Dallas
+SHP-10728,2024-09-23,2024-09-26,SpeedPost,Express,32.43,Delivered,Phoenix
+SHP-10412,2024-02-22,2024-02-29,FedEx,Standard,24.73,Delivered,New York
+SHP-10825,2024-07-01,2024-07-02,BlueDart,Overnight,52.18,Delivered,Philadelphia
+SHP-10616,2024-12-04,2024-12-09,DHL,Standard,22.1,Delivered,Dallas
+SHP-10114,2024-02-02,2024-02-06,UPS,Standard,17.96,Delivered,Chicago
+SHP-10417,2024-07-14,2024-07-16,BlueDart,Express,34.29,Delivered,San Antonio
+SHP-11457,2024-03-26,2024-03-31,DHL,Standard,11.8,Delivered,Chicago
+SHP-10969,2024-11-30,2024-12-05,FedEx,Standard,10.16,Delivered,New York
+SHP-10604,2024-08-17,,FedEx,Standard,17.79,Cancelled,Philadelphia
+SHP-11463,2024-05-16,2024-05-17,FedEx,Overnight,44.91,Delivered,New York
+SHP-10089,2024-07-06,2024-07-09,UPS,Standard,16.65,Delivered,Austin
+SHP-10848,2024-01-01,,UPS,Express,27.45,Cancelled,Houston
+SHP-11168,2024-11-04,2024-11-09,FedEx,Standard,20.03,Delivered,New York
+SHP-11462,2024-01-07,2024-01-13,SpeedPost,Standard,13.69,Delivered,Los Angeles
+SHP-10753,2024-03-25,,SpeedPost,Standard,8.14,Cancelled,Philadelphia
+SHP-10498,2024-10-06,2024-10-09,FedEx,Express,44.2,Delivered,San Antonio
+SHP-10011,2024-03-28,2024-04-06,FedEx,Standard,11.02,Delivered,Houston
+SHP-10396,2024-07-04,2024-07-14,SpeedPost,Standard,16.36,Delivered,Austin
+SHP-10284,2024-12-05,2024-12-06,FedEx,Overnight,42.46,Delivered,Los Angeles
+SHP-11066,2024-05-24,2024-05-27,SpeedPost,Express,43.87,Delivered,Philadelphia
+SHP-10690,2024-06-12,2024-06-12,DHL,Same Day,79.56,Delivered,New York
+SHP-11279,2024-09-19,2024-09-26,BlueDart,Standard,14.88,Delivered,Phoenix
+SHP-11432,2024-10-29,,SpeedPost,Standard,10.15,In Transit,San Diego
+SHP-10689,2024-12-13,2024-12-16,FedEx,Express,37.2,Delivered,Houston
+SHP-10851,2024-01-12,2024-01-13,BlueDart,Overnight,62.98,Delivered,New York
+SHP-10159,2024-06-18,,FedEx,Express,,Returned,Dallas
+SHP-10895,2024-01-03,2024-01-13,DHL,Standard,19.5,Delivered,Houston
+SHP-11214,2024-09-13,2024-09-16,DHL,Standard,8.82,Delivered,Austin
+SHP-10257,2024-09-19,2024-09-21,UPS,Express,28.82,Delivered,Houston
+SHP-10335,2024-04-08,2024-04-16,UPS,Standard,8.26,Delivered,San Antonio
+SHP-11436,2024-08-03,2024-08-06,DHL,Standard,16.35,Delivered,Philadelphia
+SHP-11039,2024-11-11,2024-11-12,DHL,Same Day,84.3,Delivered,Los Angeles
+SHP-10515,2024-02-12,2024-02-17,BlueDart,Express,39.49,Delivered,Chicago
+SHP-11015,2024-09-29,2024-10-04,DHL,Express,36.85,Delivered,Houston
+SHP-10768,2024-06-10,2024-06-15,UPS,Standard,12.62,Delivered,Chicago
+SHP-11344,2024-01-17,2024-01-18,SpeedPost,Overnight,42.23,Delivered,San Antonio
+SHP-10761,2024-02-03,2024-02-04,DHL,Overnight,59.39,Delivered,San Diego
+SHP-10876,2024-04-22,,DHL,Standard,21.37,Cancelled,Austin
+SHP-10521,2024-09-09,,BlueDart,Express,32.0,In Transit,Philadelphia
+SHP-10022,2024-10-03,2024-10-03,SpeedPost,Same Day,74.9,Delivered,Los Angeles
+SHP-10356,2024-02-27,,DHL,Standard,14.92,In Transit,Chicago
+SHP-11299,2024-09-12,2024-09-15,FedEx,Standard,20.67,Delivered,Houston
+SHP-10340,2024-10-28,2024-10-31,DHL,Express,28.45,Delivered,Dallas
+SHP-10431,2024-05-24,2024-05-26,UPS,Express,27.96,Delivered,Philadelphia
+SHP-10473,2024-07-22,2024-07-26,UPS,Standard,12.51,Delivered,Austin
+SHP-10217,2024-08-05,2024-08-06,UPS,Overnight,35.14,Delivered,New York
+SHP-10911,2024-03-26,2024-03-26,BlueDart,Same Day,49.18,Delivered,Phoenix
+SHP-11230,2024-06-23,2024-06-24,FedEx,Overnight,62.41,Delivered,New York
+SHP-11011,2024-11-16,2024-11-23,DHL,Standard,16.78,Delivered,Chicago
+SHP-11488,2024-07-28,2024-08-04,BlueDart,Express,38.29,Delivered,Chicago
+SHP-10093,2024-10-27,2024-10-31,UPS,Standard,18.16,Delivered,Austin
+SHP-11008,2024-06-16,2024-06-17,DHL,Overnight,45.25,Delivered,Philadelphia
+SHP-11070,2024-04-13,,DHL,Standard,10.5,Delivered,New York
+SHP-11092,2024-05-02,2024-05-05,SpeedPost,Express,36.33,Delivered,Dallas
+SHP-10696,2024-01-28,2024-01-31,UPS,Express,24.7,Delivered,Los Angeles
+SHP-11370,2024-07-11,2024-07-15,DHL,Standard,23.53,Delivered,Los Angeles
+SHP-10996,2024-10-19,2024-10-20,UPS,Same Day,52.1,Delivered,New York
+SHP-10153,2024-11-22,2024-11-30,BlueDart,Standard,19.97,Delivered,New York
+SHP-11099,2024-08-15,,UPS,Standard,22.53,Cancelled,Austin
+SHP-11327,2024-08-22,2024-08-27,FedEx,Standard,23.5,Delivered,Chicago
+SHP-11300,2024-08-09,,FedEx,Express,25.34,Cancelled,New York
+SHP-10789,2024-08-13,2024-08-14,DHL,Same Day,64.53,Delivered,Dallas
+SHP-10580,2024-01-25,2024-01-31,DHL,Standard,12.36,Delivered,Dallas
+SHP-10703,2024-07-19,2024-07-25,FedEx,Standard,23.09,Delivered,San Antonio
+SHP-11286,2024-10-11,2024-10-14,FedEx,Express,41.08,Delivered,Phoenix
+SHP-10487,2024-04-09,2024-04-14,BlueDart,Standard,9.21,Delivered,Houston
+SHP-10559,2024-10-12,2024-10-14,UPS,Express,40.62,Delivered,Los Angeles
+SHP-11119,2024-10-09,,FedEx,Standard,22.32,Cancelled,Houston
+SHP-10801,2024-01-30,2024-02-01,BlueDart,Express,26.85,Delivered,Los Angeles
+SHP-10512,2024-03-05,2024-03-10,UPS,Standard,10.8,Delivered,Chicago
+SHP-10633,2024-03-31,,DHL,Express,37.65,Returned,Houston
+SHP-11131,2024-12-11,,BlueDart,Standard,14.93,Returned,Los Angeles
+SHP-11366,2024-03-04,2024-03-04,FedEx,Same Day,54.21,Delivered,Houston
+SHP-10790,2024-10-20,,UPS,Express,28.44,Returned,Chicago
+SHP-10116,2024-03-02,2024-03-06,FedEx,Standard,20.23,Delivered,San Diego
+SHP-10740,2024-11-06,2024-11-13,SpeedPost,Standard,22.76,Delivered,New York
+SHP-11081,2024-08-18,,FedEx,Express,26.19,In Transit,San Diego
+SHP-10830,2024-07-02,2024-07-06,UPS,Standard,19.49,Delivered,San Diego
+SHP-10119,2024-04-08,,DHL,Standard,13.63,Cancelled,Austin
+SHP-10656,2024-02-13,,FedEx,Standard,21.23,Cancelled,Los Angeles
+SHP-11454,2024-01-16,2024-01-19,FedEx,Standard,22.76,Delivered,Austin
+SHP-10635,2024-12-11,,UPS,Express,26.74,Returned,Phoenix
+SHP-10369,2024-10-25,2024-10-25,FedEx,Same Day,57.38,Delivered,Los Angeles
+SHP-10268,2024-06-08,2024-06-12,UPS,Standard,10.71,Delivered,Phoenix
+SHP-10655,2024-02-27,2024-03-06,FedEx,Standard,16.53,Delivered,San Diego
+SHP-10935,2024-06-28,,SpeedPost,Express,38.15,In Transit,San Diego
+SHP-10822,2024-04-20,2024-04-22,DHL,Express,43.55,Delivered,Los Angeles
+SHP-10866,2024-12-15,,FedEx,Standard,8.81,Cancelled,Philadelphia
+SHP-10046,2024-06-15,2024-06-21,SpeedPost,Standard,21.71,Delivered,Philadelphia
+SHP-11318,2024-01-14,2024-01-23,BlueDart,Standard,9.74,Delivered,New York
+SHP-10991,2024-01-01,2024-01-04,SpeedPost,Express,37.38,Delivered,Dallas
+SHP-10876,2024-04-22,,DHL,Standard,21.37,Cancelled,Austin
+SHP-10773,2024-02-23,2024-02-27,SpeedPost,Express,43.82,Delivered,San Antonio
+SHP-11122,2024-01-11,2024-01-12,UPS,Overnight,36.0,Delivered,Dallas
+SHP-10004,2024-03-12,2024-03-15,FedEx,Standard,16.06,Delivered,Austin
+SHP-11003,2024-01-10,2024-01-16,FedEx,Standard,15.87,Delivered,San Antonio
+SHP-11329,2024-06-02,2024-06-03,DHL,Overnight,58.21,Delivered,San Diego
+SHP-10263,2024-01-02,2024-01-05,DHL,Express,29.22,Delivered,Los Angeles
+SHP-11208,2024-12-07,,DHL,Same Day,46.49,Cancelled,Chicago
+SHP-11398,2024-05-27,2024-06-14,UPS,Standard,8.49,Delivered,Los Angeles
+SHP-10443,2024-05-08,2024-05-08,FedEx,Same Day,56.04,Delivered,Philadelphia
+SHP-11002,2024-06-26,2024-06-30,UPS,Standard,20.03,Delivered,Austin
+SHP-11077,2024-01-15,2024-01-19,SpeedPost,Standard,19.4,Delivered,Los Angeles
+SHP-10837,2024-06-08,2024-06-09,SpeedPost,Same Day,58.98,Delivered,Chicago
+SHP-11368,2024-11-05,2024-11-10,DHL,Standard,10.29,Delivered,Philadelphia
+SHP-10304,2024-05-07,2024-05-07,UPS,Same Day,45.38,Delivered,Austin
+SHP-11198,2024-05-29,2024-06-05,UPS,Standard,13.37,Delivered,Dallas
+SHP-10313,2024-02-20,2024-02-22,FedEx,Express,41.57,Delivered,San Diego
+SHP-10149,2024-01-29,2024-02-06,DHL,Standard,12.84,Delivered,Houston
+SHP-11148,2024-04-15,2024-04-20,DHL,Express,35.27,Delivered,Chicago
+SHP-10574,2024-08-10,2024-08-15,BlueDart,Express,40.04,Delivered,Los Angeles
+SHP-10050,2024-01-14,2024-01-17,FedEx,Standard,10.67,Delivered,New York
+SHP-11222,2024-10-11,,FedEx,Standard,21.43,Returned,San Antonio
+SHP-10726,2024-08-26,,FedEx,Standard,15.8,In Transit,Los Angeles
+SHP-10833,2024-12-17,2024-12-21,FedEx,Standard,,Delivered,Phoenix
+SHP-11115,2024-08-30,2024-08-31,FedEx,Overnight,42.1,Delivered,San Diego
+SHP-11166,2024-02-24,2024-03-03,UPS,Standard,12.68,Delivered,Houston
+SHP-10470,2024-02-16,2024-02-23,DHL,Standard,12.47,Delivered,Chicago
+SHP-10971,2024-04-27,2024-04-28,DHL,Overnight,60.34,Delivered,Philadelphia
+SHP-10653,2024-04-26,2024-04-27,FedEx,Overnight,55.5,Delivered,Phoenix
+SHP-10399,2024-05-04,2024-05-07,FedEx,Standard,9.4,Delivered,New York
+SHP-10511,2024-11-18,2024-11-23,DHL,Standard,19.83,Delivered,Philadelphia
+SHP-10320,2024-04-06,2024-04-07,DHL,Same Day,72.53,Delivered,New York
+SHP-10019,2024-12-09,,UPS,Standard,20.54,Delivered,Phoenix
+SHP-10684,2024-09-28,2024-10-04,DHL,Standard,9.52,Delivered,San Diego
+SHP-10035,2024-06-23,2024-06-25,SpeedPost,Express,34.95,Delivered,Los Angeles
+SHP-10902,2024-08-14,2024-08-20,BlueDart,Standard,14.9,Delivered,Houston
+SHP-10827,2024-04-04,2024-04-07,FedEx,Express,41.39,Delivered,New York
+SHP-11373,2024-10-18,2024-10-18,FedEx,Same Day,49.54,Delivered,Houston
+SHP-10407,2024-11-21,2024-11-25,SpeedPost,Standard,16.96,Delivered,San Diego
+SHP-10920,2024-03-07,,UPS,Standard,18.88,Returned,Los Angeles
+SHP-10537,2024-10-03,,DHL,Overnight,47.26,Returned,Austin
+SHP-10758,2024-07-23,2024-07-28,UPS,Standard,20.18,Delivered,Chicago
+SHP-11062,2024-01-23,2024-01-25,UPS,Overnight,50.01,Delivered,San Antonio
+SHP-10245,2024-12-17,2024-12-21,UPS,Standard,9.29,Delivered,Chicago
+SHP-11127,2024-05-13,2024-05-19,BlueDart,Standard,,Delivered,Houston
+SHP-10784,2024-03-06,2024-03-09,FedEx,Standard,11.16,Delivered,San Antonio
+SHP-10489,2024-06-28,2024-07-05,DHL,Standard,21.29,Delivered,New York
+SHP-10154,2024-07-05,2024-07-10,FedEx,Standard,8.51,Delivered,New York
+SHP-10961,2024-08-16,2024-08-20,UPS,Standard,10.88,Delivered,New York
+SHP-10853,2024-02-15,2024-02-15,FedEx,Same Day,70.22,Delivered,Los Angeles
+SHP-10625,2024-05-11,2024-05-15,DHL,Express,36.14,Delivered,Philadelphia
+SHP-10685,2024-12-23,2024-12-25,UPS,Express,30.84,Delivered,Chicago
+SHP-10569,2024-08-20,2024-08-27,DHL,Standard,17.99,Delivered,Houston
+SHP-11455,2024-07-17,2024-07-21,FedEx,Standard,,Delivered,Austin
+SHP-10017,2024-11-04,,DHL,Standard,18.87,Returned,Austin
+SHP-10127,2024-09-13,2024-09-13,FedEx,Same Day,72.59,Delivered,Dallas
+SHP-10299,2024-10-15,2024-10-15,DHL,Same Day,61.07,Delivered,Philadelphia
+SHP-10927,2024-02-03,2024-02-04,DHL,Overnight,52.08,Delivered,Philadelphia
+SHP-10980,2024-05-12,2024-05-18,DHL,Standard,13.78,Delivered,Philadelphia
+SHP-11499,2024-05-20,2024-05-24,UPS,Standard,10.86,Delivered,Austin
+SHP-10190,2024-11-10,,FedEx,Express,38.88,In Transit,San Antonio
+SHP-11139,2024-04-13,2024-04-18,UPS,Standard,14.37,Delivered,San Antonio
+SHP-10992,2024-03-30,2024-04-17,FedEx,Standard,10.42,Delivered,Chicago
+SHP-11493,2024-08-14,2024-08-19,DHL,Standard,20.35,Delivered,Phoenix
+SHP-11278,2024-11-25,2024-12-02,UPS,Standard,9.73,Delivered,Austin
+SHP-10606,2024-06-22,2024-06-29,BlueDart,Standard,11.2,Delivered,San Diego
+SHP-10180,2024-12-24,2024-12-27,BlueDart,Express,28.91,Delivered,Houston
+SHP-10301,2024-10-30,2024-10-30,FedEx,Same Day,74.31,Delivered,Los Angeles
+SHP-10496,2024-01-04,,DHL,Express,30.97,Cancelled,Philadelphia
+SHP-11319,2024-01-09,,FedEx,Standard,20.65,Cancelled,New York
+SHP-11283,2024-05-26,2024-06-01,UPS,Standard,19.46,Delivered,Los Angeles
+SHP-11263,2024-04-06,2024-04-12,DHL,Standard,19.22,Delivered,Los Angeles
+SHP-10517,2024-10-11,2024-10-14,FedEx,Express,35.0,Delivered,Dallas
+SHP-11069,2024-04-13,2024-04-20,UPS,Standard,11.46,Delivered,Houston
+SHP-10476,2024-02-08,2024-02-09,SpeedPost,Same Day,80.0,Delivered,San Antonio
+SHP-10157,2024-10-10,2024-10-15,DHL,Standard,17.11,Delivered,Phoenix
+SHP-11195,2024-06-25,2024-06-30,FedEx,Standard,15.42,Delivered,Houston
+SHP-10016,2024-05-29,2024-06-04,DHL,Standard,21.43,Delivered,Philadelphia
+SHP-11072,2024-07-16,2024-07-19,DHL,Express,37.02,Delivered,Austin
+SHP-11108,2024-02-16,2024-02-21,UPS,Standard,16.98,Delivered,Los Angeles
+SHP-10546,2024-04-05,2024-04-11,FedEx,Standard,10.1,Delivered,Dallas
+SHP-10658,2024-06-08,2024-06-13,DHL,Standard,17.86,Delivered,New York
+SHP-11252,2024-11-08,2024-11-08,FedEx,Same Day,45.73,Delivered,Philadelphia
+SHP-11019,2024-04-04,2024-04-08,BlueDart,Standard,14.42,Delivered,San Diego
+SHP-11284,2024-04-21,2024-04-27,BlueDart,Standard,8.96,Delivered,San Antonio
+SHP-10959,2024-01-31,2024-02-06,FedEx,Standard,16.49,Delivered,San Antonio
+SHP-11438,2024-09-20,2024-09-25,DHL,Standard,23.94,Delivered,Los Angeles
+SHP-10283,2024-04-13,2024-04-15,DHL,Overnight,55.28,Delivered,Dallas
+SHP-10797,2024-11-03,,FedEx,Standard,24.3,Cancelled,San Diego
+SHP-10225,2024-09-11,,FedEx,Express,26.07,Cancelled,Houston
+SHP-10026,2024-09-09,2024-09-14,FedEx,Standard,16.81,Delivered,Chicago
+SHP-10437,2024-12-11,2024-12-15,UPS,Standard,16.49,Delivered,Dallas
+SHP-11487,2024-12-14,2024-12-16,SpeedPost,Express,42.45,Delivered,Philadelphia
+SHP-10229,2024-04-07,2024-04-09,FedEx,Express,42.19,Delivered,Houston
+SHP-10037,2024-12-29,2025-01-03,FedEx,Standard,9.1,Delivered,Austin
+SHP-10749,2024-06-13,2024-06-16,DHL,Standard,19.88,Delivered,Los Angeles
+SHP-11045,2024-12-04,2024-12-05,FedEx,Overnight,49.1,Delivered,Dallas
+SHP-10469,2024-03-09,2024-03-21,FedEx,Standard,23.07,Delivered,Los Angeles
+SHP-11358,2024-04-07,2024-04-08,FedEx,Overnight,61.79,Delivered,Chicago
+SHP-10732,2024-08-04,,DHL,Standard,24.33,Delivered,San Diego
+SHP-10687,2024-01-08,2024-01-09,UPS,Overnight,50.48,Delivered,Phoenix
+SHP-11407,2024-10-22,,FedEx,Standard,16.08,Cancelled,Austin
+SHP-10639,2024-06-21,2024-06-25,DHL,Standard,20.44,Delivered,Los Angeles
+SHP-11322,2024-10-07,2024-10-08,DHL,Overnight,49.15,Delivered,Dallas
+SHP-11218,2024-07-29,2024-08-01,FedEx,Standard,10.47,Delivered,New York
+SHP-11158,2024-10-28,2024-11-02,BlueDart,Standard,17.59,Delivered,New York
+SHP-11277,2024-01-07,2024-01-10,FedEx,Express,44.78,Delivered,Phoenix
+SHP-11392,2024-03-09,2024-03-15,BlueDart,Standard,22.06,Delivered,Austin
+SHP-10800,2024-11-30,2024-11-30,DHL,Same Day,73.94,Delivered,New York
+SHP-10160,2024-02-14,2024-02-22,BlueDart,Standard,23.92,Delivered,Chicago
+SHP-10956,2024-05-16,2024-05-17,FedEx,Overnight,52.39,Delivered,Los Angeles
+SHP-11186,2024-09-07,2024-09-09,UPS,Express,38.31,Delivered,New York
+SHP-10821,2024-08-27,,FedEx,Standard,12.05,Returned,Philadelphia
+SHP-11298,2024-10-19,2024-10-22,DHL,Standard,15.73,Delivered,San Antonio
+SHP-10877,2024-12-20,2024-12-24,UPS,Standard,13.31,Delivered,Houston
+SHP-10913,2024-10-26,2024-11-02,SpeedPost,Standard,17.47,Delivered,Los Angeles
+SHP-10152,2024-06-08,2024-06-18,DHL,Standard,16.26,Delivered,Houston
+SHP-11402,2024-12-30,2025-01-07,FedEx,Standard,22.26,Delivered,San Diego
+SHP-10509,2024-04-10,2024-04-15,UPS,Standard,14.25,Delivered,San Antonio
+SHP-11135,2024-05-20,2024-05-21,FedEx,Overnight,43.7,Delivered,New York
+SHP-11250,2024-01-08,2024-01-13,FedEx,Standard,13.98,Delivered,Houston
+SHP-11285,2024-02-05,2024-02-10,UPS,Standard,19.44,Delivered,Philadelphia
+SHP-10103,2024-03-21,2024-04-08,UPS,Standard,24.36,Delivered,Dallas
+SHP-10586,2024-04-18,2024-04-19,FedEx,Overnight,58.12,Delivered,Phoenix
+SHP-11356,2024-08-06,,UPS,Overnight,58.33,Cancelled,Austin
+SHP-11143,2024-11-19,2024-11-26,DHL,Standard,13.06,Delivered,San Antonio
+SHP-10053,2024-12-11,2024-12-15,UPS,Standard,18.0,Delivered,Phoenix
+SHP-10151,2024-01-13,2024-01-16,BlueDart,Express,24.52,Delivered,San Diego
+SHP-10403,2024-12-07,2024-12-12,FedEx,Standard,10.93,Delivered,New York
+SHP-11484,2024-02-08,2024-02-11,UPS,Standard,21.78,Delivered,Austin
+SHP-10207,2024-05-09,,UPS,Express,23.97,In Transit,New York
+SHP-11446,2024-09-24,2024-09-27,SpeedPost,Express,24.97,Delivered,Austin
+SHP-11122,2024-01-11,2024-01-12,UPS,Overnight,36.0,Delivered,Dallas
+SHP-11346,2024-06-01,2024-06-07,DHL,Standard,20.16,Delivered,Dallas
+SHP-10008,2024-05-01,2024-05-01,UPS,Same Day,51.2,Delivered,Austin
+SHP-11014,2024-11-24,,DHL,Standard,10.76,Cancelled,San Antonio
+SHP-11372,2024-06-29,2024-07-03,DHL,Standard,20.72,Delivered,San Antonio
+SHP-11060,2024-05-04,2024-05-04,FedEx,Same Day,60.98,Delivered,Philadelphia
+SHP-10452,2024-02-17,2024-02-18,FedEx,Overnight,48.68,Delivered,San Antonio
+SHP-10253,2024-09-23,2024-09-24,SpeedPost,Overnight,38.97,Delivered,Austin
+SHP-10896,2024-04-20,2024-04-21,FedEx,Overnight,37.77,Delivered,Dallas
+SHP-11336,2024-11-21,2024-11-26,FedEx,Standard,15.37,Delivered,Dallas
+SHP-10880,2024-07-25,2024-07-29,UPS,Express,41.19,Delivered,Chicago
+SHP-11442,2024-07-16,2024-07-16,UPS,Same Day,49.33,Delivered,Chicago
+SHP-10623,2024-08-04,2024-08-04,FedEx,Same Day,76.09,Delivered,New York
+SHP-10345,2024-04-25,2024-04-29,DHL,Standard,8.23,Delivered,Austin
+SHP-11314,2024-08-11,2024-08-13,SpeedPost,Express,21.32,Delivered,Philadelphia
+SHP-10262,2024-02-29,,BlueDart,Overnight,59.14,Returned,Phoenix
+SHP-10150,2024-02-05,2024-02-05,FedEx,Same Day,64.13,Delivered,San Antonio
+SHP-10472,2024-08-25,,FedEx,Standard,15.91,Delivered,Chicago
+SHP-10640,2024-05-20,2024-05-20,SpeedPost,Same Day,,Delivered,San Antonio
+SHP-10931,2024-03-23,2024-03-26,SpeedPost,Express,22.75,Delivered,Chicago
+SHP-11439,2024-05-28,2024-06-05,UPS,Standard,9.55,Delivered,Philadelphia
+SHP-10550,2024-08-11,2024-08-16,DHL,Standard,19.22,Delivered,New York
+SHP-10928,2024-04-20,2024-04-23,DHL,Overnight,59.36,Delivered,New York
+SHP-10488,2024-10-16,2024-10-19,FedEx,Overnight,60.63,Delivered,Phoenix
+SHP-11385,2024-08-14,2024-08-17,SpeedPost,Express,23.14,Delivered,Los Angeles
+SHP-11171,2024-11-08,2024-11-09,FedEx,Overnight,64.48,Delivered,Philadelphia
+SHP-10146,2024-08-24,2024-09-01,DHL,Standard,20.46,Delivered,Los Angeles
+SHP-10402,2024-02-27,2024-02-27,BlueDart,Same Day,64.15,Delivered,Chicago
+SHP-10954,2024-05-31,2024-06-04,DHL,Express,43.24,Delivered,San Antonio
+SHP-11434,2024-11-13,2024-11-16,FedEx,Standard,17.72,Delivered,San Diego
+SHP-10659,2024-06-21,2024-06-24,DHL,Standard,18.52,Delivered,San Antonio
+SHP-10463,2024-06-02,2024-06-03,DHL,Overnight,42.64,Delivered,Houston
+SHP-10186,2024-11-02,,UPS,Express,21.46,Cancelled,San Antonio
+SHP-11147,2024-05-06,2024-05-09,FedEx,Express,28.22,Delivered,Dallas
+SHP-11224,2024-10-12,2024-10-16,DHL,Standard,13.88,Delivered,Los Angeles
+SHP-10608,2024-06-16,2024-06-17,SpeedPost,Same Day,48.23,Delivered,Los Angeles
+SHP-10143,2024-04-05,2024-04-09,BlueDart,Standard,10.59,Delivered,Austin
+SHP-10751,2024-03-23,2024-03-27,DHL,Standard,10.38,Delivered,Houston
+SHP-10981,2024-11-21,2024-11-24,DHL,Express,20.16,Delivered,San Diego
+SHP-10197,2024-02-21,2024-02-23,SpeedPost,Express,41.26,Delivered,New York
+SHP-10883,2024-02-25,2024-03-04,UPS,Standard,21.7,Delivered,San Antonio
+SHP-10279,2024-06-09,2024-06-11,FedEx,Overnight,46.62,Delivered,Houston
+SHP-10293,2024-11-05,2024-11-09,BlueDart,Standard,23.2,Delivered,New York
+SHP-11393,2024-11-07,2024-11-08,DHL,Same Day,68.8,Delivered,Philadelphia
+SHP-10400,2024-05-29,2024-06-02,BlueDart,Standard,21.02,Delivered,Chicago
+SHP-10122,2024-08-01,2024-08-04,DHL,Express,32.69,Delivered,Houston
+SHP-11207,2024-04-27,2024-04-27,SpeedPost,Same Day,84.1,Delivered,Dallas
+SHP-10202,2024-04-22,2024-04-23,UPS,Overnight,43.45,Delivered,Houston
+SHP-10835,2024-06-03,2024-06-04,BlueDart,Same Day,46.14,Delivered,Philadelphia
+SHP-10246,2024-07-17,,SpeedPost,Standard,17.81,Cancelled,Dallas
+SHP-11465,2024-11-23,,BlueDart,Standard,10.3,Cancelled,San Antonio
+SHP-11394,2024-10-15,2024-10-18,BlueDart,Standard,21.5,Delivered,Dallas
+SHP-11153,2024-10-22,2024-10-24,FedEx,Express,29.72,Delivered,New York
+SHP-10384,2024-11-16,2024-11-22,FedEx,Standard,20.31,Delivered,Houston
+SHP-11350,2024-12-27,2024-12-31,BlueDart,Express,33.88,Delivered,Philadelphia
+SHP-10854,2024-02-03,2024-02-05,BlueDart,Express,,Delivered,San Diego
+SHP-10219,2024-07-16,2024-07-20,BlueDart,Express,27.26,Delivered,Chicago
+SHP-10641,2024-08-29,2024-08-29,BlueDart,Same Day,79.23,Delivered,Phoenix
+SHP-10001,2024-12-14,2024-12-21,SpeedPost,Express,20.43,Delivered,San Antonio
+SHP-10112,2024-11-23,2024-11-25,SpeedPost,Express,36.76,Delivered,San Diego
+SHP-10698,2024-12-22,2024-12-26,FedEx,Standard,10.52,Delivered,Phoenix
+SHP-11460,2024-11-30,2024-12-04,FedEx,Standard,16.9,Delivered,Austin
+SHP-10951,2024-11-13,2024-11-22,BlueDart,Standard,16.89,Delivered,Los Angeles
+SHP-11345,2024-06-13,2024-06-15,DHL,Express,23.25,Delivered,Austin
+SHP-11291,2024-07-15,2024-07-21,DHL,Standard,21.66,Delivered,Phoenix
+SHP-11382,2024-07-05,2024-07-11,UPS,Standard,11.36,Delivered,San Antonio
+SHP-10441,2024-10-05,2024-10-06,FedEx,Overnight,38.96,Delivered,San Antonio
+SHP-11136,2024-04-13,2024-04-18,BlueDart,Standard,8.25,Delivered,Philadelphia
+SHP-11256,2024-11-23,2024-11-29,BlueDart,Standard,20.81,Delivered,San Antonio
+SHP-10663,2024-03-20,2024-03-25,DHL,Standard,13.93,Delivered,New York
+SHP-11401,2024-12-02,2024-12-05,UPS,Standard,12.46,Delivered,Dallas
+SHP-11257,2024-02-23,,UPS,Standard,15.6,In Transit,Dallas
+SHP-11359,2024-09-24,2024-09-26,FedEx,Express,31.2,Delivered,San Diego
+SHP-10317,2024-08-13,2024-08-17,UPS,Standard,,Delivered,Phoenix
+SHP-10648,2024-01-01,2024-01-07,BlueDart,Standard,13.07,Delivered,Dallas
+SHP-10709,2024-09-09,2024-09-11,DHL,Express,,Delivered,Los Angeles
+SHP-11282,2024-03-25,2024-03-26,FedEx,Same Day,48.69,Delivered,Dallas
+SHP-10972,2024-04-03,2024-04-07,BlueDart,Standard,23.26,Delivered,Dallas
+SHP-10627,2024-03-10,,FedEx,Same Day,51.49,Cancelled,Austin
+SHP-10632,2024-06-15,2024-06-19,UPS,Standard,20.18,Delivered,San Antonio
+SHP-11306,2024-10-06,2024-10-08,BlueDart,Express,29.46,Delivered,Houston
+SHP-11248,2024-06-26,2024-06-28,DHL,Express,20.9,Delivered,Los Angeles
+SHP-11491,2024-04-17,2024-04-20,UPS,Express,37.22,Delivered,New York
+SHP-11254,2024-11-18,,BlueDart,Same Day,77.19,Returned,Dallas
+SHP-11354,2024-10-13,,UPS,Express,43.79,Cancelled,San Diego
+SHP-11412,2024-04-13,2024-04-14,BlueDart,Overnight,55.73,Delivered,New York
+SHP-10795,2024-11-30,2024-12-09,UPS,Standard,20.26,Delivered,Los Angeles
+SHP-10645,2024-05-27,2024-06-03,DHL,Standard,16.83,Delivered,Phoenix
+SHP-11012,2024-11-14,2024-11-18,SpeedPost,Standard,,Delivered,Houston
+SHP-10556,2024-08-04,2024-08-05,FedEx,Overnight,38.14,Delivered,Chicago
+SHP-10681,2024-01-12,2024-01-17,BlueDart,Standard,16.43,Delivered,San Antonio
+SHP-10577,2024-05-23,2024-05-27,DHL,Standard,14.35,Delivered,Dallas
+SHP-11109,2024-11-19,,DHL,Express,36.55,In Transit,San Diego
+SHP-11266,2024-10-17,2024-10-19,DHL,Express,42.83,Delivered,New York
+SHP-11183,2024-01-17,2024-01-23,DHL,Standard,9.49,Delivered,Houston
+SHP-10524,2024-08-02,2024-08-05,FedEx,Standard,13.48,Delivered,Dallas
+SHP-11059,2024-06-27,2024-07-01,UPS,Standard,12.99,Delivered,San Antonio
+SHP-10540,2024-12-22,2024-12-27,DHL,Standard,9.35,Delivered,San Antonio
+SHP-11194,2024-06-09,2024-06-09,UPS,Same Day,49.32,Delivered,Phoenix
+SHP-10748,2024-02-22,2024-02-23,FedEx,Overnight,52.48,Delivered,Austin
+SHP-11415,2024-02-08,2024-02-13,FedEx,Standard,15.06,Delivered,New York
+SHP-10484,2024-01-10,2024-01-11,UPS,Overnight,63.31,Delivered,Phoenix
+SHP-10095,2024-12-10,,BlueDart,Standard,21.6,Cancelled,Philadelphia
+SHP-11020,2024-10-31,2024-11-05,FedEx,Standard,15.56,Delivered,New York
+SHP-10563,2024-08-04,2024-08-04,FedEx,Same Day,67.19,Delivered,Los Angeles
+SHP-11264,2024-04-01,2024-04-05,SpeedPost,Express,23.42,Delivered,Austin
+SHP-10742,2024-07-15,,FedEx,Express,40.83,Returned,Houston
+SHP-10863,2024-08-01,2024-08-07,UPS,Standard,18.34,Delivered,San Antonio
+SHP-10891,2024-01-14,,SpeedPost,Standard,8.86,Cancelled,Los Angeles
+SHP-11038,2024-09-26,2024-09-28,FedEx,Overnight,61.0,Delivered,Los Angeles
+SHP-10206,2024-01-02,2024-01-12,FedEx,Standard,16.7,Delivered,Houston
+SHP-10392,2024-08-02,2024-08-09,FedEx,Standard,8.18,Delivered,San Diego
+SHP-10794,2024-10-12,2024-10-16,SpeedPost,Express,28.12,Delivered,Austin
+SHP-10870,2024-03-01,2024-03-05,FedEx,Express,40.26,Delivered,Dallas
+SHP-10397,2024-03-03,2024-03-06,DHL,Overnight,58.53,Delivered,San Antonio
+SHP-10766,2024-06-02,2024-06-04,FedEx,Express,37.33,Delivered,Philadelphia
+SHP-11405,2024-03-13,2024-03-18,FedEx,Standard,17.64,Delivered,Houston
+SHP-11241,2024-05-10,2024-05-10,UPS,Same Day,72.53,Delivered,Austin
+SHP-11028,2024-01-01,2024-01-04,UPS,Express,32.98,Delivered,San Diego
+SHP-10642,2024-08-07,2024-08-10,UPS,Express,32.87,Delivered,New York
+SHP-10612,2024-07-12,,UPS,Standard,11.32,Returned,Austin
+SHP-10960,2024-02-09,2024-02-16,UPS,Standard,12.63,Delivered,Chicago
+SHP-10725,2024-08-11,,BlueDart,Standard,23.17,Returned,Houston
+SHP-10683,2024-08-11,2024-08-16,BlueDart,Standard,9.21,Delivered,Austin
+SHP-10098,2024-12-09,2024-12-27,FedEx,Standard,20.71,Delivered,Philadelphia
+SHP-10804,2024-02-20,2024-02-22,UPS,Express,,Delivered,Chicago
+SHP-10406,2024-06-18,2024-06-22,UPS,Standard,17.42,Delivered,Austin
+SHP-10502,2024-06-08,2024-06-13,UPS,Express,34.24,Delivered,Austin
+SHP-11071,2024-02-08,2024-02-10,SpeedPost,Express,41.4,Delivered,New York
+SHP-11056,2024-04-13,2024-04-15,SpeedPost,Express,,Delivered,Chicago
+SHP-10929,2024-09-20,2024-09-24,DHL,Express,40.2,Delivered,Philadelphia
+SHP-10779,2024-09-11,2024-09-14,FedEx,Express,25.63,Delivered,Chicago
+SHP-10200,2024-04-22,2024-04-25,FedEx,Express,36.4,Delivered,Dallas
+SHP-10134,2024-01-15,2024-01-18,FedEx,Express,29.26,Delivered,Dallas
+SHP-11051,2024-02-11,2024-02-18,DHL,Standard,18.72,Delivered,Phoenix
+SHP-10040,2024-11-15,2024-11-20,FedEx,Standard,17.52,Delivered,Los Angeles
+SHP-11017,2024-02-07,2024-02-09,UPS,Express,40.15,Delivered,San Antonio
+SHP-10230,2024-07-16,2024-08-07,DHL,Standard,18.9,Delivered,Phoenix
+SHP-10378,2024-01-13,2024-01-16,UPS,Express,24.78,Delivered,Los Angeles
+SHP-10288,2024-04-08,,FedEx,Express,37.73,In Transit,Austin
+SHP-10418,2024-09-18,2024-09-22,FedEx,Standard,8.79,Delivered,New York
+SHP-10391,2024-10-14,2024-10-16,FedEx,Express,28.17,Delivered,San Antonio
+SHP-10592,2024-05-12,,FedEx,Standard,10.04,Returned,Phoenix
+SHP-11162,2024-06-30,2024-07-12,UPS,Standard,24.06,Delivered,Philadelphia
+SHP-11086,2024-09-10,2024-09-11,SpeedPost,Overnight,53.45,Delivered,Phoenix
+SHP-10647,2024-12-26,2024-12-27,FedEx,Overnight,47.68,Delivered,San Antonio
+SHP-11152,2024-01-29,2024-01-31,DHL,Express,25.61,Delivered,New York
+SHP-11367,2024-05-09,,SpeedPost,Same Day,67.44,In Transit,Austin
+SHP-10520,2024-10-28,2024-11-01,FedEx,Express,21.4,Delivered,Chicago
+SHP-10064,2024-02-23,2024-02-23,BlueDart,Same Day,61.41,Delivered,Houston
+SHP-10014,2024-05-31,2024-06-03,UPS,Standard,10.43,Delivered,Houston
+SHP-11180,2024-10-20,2024-10-25,FedEx,Standard,13.26,Delivered,Philadelphia
+SHP-11064,2024-05-22,2024-05-29,DHL,Standard,14.66,Delivered,San Antonio
+SHP-10492,2024-05-26,2024-05-29,SpeedPost,Express,22.53,Delivered,Los Angeles
+SHP-10379,2024-11-11,2024-11-15,FedEx,Standard,13.32,Delivered,San Diego
+SHP-10187,2024-08-21,2024-08-24,FedEx,Express,43.18,Delivered,Dallas
+SHP-10763,2024-04-04,,DHL,Same Day,80.35,Cancelled,Los Angeles
+SHP-10216,2024-06-20,2024-06-27,SpeedPost,Standard,17.14,Delivered,Chicago
+SHP-10791,2024-11-01,2024-11-06,DHL,Express,33.73,Delivered,Chicago
+SHP-11076,2024-02-11,2024-02-14,SpeedPost,Express,31.35,Delivered,New York
+SHP-10878,2024-09-09,2024-09-14,FedEx,Standard,23.55,Delivered,Chicago
+SHP-10337,2024-02-06,2024-02-06,FedEx,Same Day,62.46,Delivered,Dallas
+SHP-10719,2024-12-30,2025-01-02,DHL,Overnight,58.16,Delivered,San Diego
+SHP-10295,2024-07-26,2024-07-27,UPS,Overnight,57.2,Delivered,Chicago
+SHP-11016,2024-09-21,,BlueDart,Overnight,39.0,Cancelled,Houston
+SHP-11275,2024-08-10,2024-09-01,UPS,Standard,13.16,Delivered,San Antonio
+SHP-10455,2024-09-28,2024-10-02,FedEx,Express,44.54,Delivered,Los Angeles
+SHP-10097,2024-01-09,2024-01-16,FedEx,Standard,21.09,Delivered,Houston
+SHP-10815,2024-09-18,2024-09-21,UPS,Express,41.87,Delivered,Philadelphia
+SHP-10269,2024-01-09,,UPS,Express,42.41,Returned,New York
+SHP-10995,2024-02-07,2024-02-11,BlueDart,Standard,14.93,Delivered,New York
+SHP-10201,2024-04-10,2024-04-10,UPS,Same Day,60.29,Delivered,San Antonio
+SHP-10161,2024-03-02,2024-03-05,UPS,Express,22.66,Delivered,San Antonio
+SHP-10729,2024-12-06,2024-12-10,FedEx,Express,22.35,Delivered,Austin
+SHP-10401,2024-11-09,2024-11-27,BlueDart,Standard,9.19,Delivered,Phoenix
+SHP-10702,2024-05-24,,UPS,Overnight,36.65,Cancelled,Philadelphia
+SHP-11129,2024-01-23,2024-01-28,DHL,Express,23.38,Delivered,San Antonio
+SHP-10565,2024-07-05,2024-07-06,DHL,Overnight,63.86,Delivered,Phoenix
+SHP-11413,2024-02-11,2024-02-11,DHL,Same Day,61.17,Delivered,Los Angeles
+SHP-11021,2024-03-09,2024-03-11,FedEx,Express,21.16,Delivered,Austin
+SHP-11025,2024-05-16,2024-05-19,SpeedPost,Express,31.14,Delivered,San Antonio
+SHP-11411,2024-03-01,2024-03-03,DHL,Express,35.39,Delivered,Phoenix
+SHP-11104,2024-06-05,2024-06-08,DHL,Standard,14.89,Delivered,San Diego
+SHP-10205,2024-04-22,2024-04-26,FedEx,Express,36.35,Delivered,Phoenix
+SHP-10034,2024-07-08,2024-07-10,SpeedPost,Express,21.58,Delivered,Chicago
+SHP-10775,2024-08-09,2024-08-12,SpeedPost,Express,32.66,Delivered,San Antonio
+SHP-10508,2024-06-27,2024-07-07,BlueDart,Standard,23.09,Delivered,San Diego
+SHP-11451,2024-02-16,2024-02-17,BlueDart,Overnight,40.94,Delivered,Houston
+SHP-11274,2024-06-30,2024-06-30,SpeedPost,Same Day,74.42,Delivered,New York
+SHP-11390,2024-05-31,,FedEx,Express,38.51,In Transit,San Diego
+SHP-10091,2024-06-05,,UPS,Express,33.39,In Transit,Dallas
+SHP-11363,2024-07-08,,UPS,Standard,11.9,Cancelled,Chicago
+SHP-10897,2024-08-25,2024-08-29,UPS,Express,38.24,Delivered,Chicago
+SHP-10564,2024-12-07,2024-12-12,FedEx,Standard,13.8,Delivered,San Antonio
+SHP-11369,2024-12-28,2025-01-03,DHL,Standard,13.44,Delivered,Austin
+SHP-10776,2024-09-07,2024-09-11,DHL,Express,44.29,Delivered,Dallas
+SHP-10241,2024-09-08,2024-09-17,FedEx,Standard,23.35,Delivered,Philadelphia
+SHP-10013,2024-12-25,2024-12-27,UPS,Express,31.05,Delivered,San Diego
+SHP-10315,2024-10-09,2024-10-14,DHL,Standard,18.04,Delivered,Phoenix
+SHP-10600,2024-03-16,,FedEx,Express,38.57,In Transit,Houston
+SHP-10387,2024-05-22,2024-05-24,UPS,Express,37.21,Delivered,Chicago
+SHP-11297,2024-09-17,2024-09-17,UPS,Same Day,68.57,Delivered,San Antonio
+SHP-10166,2024-02-13,2024-02-13,FedEx,Same Day,64.08,Delivered,San Diego
+SHP-10840,2024-02-20,2024-03-03,BlueDart,Standard,13.81,Delivered,Los Angeles
+SHP-10020,2024-10-20,,UPS,Standard,23.0,Cancelled,San Antonio
+SHP-10646,2024-11-12,2024-11-16,FedEx,Standard,13.07,Delivered,New York
+SHP-11154,2024-10-23,2024-10-25,SpeedPost,Express,30.4,Delivered,Austin
+SHP-10831,2024-10-07,2024-10-11,BlueDart,Standard,17.22,Delivered,San Antonio
+SHP-11267,2024-04-05,2024-04-08,UPS,Standard,18.35,Delivered,Phoenix
+SHP-10562,2024-03-24,2024-03-29,DHL,Express,43.75,Delivered,Chicago
+SHP-11490,2024-01-16,2024-01-17,SpeedPost,Overnight,38.18,Delivered,Phoenix
+SHP-10686,2024-06-04,2024-06-06,DHL,Express,28.89,Delivered,New York
+SHP-10957,2024-09-03,2024-09-05,FedEx,Express,33.89,Delivered,Philadelphia
+SHP-10189,2024-05-31,2024-06-04,FedEx,Standard,,Delivered,Los Angeles
+SHP-10975,2024-11-30,2024-12-01,DHL,Overnight,38.0,Delivered,Phoenix
+SHP-10699,2024-02-10,2024-02-11,UPS,Overnight,,Delivered,Philadelphia
+SHP-10510,2024-09-24,2024-09-26,FedEx,Express,23.57,Delivered,Los Angeles
+SHP-11082,2024-06-05,2024-06-15,FedEx,Standard,16.61,Delivered,San Diego
+SHP-10474,2024-08-05,2024-08-13,UPS,Standard,20.48,Delivered,San Diego
+SHP-10856,2024-08-05,2024-08-11,UPS,Standard,20.24,Delivered,Austin
+SHP-10747,2024-01-23,2024-01-26,FedEx,Express,20.5,Delivered,Los Angeles
+SHP-10252,2024-05-08,2024-05-11,DHL,Standard,14.01,Delivered,Chicago
+SHP-10021,2024-07-10,,FedEx,Express,30.85,In Transit,Philadelphia
+SHP-11337,2024-05-25,2024-05-30,DHL,Standard,14.74,Delivered,Los Angeles
+SHP-10459,2024-10-04,2024-10-10,BlueDart,Standard,,Delivered,Austin
+SHP-11184,2024-05-07,,DHL,Standard,21.7,In Transit,San Antonio
+SHP-10276,2024-05-31,,DHL,Standard,14.66,Cancelled,Dallas
+SHP-10955,2024-11-06,2024-11-09,BlueDart,Express,24.31,Delivered,San Diego
+SHP-11215,2024-08-11,2024-08-15,BlueDart,Express,34.08,Delivered,Phoenix
+SHP-10385,2024-09-20,2024-09-24,FedEx,Express,25.3,Delivered,San Diego
+SHP-10805,2024-03-21,2024-03-25,FedEx,Standard,14.53,Delivered,Houston
+SHP-11437,2024-12-04,2024-12-06,DHL,Express,38.05,Delivered,Austin
+SHP-10343,2024-04-08,2024-04-11,UPS,Express,43.11,Delivered,Phoenix
+SHP-10769,2024-04-27,2024-05-01,FedEx,Standard,11.62,Delivered,Dallas
+SHP-11332,2024-04-07,2024-04-08,FedEx,Same Day,70.71,Delivered,Dallas
+SHP-10130,2024-09-11,,DHL,Express,32.7,Cancelled,San Antonio
+SHP-10871,2024-12-02,2024-12-06,FedEx,Standard,14.36,Delivered,San Antonio
+SHP-11123,2024-09-10,2024-09-16,SpeedPost,Standard,23.52,Delivered,Austin
+SHP-11396,2024-02-05,2024-02-09,FedEx,Standard,19.55,Delivered,Los Angeles
+SHP-10087,2024-08-04,,DHL,Express,36.66,Cancelled,Houston
+SHP-11482,2024-07-01,2024-07-06,FedEx,Standard,15.95,Delivered,Philadelphia
+SHP-10330,2024-06-20,2024-06-25,DHL,Standard,23.09,Delivered,Houston
+SHP-11238,2024-09-20,,DHL,Express,42.45,Returned,Dallas
+SHP-10466,2024-07-03,2024-07-06,SpeedPost,Express,,Delivered,Los Angeles
+SHP-10121,2024-12-25,2024-12-30,FedEx,Standard,13.27,Delivered,Austin
+SHP-11044,2024-01-05,,BlueDart,Standard,13.76,In Transit,Phoenix
+SHP-11095,2024-04-27,2024-04-30,DHL,Express,43.83,Delivered,Dallas
+SHP-11130,2024-10-29,2024-10-31,FedEx,Express,34.27,Delivered,Phoenix
+SHP-11294,2024-07-13,2024-07-16,UPS,Express,25.15,Delivered,San Antonio
+SHP-10860,2024-09-05,2024-09-06,DHL,Overnight,46.49,Delivered,San Antonio
+SHP-11459,2024-09-26,2024-10-03,DHL,Express,44.77,Delivered,San Diego
+SHP-11126,2024-02-07,2024-02-09,DHL,Express,26.25,Delivered,San Diego

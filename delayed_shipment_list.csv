@@ -1,0 +1,266 @@
+Shipment_ID,Order_Date,Delivery_Date,Delivery_Partner,Shipping_Method,Shipping_Cost,Order_Status,Customer_City,Delivery_Days,Delivery_Category
+SHP-11450,2024-01-26,2024-02-17,UPS,Standard,24.7,Delivered,Chicago,22.0,Highly Delayed
+SHP-11275,2024-08-10,2024-09-01,UPS,Standard,13.16,Delivered,San Antonio,22.0,Highly Delayed
+SHP-10230,2024-07-16,2024-08-07,DHL,Standard,18.9,Delivered,Phoenix,22.0,Highly Delayed
+SHP-10103,2024-03-21,2024-04-08,UPS,Standard,24.36,Delivered,Dallas,18.0,Highly Delayed
+SHP-11398,2024-05-27,2024-06-14,UPS,Standard,8.49,Delivered,Los Angeles,18.0,Highly Delayed
+SHP-10992,2024-03-30,2024-04-17,FedEx,Standard,10.42,Delivered,Chicago,18.0,Highly Delayed
+SHP-10762,2024-12-13,2024-12-31,FedEx,Standard,24.28,Delivered,Phoenix,18.0,Highly Delayed
+SHP-10098,2024-12-09,2024-12-27,FedEx,Standard,20.71,Delivered,Philadelphia,18.0,Highly Delayed
+SHP-10401,2024-11-09,2024-11-27,BlueDart,Standard,9.19,Delivered,Phoenix,18.0,Highly Delayed
+SHP-11245,2024-03-27,2024-04-14,BlueDart,Standard,9.43,Delivered,Chicago,18.0,Highly Delayed
+SHP-11328,2024-01-04,2024-01-22,DHL,Standard,19.09,Delivered,New York,18.0,Highly Delayed
+SHP-10874,2024-09-13,2024-10-01,DHL,Standard,13.18,Delivered,Chicago,18.0,Highly Delayed
+SHP-10982,2024-04-27,2024-05-09,SpeedPost,Standard,16.15,Delivered,Chicago,12.0,Highly Delayed
+SHP-10518,2024-01-12,2024-01-24,DHL,Standard,19.82,Delivered,New York,12.0,Highly Delayed
+SHP-11162,2024-06-30,2024-07-12,UPS,Standard,24.06,Delivered,Philadelphia,12.0,Highly Delayed
+SHP-10840,2024-02-20,2024-03-03,BlueDart,Standard,13.81,Delivered,Los Angeles,12.0,Highly Delayed
+SHP-11331,2024-04-18,2024-04-30,BlueDart,Standard,16.83,Delivered,Phoenix,12.0,Highly Delayed
+SHP-11271,2024-04-29,2024-05-11,UPS,Standard,12.41,Delivered,Chicago,12.0,Highly Delayed
+SHP-11448,2024-02-28,2024-03-11,DHL,Standard,19.21,Delivered,San Antonio,12.0,Highly Delayed
+SHP-10469,2024-03-09,2024-03-21,FedEx,Standard,23.07,Delivered,Los Angeles,12.0,Highly Delayed
+SHP-11323,2024-12-24,2025-01-03,FedEx,Standard,20.09,Delivered,San Diego,10.0,Highly Delayed
+SHP-10206,2024-01-02,2024-01-12,FedEx,Standard,16.7,Delivered,Houston,10.0,Highly Delayed
+SHP-11258,2024-09-05,2024-09-15,BlueDart,Standard,13.27,Delivered,Dallas,10.0,Highly Delayed
+SHP-11000,2024-09-15,2024-09-25,DHL,Standard,8.93,Delivered,San Antonio,10.0,Highly Delayed
+SHP-11288,2024-03-22,2024-04-01,UPS,Standard,16.88,Delivered,Houston,10.0,Highly Delayed
+SHP-10292,2024-07-12,2024-07-22,DHL,Standard,9.25,Delivered,Dallas,10.0,Highly Delayed
+SHP-10508,2024-06-27,2024-07-07,BlueDart,Standard,23.09,Delivered,San Diego,10.0,Highly Delayed
+SHP-10296,2024-06-17,2024-06-27,BlueDart,Standard,13.27,Delivered,Chicago,10.0,Highly Delayed
+SHP-10682,2024-11-25,2024-12-05,UPS,Standard,13.66,Delivered,Chicago,10.0,Highly Delayed
+SHP-10895,2024-01-03,2024-01-13,DHL,Standard,19.5,Delivered,Houston,10.0,Highly Delayed
+SHP-10523,2024-02-04,2024-02-14,UPS,Standard,10.88,Delivered,Los Angeles,10.0,Highly Delayed
+SHP-10396,2024-07-04,2024-07-14,SpeedPost,Standard,16.36,Delivered,Austin,10.0,Highly Delayed
+SHP-10327,2024-07-10,2024-07-20,UPS,Standard,15.95,Delivered,Austin,10.0,Highly Delayed
+SHP-10818,2024-05-05,2024-05-15,FedEx,Standard,20.72,Delivered,Phoenix,10.0,Highly Delayed
+SHP-10410,2024-04-10,2024-04-20,UPS,Standard,23.6,Delivered,Phoenix,10.0,Highly Delayed
+SHP-10419,2024-12-30,2025-01-09,DHL,Standard,18.61,Delivered,Los Angeles,10.0,Highly Delayed
+SHP-10867,2024-04-16,2024-04-26,UPS,Standard,22.45,Delivered,Houston,10.0,Highly Delayed
+SHP-11082,2024-06-05,2024-06-15,FedEx,Standard,16.61,Delivered,San Diego,10.0,Highly Delayed
+SHP-10172,2024-08-18,2024-08-28,SpeedPost,Standard,21.63,Delivered,New York,10.0,Highly Delayed
+SHP-10084,2024-12-03,2024-12-13,SpeedPost,Standard,11.05,Delivered,Philadelphia,10.0,Highly Delayed
+SHP-11005,2024-05-17,2024-05-27,BlueDart,Standard,16.83,Delivered,San Diego,10.0,Highly Delayed
+SHP-10152,2024-06-08,2024-06-18,DHL,Standard,16.26,Delivered,Houston,10.0,Highly Delayed
+SHP-10233,2024-04-06,2024-04-16,FedEx,Standard,14.38,Delivered,Dallas,10.0,Highly Delayed
+SHP-10467,2024-10-11,2024-10-20,UPS,Standard,20.88,Delivered,Chicago,9.0,Highly Delayed
+SHP-11318,2024-01-14,2024-01-23,BlueDart,Standard,9.74,Delivered,New York,9.0,Highly Delayed
+SHP-10654,2024-05-13,2024-05-22,BlueDart,Standard,16.83,Delivered,San Antonio,9.0,Highly Delayed
+SHP-10795,2024-11-30,2024-12-09,UPS,Standard,20.26,Delivered,Los Angeles,9.0,Highly Delayed
+SHP-10951,2024-11-13,2024-11-22,BlueDart,Standard,16.89,Delivered,Los Angeles,9.0,Highly Delayed
+SHP-11101,2024-08-03,2024-08-12,FedEx,Standard,11.13,Delivered,Chicago,9.0,Highly Delayed
+SHP-10303,2024-07-13,2024-07-22,UPS,Standard,8.05,Delivered,Houston,9.0,Highly Delayed
+SHP-10241,2024-09-08,2024-09-17,FedEx,Standard,23.35,Delivered,Philadelphia,9.0,Highly Delayed
+SHP-10072,2024-07-20,2024-07-29,DHL,Standard,11.19,Delivered,Austin,9.0,Highly Delayed
+SHP-10628,2024-09-08,2024-09-17,FedEx,Standard,24.74,Delivered,San Diego,9.0,Highly Delayed
+SHP-10785,2024-03-15,2024-03-24,FedEx,Standard,11.81,Delivered,Phoenix,9.0,Highly Delayed
+SHP-10011,2024-03-28,2024-04-06,FedEx,Standard,11.02,Delivered,Houston,9.0,Highly Delayed
+SHP-10760,2024-10-14,2024-10-23,FedEx,Standard,22.92,Delivered,Los Angeles,9.0,Highly Delayed
+SHP-10042,2024-11-02,2024-11-11,FedEx,Standard,18.38,Delivered,Philadelphia,9.0,Highly Delayed
+SHP-10280,2024-04-25,2024-05-04,UPS,Standard,13.88,Delivered,Houston,9.0,Highly Delayed
+SHP-10341,2024-06-29,2024-07-08,DHL,Standard,14.6,Delivered,Los Angeles,9.0,Highly Delayed
+SHP-11338,2024-05-07,2024-05-16,UPS,Standard,23.95,Delivered,Austin,9.0,Highly Delayed
+SHP-11456,2024-10-08,2024-10-17,UPS,Standard,8.03,Delivered,Austin,9.0,Highly Delayed
+SHP-10522,2024-08-29,2024-09-07,DHL,Standard,17.1,Delivered,Austin,9.0,Highly Delayed
+SHP-10589,2024-07-04,2024-07-13,FedEx,Standard,19.36,Delivered,Dallas,9.0,Highly Delayed
+SHP-11334,2024-10-19,2024-10-28,FedEx,Standard,22.62,Delivered,Houston,9.0,Highly Delayed
+SHP-10457,2024-07-10,2024-07-18,DHL,Standard,13.35,Delivered,Phoenix,8.0,Slightly Delayed
+SHP-11386,2024-11-05,2024-11-13,BlueDart,Standard,21.37,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-10223,2024-07-02,2024-07-10,BlueDart,Standard,24.55,Delivered,Phoenix,8.0,Slightly Delayed
+SHP-11083,2024-02-07,2024-02-15,BlueDart,Standard,22.35,Delivered,San Diego,8.0,Slightly Delayed
+SHP-10353,2024-10-07,2024-10-15,UPS,Standard,17.71,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-10583,2024-05-23,2024-05-31,DHL,Standard,14.84,Delivered,New York,8.0,Slightly Delayed
+SHP-10075,2024-10-30,2024-11-07,DHL,Standard,17.86,Delivered,San Diego,8.0,Slightly Delayed
+SHP-10105,2024-10-15,2024-10-23,SpeedPost,Standard,22.5,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-10335,2024-04-08,2024-04-16,UPS,Standard,8.26,Delivered,San Antonio,8.0,Slightly Delayed
+SHP-11479,2024-05-10,2024-05-18,SpeedPost,Standard,21.11,Delivered,Houston,8.0,Slightly Delayed
+SHP-10581,2024-02-22,2024-03-01,SpeedPost,Standard,20.14,Delivered,Dallas,8.0,Slightly Delayed
+SHP-11112,2024-05-09,2024-05-17,BlueDart,Standard,22.26,Delivered,Houston,8.0,Slightly Delayed
+SHP-10388,2024-04-01,2024-04-09,FedEx,Standard,10.69,Delivered,Phoenix,8.0,Slightly Delayed
+SHP-11420,2024-06-20,2024-06-28,UPS,Standard,9.95,Delivered,San Antonio,8.0,Slightly Delayed
+SHP-11018,2024-04-03,2024-04-11,BlueDart,Standard,24.83,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-11357,2024-06-16,2024-06-24,UPS,Standard,16.83,Delivered,San Diego,8.0,Slightly Delayed
+SHP-10153,2024-11-22,2024-11-30,BlueDart,Standard,19.97,Delivered,New York,8.0,Slightly Delayed
+SHP-10544,2024-04-08,2024-04-16,SpeedPost,Standard,23.23,Delivered,San Antonio,8.0,Slightly Delayed
+SHP-10596,2024-08-22,2024-08-30,DHL,Standard,18.33,Delivered,Dallas,8.0,Slightly Delayed
+SHP-10845,2024-11-12,2024-11-20,UPS,Standard,24.17,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-11236,2024-11-14,2024-11-22,DHL,Standard,12.44,Delivered,Phoenix,8.0,Slightly Delayed
+SHP-10964,2024-01-06,2024-01-14,BlueDart,Standard,17.68,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-11402,2024-12-30,2025-01-07,FedEx,Standard,22.26,Delivered,San Diego,8.0,Slightly Delayed
+SHP-10160,2024-02-14,2024-02-22,BlueDart,Standard,23.92,Delivered,Chicago,8.0,Slightly Delayed
+SHP-10883,2024-02-25,2024-03-04,UPS,Standard,21.7,Delivered,San Antonio,8.0,Slightly Delayed
+SHP-10146,2024-08-24,2024-09-01,DHL,Standard,20.46,Delivered,Los Angeles,8.0,Slightly Delayed
+SHP-10809,2024-07-02,2024-07-10,FedEx,Standard,16.37,Delivered,New York,8.0,Slightly Delayed
+SHP-10918,2024-01-25,2024-02-02,UPS,Standard,11.62,Delivered,Los Angeles,8.0,Slightly Delayed
+SHP-10474,2024-08-05,2024-08-13,UPS,Standard,20.48,Delivered,San Diego,8.0,Slightly Delayed
+SHP-11080,2024-10-15,2024-10-23,UPS,Standard,24.84,Delivered,Chicago,8.0,Slightly Delayed
+SHP-11439,2024-05-28,2024-06-05,UPS,Standard,9.55,Delivered,Philadelphia,8.0,Slightly Delayed
+SHP-10173,2024-07-08,2024-07-16,BlueDart,Standard,17.0,Delivered,Chicago,8.0,Slightly Delayed
+SHP-11179,2024-03-15,2024-03-23,UPS,Standard,8.76,Delivered,Chicago,8.0,Slightly Delayed
+SHP-11228,2024-09-13,2024-09-21,SpeedPost,Standard,21.34,Delivered,San Antonio,8.0,Slightly Delayed
+SHP-10082,2024-07-26,2024-08-03,FedEx,Standard,22.01,Delivered,San Diego,8.0,Slightly Delayed
+SHP-10326,2024-02-04,2024-02-12,UPS,Standard,13.15,Delivered,Dallas,8.0,Slightly Delayed
+SHP-10149,2024-01-29,2024-02-06,DHL,Standard,12.84,Delivered,Houston,8.0,Slightly Delayed
+SHP-11166,2024-02-24,2024-03-03,UPS,Standard,12.68,Delivered,Houston,8.0,Slightly Delayed
+SHP-10478,2024-10-15,2024-10-23,UPS,Standard,23.56,Delivered,Chicago,8.0,Slightly Delayed
+SHP-10493,2024-04-05,2024-04-13,DHL,Standard,8.19,Delivered,Phoenix,8.0,Slightly Delayed
+SHP-10655,2024-02-27,2024-03-06,FedEx,Standard,16.53,Delivered,San Diego,8.0,Slightly Delayed
+SHP-10156,2024-03-26,2024-04-03,FedEx,Standard,9.28,Delivered,New York,8.0,Slightly Delayed
+SHP-10669,2024-08-14,2024-08-21,FedEx,Standard,20.56,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10997,2024-05-18,2024-05-25,UPS,Express,22.74,Delivered,Dallas,7.0,Slightly Delayed
+SHP-10865,2024-02-25,2024-03-03,FedEx,Standard,24.05,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-11143,2024-11-19,2024-11-26,DHL,Standard,13.06,Delivered,San Antonio,7.0,Slightly Delayed
+SHP-11035,2024-09-23,2024-09-30,DHL,Standard,9.38,Delivered,Dallas,7.0,Slightly Delayed
+SHP-10630,2024-12-29,2025-01-05,UPS,Standard,19.54,Delivered,New York,7.0,Slightly Delayed
+SHP-10645,2024-05-27,2024-06-03,DHL,Standard,16.83,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10754,2024-03-18,2024-03-25,SpeedPost,Express,22.38,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-11459,2024-09-26,2024-10-03,DHL,Express,44.77,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10001,2024-12-14,2024-12-21,SpeedPost,Express,20.43,Delivered,San Antonio,7.0,Slightly Delayed
+SHP-10101,2024-03-03,2024-03-10,SpeedPost,Standard,16.8,Delivered,San Antonio,7.0,Slightly Delayed
+SHP-10163,2024-10-10,2024-10-17,DHL,Express,32.07,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-10383,2024-01-20,2024-01-27,FedEx,Standard,24.48,Delivered,Chicago,7.0,Slightly Delayed
+SHP-10913,2024-10-26,2024-11-02,SpeedPost,Standard,17.47,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-11189,2024-05-31,2024-06-07,DHL,Standard,18.35,Delivered,San Antonio,7.0,Slightly Delayed
+SHP-11302,2024-02-22,2024-02-29,FedEx,Standard,21.2,Delivered,Houston,7.0,Slightly Delayed
+SHP-11403,2024-07-19,2024-07-26,UPS,Standard,8.55,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-11287,2024-07-06,2024-07-13,UPS,Standard,14.78,Delivered,Houston,7.0,Slightly Delayed
+SHP-11309,2024-06-06,2024-06-13,UPS,Standard,22.47,Delivered,Chicago,7.0,Slightly Delayed
+SHP-10590,2024-08-10,2024-08-17,UPS,Standard,24.53,Delivered,Chicago,7.0,Slightly Delayed
+SHP-10438,2024-08-16,2024-08-23,UPS,Standard,15.45,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10287,2024-04-21,2024-04-28,DHL,Standard,18.31,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10606,2024-06-22,2024-06-29,BlueDart,Standard,11.2,Delivered,San Diego,7.0,Slightly Delayed
+SHP-11278,2024-11-25,2024-12-02,UPS,Standard,9.73,Delivered,Austin,7.0,Slightly Delayed
+SHP-11069,2024-04-13,2024-04-20,UPS,Standard,11.46,Delivered,Houston,7.0,Slightly Delayed
+SHP-10018,2024-09-14,2024-09-21,BlueDart,Standard,22.51,Delivered,New York,7.0,Slightly Delayed
+SHP-10412,2024-02-22,2024-02-29,FedEx,Standard,24.73,Delivered,New York,7.0,Slightly Delayed
+SHP-11007,2024-01-13,2024-01-20,BlueDart,Standard,14.55,Delivered,San Diego,7.0,Slightly Delayed
+SHP-11011,2024-11-16,2024-11-23,DHL,Standard,16.78,Delivered,Chicago,7.0,Slightly Delayed
+SHP-11279,2024-09-19,2024-09-26,BlueDart,Standard,14.88,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10489,2024-06-28,2024-07-05,DHL,Standard,21.29,Delivered,New York,7.0,Slightly Delayed
+SHP-10470,2024-02-16,2024-02-23,DHL,Standard,12.47,Delivered,Chicago,7.0,Slightly Delayed
+SHP-10285,2024-09-10,2024-09-17,DHL,Standard,8.26,Delivered,Dallas,7.0,Slightly Delayed
+SHP-10569,2024-08-20,2024-08-27,DHL,Standard,17.99,Delivered,Houston,7.0,Slightly Delayed
+SHP-10543,2024-06-25,2024-07-02,DHL,Express,31.14,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-11255,2024-09-11,2024-09-18,DHL,Standard,18.46,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10155,2024-08-30,2024-09-06,FedEx,Standard,8.17,Delivered,New York,7.0,Slightly Delayed
+SHP-10634,2024-07-20,2024-07-27,DHL,Standard,11.98,Delivered,Austin,7.0,Slightly Delayed
+SHP-11486,2024-01-04,2024-01-11,FedEx,Standard,23.75,Delivered,Dallas,7.0,Slightly Delayed
+SHP-10643,2024-05-05,2024-05-12,FedEx,Standard,9.8,Delivered,New York,7.0,Slightly Delayed
+SHP-10740,2024-11-06,2024-11-13,SpeedPost,Standard,22.76,Delivered,New York,7.0,Slightly Delayed
+SHP-11198,2024-05-29,2024-06-05,UPS,Standard,13.37,Delivered,Dallas,7.0,Slightly Delayed
+SHP-11488,2024-07-28,2024-08-04,BlueDart,Express,38.29,Delivered,Chicago,7.0,Slightly Delayed
+SHP-10456,2024-07-07,2024-07-14,DHL,Standard,10.29,Delivered,Dallas,7.0,Slightly Delayed
+SHP-10542,2024-08-14,2024-08-21,UPS,Express,31.2,Delivered,San Diego,7.0,Slightly Delayed
+SHP-11053,2024-10-22,2024-10-29,FedEx,Standard,15.43,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-10436,2024-02-27,2024-03-05,DHL,Standard,22.7,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-10967,2024-03-15,2024-03-22,UPS,Standard,23.0,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-11364,2024-05-01,2024-05-08,FedEx,Standard,12.08,Delivered,Austin,7.0,Slightly Delayed
+SHP-11379,2024-01-11,2024-01-18,SpeedPost,Standard,23.48,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10774,2024-08-23,2024-08-30,DHL,Standard,14.88,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10027,2024-08-23,2024-08-30,SpeedPost,Standard,17.98,Delivered,Chicago,7.0,Slightly Delayed
+SHP-10572,2024-10-10,2024-10-17,SpeedPost,Standard,13.93,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-11159,2024-04-10,2024-04-17,UPS,Express,32.35,Delivered,Houston,7.0,Slightly Delayed
+SHP-10318,2024-10-03,2024-10-10,DHL,Standard,23.86,Delivered,Dallas,7.0,Slightly Delayed
+SHP-11388,2024-02-24,2024-03-02,DHL,Standard,16.21,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-11380,2024-06-12,2024-06-19,UPS,Standard,24.36,Delivered,San Diego,7.0,Slightly Delayed
+SHP-11120,2024-03-09,2024-03-16,UPS,Standard,11.88,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10278,2024-04-29,2024-05-06,FedEx,Standard,19.73,Delivered,New York,7.0,Slightly Delayed
+SHP-10097,2024-01-09,2024-01-16,FedEx,Standard,21.09,Delivered,Houston,7.0,Slightly Delayed
+SHP-10912,2024-05-05,2024-05-12,UPS,Standard,10.19,Delivered,Dallas,7.0,Slightly Delayed
+SHP-11253,2024-09-03,2024-09-10,FedEx,Standard,12.6,Delivered,New York,7.0,Slightly Delayed
+SHP-10148,2024-06-19,2024-06-26,UPS,Standard,13.59,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10555,2024-10-05,2024-10-12,UPS,Standard,8.86,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-11219,2024-11-13,2024-11-20,FedEx,Standard,23.37,Delivered,Los Angeles,7.0,Slightly Delayed
+SHP-10734,2024-11-10,2024-11-17,DHL,Standard,24.94,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-10692,2024-05-15,2024-05-22,FedEx,Standard,11.28,Delivered,Philadelphia,7.0,Slightly Delayed
+SHP-10947,2024-04-21,2024-04-28,FedEx,Standard,24.56,Delivered,San Antonio,7.0,Slightly Delayed
+SHP-11064,2024-05-22,2024-05-29,DHL,Standard,14.66,Delivered,San Antonio,7.0,Slightly Delayed
+SHP-10216,2024-06-20,2024-06-27,SpeedPost,Standard,17.14,Delivered,Chicago,7.0,Slightly Delayed
+SHP-11478,2024-04-07,2024-04-14,FedEx,Standard,14.91,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10237,2024-11-21,2024-11-28,BlueDart,Standard,23.86,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10392,2024-08-02,2024-08-09,FedEx,Standard,8.18,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10960,2024-02-09,2024-02-16,UPS,Standard,12.63,Delivered,Chicago,7.0,Slightly Delayed
+SHP-11051,2024-02-11,2024-02-18,DHL,Standard,18.72,Delivered,Phoenix,7.0,Slightly Delayed
+SHP-10344,2024-07-06,2024-07-13,FedEx,Standard,16.83,Delivered,Austin,7.0,Slightly Delayed
+SHP-10051,2024-08-29,2024-09-05,DHL,Standard,8.26,Delivered,Chicago,7.0,Slightly Delayed
+SHP-11414,2024-01-25,2024-02-01,UPS,Standard,22.88,Delivered,San Diego,7.0,Slightly Delayed
+SHP-10863,2024-08-01,2024-08-07,UPS,Standard,18.34,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-11188,2024-06-30,2024-07-06,BlueDart,Standard,19.56,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10059,2024-07-24,2024-07-30,DHL,Standard,14.8,Delivered,San Diego,6.0,Slightly Delayed
+SHP-10259,2024-05-23,2024-05-29,UPS,Standard,16.03,Delivered,Chicago,6.0,Slightly Delayed
+SHP-10765,2024-02-08,2024-02-14,BlueDart,Standard,22.6,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-11369,2024-12-28,2025-01-03,DHL,Standard,13.44,Delivered,Austin,6.0,Slightly Delayed
+SHP-10373,2024-06-18,2024-06-24,DHL,Standard,12.68,Delivered,Houston,6.0,Slightly Delayed
+SHP-10937,2024-11-15,2024-11-21,BlueDart,Standard,13.08,Delivered,New York,6.0,Slightly Delayed
+SHP-10408,2024-09-27,2024-10-03,BlueDart,Standard,20.99,Delivered,Phoenix,6.0,Slightly Delayed
+SHP-11239,2024-02-24,2024-03-01,DHL,Standard,10.18,Delivered,San Diego,6.0,Slightly Delayed
+SHP-11024,2024-11-29,2024-12-05,FedEx,Standard,10.19,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10024,2024-11-09,2024-11-15,FedEx,Standard,20.32,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-11435,2024-03-20,2024-03-26,BlueDart,Standard,16.16,Delivered,San Diego,6.0,Slightly Delayed
+SHP-11355,2024-05-13,2024-05-19,BlueDart,Standard,14.14,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11472,2024-01-14,2024-01-20,BlueDart,Standard,19.71,Delivered,New York,6.0,Slightly Delayed
+SHP-10923,2024-05-25,2024-05-31,BlueDart,Standard,19.65,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-10736,2024-06-25,2024-07-01,SpeedPost,Standard,18.39,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-10085,2024-02-22,2024-02-28,FedEx,Standard,9.7,Delivered,Phoenix,6.0,Slightly Delayed
+SHP-10979,2024-10-26,2024-11-01,FedEx,Standard,21.53,Delivered,Austin,6.0,Slightly Delayed
+SHP-10213,2024-05-05,2024-05-11,DHL,Standard,20.87,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10045,2024-11-24,2024-11-30,FedEx,Standard,16.69,Delivered,Houston,6.0,Slightly Delayed
+SHP-11317,2024-07-27,2024-08-02,DHL,Standard,23.09,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-11144,2024-05-12,2024-05-18,DHL,Standard,18.19,Delivered,San Diego,6.0,Slightly Delayed
+SHP-11409,2024-05-08,2024-05-14,UPS,Standard,10.27,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-10260,2024-12-11,2024-12-17,UPS,Standard,22.92,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11106,2024-09-17,2024-09-23,UPS,Standard,21.83,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11462,2024-01-07,2024-01-13,SpeedPost,Standard,13.69,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-10580,2024-01-25,2024-01-31,DHL,Standard,12.36,Delivered,Dallas,6.0,Slightly Delayed
+SHP-10703,2024-07-19,2024-07-25,FedEx,Standard,23.09,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10566,2024-01-19,2024-01-25,DHL,Standard,17.31,Delivered,Phoenix,6.0,Slightly Delayed
+SHP-11295,2024-04-28,2024-05-04,UPS,Standard,12.25,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11349,2024-04-26,2024-05-02,DHL,Standard,12.8,Delivered,New York,6.0,Slightly Delayed
+SHP-10140,2024-08-18,2024-08-24,DHL,Standard,20.16,Delivered,Phoenix,6.0,Slightly Delayed
+SHP-10199,2024-10-21,2024-10-27,DHL,Standard,17.34,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-10291,2024-12-03,2024-12-09,SpeedPost,Standard,23.34,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-10602,2024-03-14,2024-03-20,DHL,Standard,12.02,Delivered,San Diego,6.0,Slightly Delayed
+SHP-10046,2024-06-15,2024-06-21,SpeedPost,Standard,21.71,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-11003,2024-01-10,2024-01-16,FedEx,Standard,15.87,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10684,2024-09-28,2024-10-04,DHL,Standard,9.52,Delivered,San Diego,6.0,Slightly Delayed
+SHP-10902,2024-08-14,2024-08-20,BlueDart,Standard,14.9,Delivered,Houston,6.0,Slightly Delayed
+SHP-11127,2024-05-13,2024-05-19,BlueDart,Standard,16.83,Delivered,Houston,6.0,Slightly Delayed
+SHP-10980,2024-05-12,2024-05-18,DHL,Standard,13.78,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-11221,2024-06-06,2024-06-12,SpeedPost,Standard,24.86,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-11485,2024-01-15,2024-01-21,FedEx,Standard,24.68,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-11165,2024-11-14,2024-11-20,UPS,Standard,22.03,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-11404,2024-06-02,2024-06-08,SpeedPost,Standard,16.84,Delivered,San Diego,6.0,Slightly Delayed
+SHP-11468,2024-03-22,2024-03-28,BlueDart,Standard,11.92,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11440,2024-03-21,2024-03-27,UPS,Standard,8.33,Delivered,New York,6.0,Slightly Delayed
+SHP-10829,2024-12-25,2024-12-31,FedEx,Standard,12.34,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11430,2024-02-26,2024-03-03,FedEx,Standard,16.49,Delivered,Houston,6.0,Slightly Delayed
+SHP-10782,2024-08-16,2024-08-22,UPS,Standard,23.02,Delivered,Houston,6.0,Slightly Delayed
+SHP-11283,2024-05-26,2024-06-01,UPS,Standard,19.46,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-11263,2024-04-06,2024-04-12,DHL,Standard,19.22,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-10016,2024-05-29,2024-06-04,DHL,Standard,21.43,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-10546,2024-04-05,2024-04-11,FedEx,Standard,10.1,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11284,2024-04-21,2024-04-27,BlueDart,Standard,8.96,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10959,2024-01-31,2024-02-06,FedEx,Standard,16.49,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-11392,2024-03-09,2024-03-15,BlueDart,Standard,22.06,Delivered,Austin,6.0,Slightly Delayed
+SHP-11145,2024-10-19,2024-10-25,FedEx,Standard,21.2,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10598,2024-05-25,2024-05-31,FedEx,Standard,11.53,Delivered,Chicago,6.0,Slightly Delayed
+SHP-10908,2024-02-08,2024-02-14,FedEx,Standard,22.24,Delivered,Chicago,6.0,Slightly Delayed
+SHP-11375,2024-01-29,2024-02-04,DHL,Standard,21.72,Delivered,New York,6.0,Slightly Delayed
+SHP-10576,2024-12-04,2024-12-10,DHL,Standard,16.83,Delivered,Los Angeles,6.0,Slightly Delayed
+SHP-10277,2024-02-23,2024-02-29,FedEx,Standard,14.27,Delivered,New York,6.0,Slightly Delayed
+SHP-10247,2024-11-03,2024-11-09,FedEx,Standard,18.92,Delivered,New York,6.0,Slightly Delayed
+SHP-10950,2024-11-26,2024-12-02,FedEx,Standard,23.88,Delivered,Houston,6.0,Slightly Delayed
+SHP-10893,2024-11-07,2024-11-13,BlueDart,Standard,24.35,Delivered,Austin,6.0,Slightly Delayed
+SHP-10506,2024-06-11,2024-06-17,DHL,Standard,21.0,Delivered,Chicago,6.0,Slightly Delayed
+SHP-10548,2024-05-30,2024-06-05,UPS,Standard,8.51,Delivered,Phoenix,6.0,Slightly Delayed
+SHP-10780,2024-10-29,2024-11-04,DHL,Standard,19.58,Delivered,Philadelphia,6.0,Slightly Delayed
+SHP-11346,2024-06-01,2024-06-07,DHL,Standard,20.16,Delivered,Dallas,6.0,Slightly Delayed
+SHP-10384,2024-11-16,2024-11-22,FedEx,Standard,20.31,Delivered,Houston,6.0,Slightly Delayed
+SHP-11291,2024-07-15,2024-07-21,DHL,Standard,21.66,Delivered,Phoenix,6.0,Slightly Delayed
+SHP-11382,2024-07-05,2024-07-11,UPS,Standard,11.36,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-11256,2024-11-23,2024-11-29,BlueDart,Standard,20.81,Delivered,San Antonio,6.0,Slightly Delayed
+SHP-10648,2024-01-01,2024-01-07,BlueDart,Standard,13.07,Delivered,Dallas,6.0,Slightly Delayed
+SHP-11183,2024-01-17,2024-01-23,DHL,Standard,9.49,Delivered,Houston,6.0,Slightly Delayed
+SHP-10856,2024-08-05,2024-08-11,UPS,Standard,20.24,Delivered,Austin,6.0,Slightly Delayed
+SHP-10459,2024-10-04,2024-10-10,BlueDart,Standard,16.83,Delivered,Austin,6.0,Slightly Delayed
+SHP-11123,2024-09-10,2024-09-16,SpeedPost,Standard,23.52,Delivered,Austin,6.0,Slightly Delayed
+SHP-11193,2024-12-09,2024-12-15,UPS,Standard,18.94,Delivered,Phoenix,6.0,Slightly Delayed
