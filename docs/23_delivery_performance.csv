@@ -1,0 +1,1501 @@
+Shipment_ID,Order_Date,Delivery_Date,Delivery_Partner,Shipping_Method,Shipping_Cost,Order_Status,Customer_City
+SHP00001,2024-01-01,2024-01-08,FedEx,Standard,80.8,Delivered,Kolkata
+SHP00002,2024-01-01,,Ecom Express,Economy,38.92,Delivered,Mumbai
+SHP00003,2024-01-01,2024-01-02,DTDC,Same-Day,294.42,Delivered,Hyderabad
+SHP00004,2024-01-02,2024-01-06,DTDC,Express,157.11,Delivered,Bhopal
+SHP00005,2024-01-02,2024-01-09,FedEx,Standard,89.07,Cancelled,Surat
+SHP00006,2024-01-03,,BlueDart,Standard,71.48,Cancelled,Bangalore
+SHP00007,2024-01-03,2024-01-09,Ecom Express,Standard,60.81,Delivered,Jaipur
+SHP00008,2024-01-03,2024-01-11,DTDC,Economy,28.33,Delivered,Bangalore
+SHP00009,2024-01-04,2024-01-08,FedEx,Express,,Cancelled,Nagpur
+SHP00010,2024-01-04,2024-01-04,DTDC,Same-Day,331.04,Cancelled,Kolkata
+SHP00011,2024-01-05,,Ecom Express,Standard,54.07,Delivered,Mumbai
+SHP00012,2024-01-05,2024-01-17,Ecom Express,Economy,23.5,Pending,Kochi
+SHP00013,2024-01-06,2024-01-25,Delhivery,Economy,22.83,Delivered,Kolkata
+SHP00014,2024-01-06,2024-01-13,FedEx,Standard,46.02,Pending,Hyderabad
+SHP00015,2024-01-06,,Ecom Express,Standard,69.04,Failed,Ahmedabad
+SHP00016,2024-01-07,2024-01-12,Delhivery,Standard,86.44,Delivered,Chandigarh
+SHP00017,2024-01-07,2024-01-14,Delhivery,Standard,64.84,Cancelled,Lucknow
+SHP00018,2024-01-08,2024-01-12,DTDC,Express,,Delivered,Jaipur
+SHP00019,2024-01-08,2024-01-11,DTDC,Express,162.29,Failed,Hyderabad
+SHP00020,2024-01-08,2024-01-17,Delhivery,Standard,75.43,Delivered,Surat
+SHP00021,2024-01-09,2024-01-11,DTDC,Express,176.59,Cancelled,Kochi
+SHP00022,2024-01-09,2024-01-17,Ecom Express,Standard,48.7,Delivered,Surat
+SHP00023,2024-01-10,2024-01-16,BlueDart,Standard,,Delivered,Kolkata
+SHP00024,2024-01-10,2024-01-20,Ecom Express,Standard,71.87,Delivered,Mumbai
+SHP00025,2024-01-11,2024-01-15,Delhivery,Express,143.53,Failed,Hyderabad
+SHP00026,2024-01-11,2024-01-20,Delhivery,Economy,38.08,Pending,Pune
+SHP00027,2024-01-11,2024-01-20,Ecom Express,Standard,66.74,Cancelled,Kochi
+SHP00028,2024-01-12,2024-01-16,DTDC,Express,189.81,Returned,Nagpur
+SHP00029,2024-01-12,2024-01-15,DTDC,Express,163.73,Delivered,Mumbai
+SHP00030,2024-01-13,,Delhivery,Standard,80.8,Delivered,Ahmedabad
+SHP00031,2024-01-13,2024-01-16,FedEx,Express,,Delivered,Kochi
+SHP00032,2024-01-13,2024-01-21,DTDC,Standard,79.82,Delivered,Surat
+SHP00033,2024-01-14,2024-01-24,Ecom Express,Standard,69.77,Delivered,Kochi
+SHP00034,2024-01-14,2024-01-31,DTDC,Economy,64.33,Delivered,Lucknow
+SHP00035,2024-01-15,2024-01-26,Ecom Express,Economy,40.55,Delivered,Kolkata
+SHP00036,2024-01-15,2024-02-01,Delhivery,Economy,50.22,Delivered,Chennai
+SHP00037,2024-01-16,2024-01-26,DTDC,Standard,71.5,Delivered,Surat
+SHP00038,2024-01-16,2024-01-22,Ecom Express,Standard,60.87,Delivered,Lucknow
+SHP00039,2024-01-16,2024-01-17,Delhivery,Same-Day,297.22,Failed,Nagpur
+SHP00040,2024-01-17,2024-01-18,FedEx,Express,144.68,Pending,Bhopal
+SHP00041,2024-01-17,2024-01-27,Ecom Express,Standard,,Failed,Jaipur
+SHP00042,2024-01-18,2024-01-19,FedEx,Express,183.68,Delivered,Delhi
+SHP00043,2024-01-18,,FedEx,Standard,51.82,Delivered,Chennai
+SHP00044,2024-01-18,2024-02-02,BlueDart,Economy,30.58,Pending,Kolkata
+SHP00045,2024-01-19,2024-01-29,DTDC,Standard,76.8,Delivered,Pune
+SHP00046,2024-01-19,2024-01-19,Ecom Express,Same-Day,306.0,Delivered,Chennai
+SHP00047,2024-01-20,2024-01-28,FedEx,Standard,65.3,Delivered,Jaipur
+SHP00048,2024-01-20,2024-01-22,BlueDart,Express,148.13,Delivered,Mumbai
+SHP00049,2024-01-21,2024-01-22,Delhivery,Express,187.99,Delivered,Pune
+SHP00050,2024-01-21,2024-01-26,Ecom Express,Standard,82.58,Delivered,Surat
+SHP00051,2024-01-21,2024-02-01,FedEx,Economy,63.19,Delivered,Pune
+SHP00052,2024-01-22,2024-02-05,DTDC,Economy,40.34,Delivered,Hyderabad
+SHP00053,2024-01-22,2024-02-02,BlueDart,Economy,58.12,Delivered,Jaipur
+SHP00054,2024-01-23,2024-02-07,FedEx,Economy,27.19,Pending,Bhopal
+SHP00055,2024-01-23,2024-01-26,DTDC,Express,140.43,Delivered,Kochi
+SHP00056,2024-01-23,2024-02-04,FedEx,Economy,21.0,Delivered,Lucknow
+SHP00057,2024-01-24,2024-01-29,Ecom Express,Standard,69.33,Cancelled,Chennai
+SHP00058,2024-01-24,2024-02-01,Ecom Express,Standard,62.77,Delivered,Hyderabad
+SHP00059,2024-01-25,2024-01-31,Ecom Express,Standard,65.9,Delivered,Chandigarh
+SHP00060,2024-01-25,2024-02-04,BlueDart,Standard,40.37,Delivered,Pune
+SHP00061,2024-01-26,2024-02-04,Ecom Express,Standard,61.13,Delivered,Hyderabad
+SHP00062,2024-01-26,2024-02-05,DTDC,Standard,75.9,Delivered,Nagpur
+SHP00063,2024-01-26,2024-02-15,FedEx,Economy,42.13,Pending,Bangalore
+SHP00064,2024-01-27,2024-02-01,Delhivery,Standard,,Delivered,Jaipur
+SHP00065,2024-01-27,,DTDC,Standard,51.65,Delivered,Lucknow
+SHP00066,2024-01-28,2024-01-30,DTDC,Express,180.66,Delivered,Ahmedabad
+SHP00067,2024-01-28,2024-02-04,Ecom Express,Standard,69.42,Delivered,Mumbai
+SHP00068,2024-01-28,2024-02-10,BlueDart,Economy,30.54,Delivered,Pune
+SHP00069,2024-01-29,2024-02-07,FedEx,Standard,51.84,Delivered,Jaipur
+SHP00070,2024-01-29,2024-02-06,BlueDart,Economy,51.4,Delivered,Ahmedabad
+SHP00071,2024-01-30,2024-02-14,FedEx,Economy,61.5,Delivered,Ahmedabad
+SHP00072,2024-01-30,2024-02-04,FedEx,Standard,60.78,Delivered,Chandigarh
+SHP00073,2024-01-31,2024-02-05,BlueDart,Standard,52.92,Delivered,Kolkata
+SHP00074,2024-01-31,2024-02-07,DTDC,Economy,63.35,Cancelled,Lucknow
+SHP00075,2024-01-31,2024-01-31,FedEx,Same-Day,,Delivered,Hyderabad
+SHP00076,2024-02-01,2024-02-01,BlueDart,Same-Day,312.4,Delivered,Ahmedabad
+SHP00077,2024-02-01,2024-02-21,FedEx,Economy,44.4,Delivered,Bangalore
+SHP00078,2024-02-02,2024-02-12,Delhivery,Standard,50.21,Pending,Chandigarh
+SHP00079,2024-02-02,,DTDC,Standard,,Delivered,Jaipur
+SHP00080,2024-02-02,2024-02-06,Ecom Express,Standard,57.94,Delivered,Chandigarh
+SHP00081,2024-02-03,2024-02-21,FedEx,Economy,69.78,Pending,Delhi
+SHP00082,2024-02-03,2024-02-06,Delhivery,Express,164.01,Cancelled,Delhi
+SHP00083,2024-02-04,2024-02-11,Ecom Express,Standard,64.29,Delivered,Kochi
+SHP00084,2024-02-04,2024-02-09,Ecom Express,Standard,68.29,Delivered,Chandigarh
+SHP00085,2024-02-05,2024-02-13,FedEx,Standard,85.84,Cancelled,Nagpur
+SHP00086,2024-02-05,2024-02-10,BlueDart,Standard,80.04,Failed,Kochi
+SHP00087,2024-02-05,2024-02-06,FedEx,Same-Day,312.56,Cancelled,Pune
+SHP00088,2024-02-06,2024-02-07,Delhivery,Express,175.93,Delivered,Kochi
+SHP00089,2024-02-06,2024-02-18,Ecom Express,Economy,49.31,Delivered,Surat
+SHP00090,2024-02-07,2024-02-08,FedEx,Express,164.62,Delivered,Hyderabad
+SHP00091,2024-02-07,2024-02-14,BlueDart,Standard,49.62,Pending,Surat
+SHP00092,2024-02-07,2024-02-08,FedEx,Same-Day,,Delivered,Ahmedabad
+SHP00093,2024-02-08,2024-02-19,DTDC,Economy,32.29,Delivered,Jaipur
+SHP00094,2024-02-08,,BlueDart,Express,185.74,Cancelled,Pune
+SHP00095,2024-02-09,2024-02-17,Delhivery,Economy,36.77,Delivered,Chennai
+SHP00096,2024-02-09,2024-02-13,Ecom Express,Express,187.61,Cancelled,Ahmedabad
+SHP00097,2024-02-10,2024-02-11,FedEx,Express,166.65,Delivered,Hyderabad
+SHP00098,2024-02-10,,BlueDart,Express,171.58,Delivered,Delhi
+SHP00099,2024-02-10,2024-02-15,DTDC,Standard,67.15,Delivered,Lucknow
+SHP00100,2024-02-11,2024-02-20,BlueDart,Standard,46.47,Pending,Nagpur
+SHP00101,2024-02-11,2024-02-19,DTDC,Standard,58.79,Delivered,Kochi
+SHP00102,2024-02-12,,Delhivery,Express,144.96,Delivered,Kolkata
+SHP00103,2024-02-12,2024-02-18,Ecom Express,Standard,71.15,Returned,Jaipur
+SHP00104,2024-02-12,2024-02-15,Delhivery,Express,162.34,Delivered,Mumbai
+SHP00105,2024-02-13,2024-02-28,FedEx,Economy,58.9,Delivered,Lucknow
+SHP00106,2024-02-13,2024-02-23,BlueDart,Standard,51.02,Delivered,Surat
+SHP00107,2024-02-14,2024-02-18,DTDC,Express,148.23,Delivered,Kochi
+SHP00108,2024-02-14,2024-02-29,DTDC,Economy,40.32,Delivered,Pune
+SHP00109,2024-02-15,,BlueDart,Standard,86.33,Delivered,Surat
+SHP00110,2024-02-15,2024-02-20,BlueDart,Standard,75.52,Delivered,Jaipur
+SHP00111,2024-02-15,,FedEx,Standard,60.95,Delivered,Surat
+SHP00112,2024-02-16,2024-02-23,Delhivery,Standard,65.86,Delivered,Jaipur
+SHP00113,2024-02-16,2024-02-27,DTDC,Economy,24.21,Delivered,Surat
+SHP00114,2024-02-17,2024-02-27,FedEx,Economy,69.23,Delivered,Lucknow
+SHP00115,2024-02-17,2024-02-19,Delhivery,Express,173.32,Delivered,Chandigarh
+SHP00116,2024-02-17,2024-02-28,FedEx,Economy,34.27,Delivered,Bangalore
+SHP00117,2024-02-18,2024-02-28,DTDC,Economy,49.29,Delivered,Lucknow
+SHP00118,2024-02-18,,BlueDart,Standard,45.47,Delivered,Chandigarh
+SHP00119,2024-02-19,2024-03-09,BlueDart,Economy,68.29,Cancelled,Chennai
+SHP00120,2024-02-19,2024-02-21,Delhivery,Express,148.74,Delivered,Ahmedabad
+SHP00121,2024-02-20,2024-03-09,Ecom Express,Economy,52.4,Returned,Ahmedabad
+SHP00122,2024-02-20,2024-03-10,Delhivery,Economy,,Failed,Hyderabad
+SHP00123,2024-02-20,2024-02-29,Ecom Express,Standard,,Delivered,Nagpur
+SHP00124,2024-02-21,2024-03-01,FedEx,Standard,78.84,Delivered,Nagpur
+SHP00125,2024-02-21,2024-02-26,FedEx,Standard,73.67,Delivered,Kochi
+SHP00126,2024-02-22,2024-02-23,DTDC,Express,170.72,Pending,Lucknow
+SHP00127,2024-02-22,2024-03-05,Ecom Express,Economy,64.62,Delivered,Lucknow
+SHP00128,2024-02-22,2024-03-04,DTDC,Economy,23.93,Delivered,Mumbai
+SHP00129,2024-02-23,2024-03-01,BlueDart,Standard,56.55,Delivered,Mumbai
+SHP00130,2024-02-23,2024-02-25,Ecom Express,Express,152.41,Cancelled,Nagpur
+SHP00131,2024-02-24,2024-02-26,Delhivery,Express,189.4,Pending,Hyderabad
+SHP00132,2024-02-24,2024-03-05,BlueDart,Standard,59.47,Delivered,Kolkata
+SHP00133,2024-02-25,2024-03-03,BlueDart,Standard,76.63,Delivered,Ahmedabad
+SHP00134,2024-02-25,2024-03-06,Delhivery,Standard,74.24,Delivered,Kolkata
+SHP00135,2024-02-25,2024-03-09,BlueDart,Economy,30.6,Delivered,Kochi
+SHP00136,2024-02-26,2024-03-01,Ecom Express,Standard,51.95,Cancelled,Jaipur
+SHP00137,2024-02-26,2024-02-27,DTDC,Express,154.06,Delivered,Nagpur
+SHP00138,2024-02-27,2024-02-28,BlueDart,Same-Day,310.56,Delivered,Nagpur
+SHP00139,2024-02-27,2024-03-07,Ecom Express,Standard,,Delivered,Jaipur
+SHP00140,2024-02-27,2024-03-10,FedEx,Economy,20.98,Cancelled,Bhopal
+SHP00141,2024-02-28,2024-03-11,Ecom Express,Economy,63.97,Pending,Delhi
+SHP00142,2024-02-28,2024-03-07,DTDC,Standard,88.28,Delivered,Surat
+SHP00143,2024-02-29,2024-03-04,Ecom Express,Express,157.08,Pending,Mumbai
+SHP00144,2024-02-29,2024-03-09,Delhivery,Standard,56.93,Delivered,Delhi
+SHP00145,2024-03-01,2024-03-08,DTDC,Standard,40.35,Delivered,Chennai
+SHP00146,2024-03-01,2024-03-06,FedEx,Standard,74.01,Delivered,Hyderabad
+SHP00147,2024-03-01,2024-03-04,Delhivery,Express,181.27,Delivered,Hyderabad
+SHP00148,2024-03-02,2024-03-04,Ecom Express,Express,,Delivered,Jaipur
+SHP00149,2024-03-02,2024-03-07,DTDC,Standard,47.98,Returned,Lucknow
+SHP00150,2024-03-03,2024-03-12,FedEx,Standard,79.5,Delivered,Ahmedabad
+SHP00151,2024-03-03,2024-03-10,Delhivery,Economy,50.81,Delivered,Kolkata
+SHP00152,2024-03-03,,FedEx,Standard,42.24,Delivered,Mumbai
+SHP00153,2024-03-04,,Ecom Express,Standard,71.13,Delivered,Delhi
+SHP00154,2024-03-04,2024-03-06,FedEx,Express,155.45,Returned,Kolkata
+SHP00155,2024-03-05,2024-03-19,BlueDart,Economy,38.44,Delivered,Lucknow
+SHP00156,2024-03-05,2024-03-11,Delhivery,Standard,78.49,Delivered,Delhi
+SHP00157,2024-03-06,,FedEx,Same-Day,330.55,Pending,Nagpur
+SHP00158,2024-03-06,2024-03-20,Ecom Express,Economy,40.02,Delivered,Chandigarh
+SHP00159,2024-03-06,2024-03-14,Ecom Express,Standard,87.36,Delivered,Surat
+SHP00160,2024-03-07,2024-03-08,FedEx,Same-Day,310.32,Delivered,Chennai
+SHP00161,2024-03-07,2024-03-16,Ecom Express,Standard,78.59,Delivered,Bhopal
+SHP00162,2024-03-08,2024-03-09,DTDC,Express,164.19,Failed,Chennai
+SHP00163,2024-03-08,2024-03-09,DTDC,Express,,Pending,Kolkata
+SHP00164,2024-03-08,2024-03-10,DTDC,Express,,Delivered,Kolkata
+SHP00165,2024-03-09,2024-03-19,BlueDart,Standard,44.37,Cancelled,Bhopal
+SHP00166,2024-03-09,2024-03-23,FedEx,Economy,66.82,Delivered,Kolkata
+SHP00167,2024-03-10,2024-03-14,BlueDart,Standard,81.28,Delivered,Bhopal
+SHP00168,2024-03-10,2024-03-16,Ecom Express,Standard,79.57,Delivered,Delhi
+SHP00169,2024-03-11,2024-03-16,BlueDart,Standard,50.05,Delivered,Bhopal
+SHP00170,2024-03-11,2024-03-15,Ecom Express,Express,180.26,Delivered,Surat
+SHP00171,2024-03-11,2024-03-12,Ecom Express,Same-Day,332.51,Delivered,Bhopal
+SHP00172,2024-03-12,2024-03-16,Delhivery,Standard,54.46,Returned,Chandigarh
+SHP00173,2024-03-12,2024-03-16,DTDC,Express,187.61,Delivered,Nagpur
+SHP00174,2024-03-13,2024-03-20,Ecom Express,Standard,42.49,Delivered,Bhopal
+SHP00175,2024-03-13,2024-03-17,Delhivery,Express,147.5,Delivered,Bangalore
+SHP00176,2024-03-13,2024-03-18,DTDC,Standard,66.88,Delivered,Bhopal
+SHP00177,2024-03-14,,Ecom Express,Same-Day,318.79,Delivered,Kolkata
+SHP00178,2024-03-14,2024-03-19,Ecom Express,Standard,72.26,Delivered,Chandigarh
+SHP00179,2024-03-15,2024-04-04,BlueDart,Economy,20.85,Cancelled,Ahmedabad
+SHP00180,2024-03-15,2024-03-19,BlueDart,Standard,88.02,Delivered,Kochi
+SHP00181,2024-03-16,2024-03-23,DTDC,Standard,42.23,Delivered,Chandigarh
+SHP00182,2024-03-16,2024-03-21,Ecom Express,Standard,47.15,Delivered,Lucknow
+SHP00183,2024-03-16,2024-04-01,FedEx,Economy,20.7,Delivered,Kochi
+SHP00184,2024-03-17,2024-04-02,BlueDart,Economy,,Delivered,Mumbai
+SHP00185,2024-03-17,2024-03-21,DTDC,Standard,86.61,Pending,Mumbai
+SHP00186,2024-03-18,2024-03-18,Ecom Express,Same-Day,323.3,Delivered,Lucknow
+SHP00187,2024-03-18,2024-03-31,Ecom Express,Economy,61.13,Delivered,Chandigarh
+SHP00188,2024-03-18,2024-03-20,FedEx,Express,140.66,Delivered,Delhi
+SHP00189,2024-03-19,2024-03-20,DTDC,Express,,Delivered,Lucknow
+SHP00190,2024-03-19,2024-03-26,Ecom Express,Standard,62.98,Delivered,Nagpur
+SHP00191,2024-03-20,2024-03-29,BlueDart,Standard,64.95,Pending,Kochi
+SHP00192,2024-03-20,2024-04-02,FedEx,Economy,23.61,Delivered,Kochi
+SHP00193,2024-03-21,,DTDC,Economy,54.22,Pending,Kolkata
+SHP00194,2024-03-21,2024-03-24,FedEx,Express,,Delivered,Jaipur
+SHP00195,2024-03-21,2024-03-31,BlueDart,Standard,78.26,Pending,Hyderabad
+SHP00196,2024-03-22,2024-03-26,DTDC,Standard,64.26,Delivered,Bangalore
+SHP00197,2024-03-22,2024-03-22,FedEx,Same-Day,297.47,Delivered,Kochi
+SHP00198,2024-03-23,2024-03-31,Delhivery,Economy,52.41,Delivered,Ahmedabad
+SHP00199,2024-03-23,,BlueDart,Economy,28.62,Returned,Lucknow
+SHP00200,2024-03-23,2024-03-30,BlueDart,Economy,63.62,Delivered,Surat
+SHP00201,2024-03-24,2024-03-25,BlueDart,Express,170.66,Delivered,Bhopal
+SHP00202,2024-03-24,2024-03-29,Delhivery,Standard,47.86,Delivered,Jaipur
+SHP00203,2024-03-25,2024-04-01,Delhivery,Standard,88.12,Cancelled,Kochi
+SHP00204,2024-03-25,2024-04-03,Ecom Express,Economy,,Delivered,Lucknow
+SHP00205,2024-03-26,2024-03-29,FedEx,Express,143.64,Pending,Chennai
+SHP00206,2024-03-26,,Ecom Express,Standard,71.34,Delivered,Jaipur
+SHP00207,2024-03-26,2024-04-03,FedEx,Standard,52.66,Delivered,Delhi
+SHP00208,2024-03-27,2024-03-28,Delhivery,Same-Day,330.18,Delivered,Bangalore
+SHP00209,2024-03-27,,Delhivery,Standard,80.89,Failed,Pune
+SHP00210,2024-03-28,2024-04-06,Ecom Express,Standard,88.95,Delivered,Pune
+SHP00211,2024-03-28,2024-03-30,DTDC,Express,165.09,Returned,Kolkata
+SHP00212,2024-03-28,2024-03-29,Ecom Express,Same-Day,312.75,Delivered,Kolkata
+SHP00213,2024-03-29,2024-03-30,FedEx,Same-Day,,Delivered,Delhi
+SHP00214,2024-03-29,2024-04-06,Ecom Express,Standard,46.62,Delivered,Surat
+SHP00215,2024-03-30,2024-03-31,BlueDart,Same-Day,317.35,Delivered,Kolkata
+SHP00216,2024-03-30,2024-04-06,FedEx,Standard,67.31,Cancelled,Hyderabad
+SHP00217,2024-03-31,2024-04-08,FedEx,Standard,44.47,Returned,Kochi
+SHP00218,2024-03-31,2024-04-01,DTDC,Same-Day,310.9,Cancelled,Bangalore
+SHP00219,2024-03-31,,Delhivery,Express,182.66,Pending,Chandigarh
+SHP00220,2024-04-01,2024-04-11,FedEx,Economy,62.81,Delivered,Lucknow
+SHP00221,2024-04-01,2024-04-01,Delhivery,Same-Day,294.96,Delivered,Chandigarh
+SHP00222,2024-04-02,2024-04-05,Ecom Express,Express,144.54,Failed,Delhi
+SHP00223,2024-04-02,2024-04-07,BlueDart,Standard,53.13,Delivered,Mumbai
+SHP00224,2024-04-02,2024-04-07,DTDC,Standard,83.74,Pending,Lucknow
+SHP00225,2024-04-03,2024-04-08,Delhivery,Standard,,Pending,Lucknow
+SHP00226,2024-04-03,2024-04-10,FedEx,Standard,76.0,Delivered,Chennai
+SHP00227,2024-04-04,2024-04-11,Delhivery,Economy,25.06,Failed,Delhi
+SHP00228,2024-04-04,2024-04-14,FedEx,Standard,71.16,Delivered,Delhi
+SHP00229,2024-04-05,2024-04-24,Delhivery,Economy,37.8,Delivered,Pune
+SHP00230,2024-04-05,2024-04-09,FedEx,Express,179.45,Delivered,Ahmedabad
+SHP00231,2024-04-05,2024-04-20,Ecom Express,Economy,31.68,Delivered,Chandigarh
+SHP00232,2024-04-06,2024-04-10,FedEx,Express,171.96,Delivered,Surat
+SHP00233,2024-04-06,2024-04-08,FedEx,Express,151.78,Delivered,Ahmedabad
+SHP00234,2024-04-07,2024-04-10,BlueDart,Express,175.68,Cancelled,Bhopal
+SHP00235,2024-04-07,2024-04-12,FedEx,Standard,83.68,Returned,Hyderabad
+SHP00236,2024-04-07,2024-04-07,BlueDart,Same-Day,296.34,Delivered,Nagpur
+SHP00237,2024-04-08,2024-04-17,DTDC,Standard,83.33,Delivered,Bhopal
+SHP00238,2024-04-08,,BlueDart,Standard,69.68,Returned,Mumbai
+SHP00239,2024-04-09,2024-04-11,Ecom Express,Express,146.36,Delivered,Lucknow
+SHP00240,2024-04-09,2024-04-19,BlueDart,Standard,61.38,Delivered,Pune
+SHP00241,2024-04-10,2024-04-27,DTDC,Economy,28.04,Delivered,Mumbai
+SHP00242,2024-04-10,2024-04-22,Ecom Express,Economy,55.02,Delivered,Lucknow
+SHP00243,2024-04-10,2024-04-17,Delhivery,Economy,57.94,Delivered,Hyderabad
+SHP00244,2024-04-11,2024-04-18,Delhivery,Standard,,Failed,Ahmedabad
+SHP00245,2024-04-11,2024-04-16,BlueDart,Standard,65.31,Delivered,Delhi
+SHP00246,2024-04-12,2024-04-23,BlueDart,Economy,60.73,Delivered,Kolkata
+SHP00247,2024-04-12,2024-04-13,DTDC,Express,186.81,Delivered,Chandigarh
+SHP00248,2024-04-12,2024-04-26,DTDC,Economy,45.68,Delivered,Kolkata
+SHP00249,2024-04-13,2024-04-21,FedEx,Economy,67.51,Delivered,Kochi
+SHP00250,2024-04-13,2024-04-28,DTDC,Economy,46.78,Pending,Jaipur
+SHP00251,2024-04-14,2024-04-22,FedEx,Standard,59.71,Pending,Chennai
+SHP00252,2024-04-14,2024-04-19,Ecom Express,Standard,82.41,Delivered,Surat
+SHP00253,2024-04-15,2024-05-05,BlueDart,Economy,44.65,Returned,Hyderabad
+SHP00254,2024-04-15,2024-04-24,Ecom Express,Standard,63.6,Pending,Chennai
+SHP00255,2024-04-15,2024-04-23,DTDC,Standard,64.52,Pending,Kochi
+SHP00256,2024-04-16,2024-04-19,Ecom Express,Express,182.34,Delivered,Kochi
+SHP00257,2024-04-16,2024-05-05,Ecom Express,Economy,61.6,Delivered,Surat
+SHP00258,2024-04-17,2024-04-17,Ecom Express,Same-Day,310.18,Delivered,Nagpur
+SHP00259,2024-04-17,2024-04-19,DTDC,Express,156.66,Delivered,Lucknow
+SHP00260,2024-04-17,2024-04-23,Ecom Express,Standard,64.6,Delivered,Chennai
+SHP00261,2024-04-18,,FedEx,Express,168.64,Delivered,Ahmedabad
+SHP00262,2024-04-18,2024-05-04,DTDC,Economy,31.92,Cancelled,Surat
+SHP00263,2024-04-19,2024-04-29,Ecom Express,Standard,79.7,Cancelled,Kochi
+SHP00264,2024-04-19,2024-04-23,DTDC,Express,164.32,Returned,Ahmedabad
+SHP00265,2024-04-20,2024-04-28,Delhivery,Economy,36.7,Delivered,Delhi
+SHP00266,2024-04-20,2024-04-20,FedEx,Same-Day,295.34,Delivered,Pune
+SHP00267,2024-04-20,2024-04-21,Ecom Express,Same-Day,301.94,Delivered,Ahmedabad
+SHP00268,2024-04-21,2024-04-22,Delhivery,Same-Day,337.46,Delivered,Lucknow
+SHP00269,2024-04-21,2024-04-26,Delhivery,Standard,55.25,Delivered,Kolkata
+SHP00270,2024-04-22,,DTDC,Standard,48.44,Delivered,Chennai
+SHP00271,2024-04-22,2024-05-03,Delhivery,Economy,43.03,Delivered,Lucknow
+SHP00272,2024-04-22,2024-05-04,FedEx,Economy,35.35,Cancelled,Jaipur
+SHP00273,2024-04-23,2024-05-11,FedEx,Economy,21.76,Delivered,Chandigarh
+SHP00274,2024-04-23,2024-05-01,BlueDart,Economy,36.16,Pending,Bangalore
+SHP00275,2024-04-24,2024-04-27,FedEx,Express,167.21,Delivered,Kochi
+SHP00276,2024-04-24,2024-04-25,Delhivery,Express,167.59,Delivered,Chandigarh
+SHP00277,2024-04-25,2024-05-08,FedEx,Economy,37.83,Delivered,Chandigarh
+SHP00278,2024-04-25,2024-04-27,DTDC,Express,162.37,Delivered,Surat
+SHP00279,2024-04-25,2024-04-26,BlueDart,Same-Day,338.28,Delivered,Hyderabad
+SHP00280,2024-04-26,2024-05-10,Delhivery,Economy,38.87,Delivered,Jaipur
+SHP00281,2024-04-26,2024-05-14,BlueDart,Economy,,Delivered,Kolkata
+SHP00282,2024-04-27,2024-05-07,Delhivery,Standard,52.17,Delivered,Ahmedabad
+SHP00283,2024-04-27,2024-05-06,DTDC,Standard,,Delivered,Pune
+SHP00284,2024-04-27,2024-05-04,BlueDart,Standard,77.98,Returned,Lucknow
+SHP00285,2024-04-28,2024-04-29,Ecom Express,Express,150.3,Delivered,Delhi
+SHP00286,2024-04-28,2024-05-08,Delhivery,Standard,75.46,Pending,Bangalore
+SHP00287,2024-04-29,2024-04-30,Ecom Express,Express,141.06,Delivered,Mumbai
+SHP00288,2024-04-29,2024-04-30,BlueDart,Express,160.95,Returned,Jaipur
+SHP00289,2024-04-30,2024-05-08,Ecom Express,Standard,78.79,Cancelled,Chandigarh
+SHP00290,2024-04-30,2024-05-03,Ecom Express,Express,156.94,Delivered,Pune
+SHP00291,2024-04-30,2024-05-05,BlueDart,Standard,68.19,Delivered,Mumbai
+SHP00292,2024-05-01,2024-05-08,DTDC,Standard,50.25,Cancelled,Bangalore
+SHP00293,2024-05-01,2024-05-20,Ecom Express,Economy,57.1,Delivered,Hyderabad
+SHP00294,2024-05-02,2024-05-06,Ecom Express,Standard,42.61,Delivered,Hyderabad
+SHP00295,2024-05-02,2024-05-10,DTDC,Standard,,Delivered,Chennai
+SHP00296,2024-05-02,2024-05-04,Ecom Express,Express,149.91,Cancelled,Bhopal
+SHP00297,2024-05-03,2024-05-11,Ecom Express,Economy,63.72,Pending,Bangalore
+SHP00298,2024-05-03,2024-05-13,Ecom Express,Standard,57.63,Delivered,Bangalore
+SHP00299,2024-05-04,2024-05-06,FedEx,Express,176.13,Delivered,Mumbai
+SHP00300,2024-05-04,2024-05-14,DTDC,Standard,55.96,Delivered,Pune
+SHP00301,2024-05-05,2024-05-15,Ecom Express,Standard,85.3,Delivered,Lucknow
+SHP00302,2024-05-05,2024-05-09,DTDC,Express,146.33,Failed,Surat
+SHP00303,2024-05-05,2024-05-09,Delhivery,Express,148.93,Delivered,Bhopal
+SHP00304,2024-05-06,2024-05-10,Delhivery,Express,164.65,Delivered,Mumbai
+SHP00305,2024-05-06,,Ecom Express,Same-Day,294.1,Delivered,Delhi
+SHP00306,2024-05-07,2024-05-17,DTDC,Economy,29.8,Pending,Chandigarh
+SHP00307,2024-05-07,2024-05-08,DTDC,Express,187.19,Delivered,Hyderabad
+SHP00308,2024-05-07,2024-05-16,DTDC,Standard,88.82,Delivered,Chandigarh
+SHP00309,2024-05-08,2024-05-15,FedEx,Economy,38.81,Delivered,Hyderabad
+SHP00310,2024-05-08,2024-05-15,Delhivery,Standard,86.16,Delivered,Chennai
+SHP00311,2024-05-09,2024-05-12,DTDC,Express,167.24,Delivered,Lucknow
+SHP00312,2024-05-09,2024-05-16,DTDC,Standard,53.49,Delivered,Delhi
+SHP00313,2024-05-10,2024-05-15,FedEx,Standard,75.12,Delivered,Hyderabad
+SHP00314,2024-05-10,,FedEx,Economy,52.95,Returned,Mumbai
+SHP00315,2024-05-10,2024-05-21,DTDC,Economy,69.46,Pending,Delhi
+SHP00316,2024-05-11,2024-05-11,BlueDart,Same-Day,303.25,Failed,Mumbai
+SHP00317,2024-05-11,2024-05-12,DTDC,Express,173.6,Delivered,Surat
+SHP00318,2024-05-12,2024-05-20,DTDC,Standard,42.6,Failed,Surat
+SHP00319,2024-05-12,2024-05-20,FedEx,Standard,45.68,Delivered,Chandigarh
+SHP00320,2024-05-12,2024-05-20,FedEx,Standard,40.2,Delivered,Hyderabad
+SHP00321,2024-05-13,2024-05-14,DTDC,Express,189.97,Delivered,Hyderabad
+SHP00322,2024-05-13,2024-05-13,DTDC,Same-Day,330.11,Delivered,Pune
+SHP00323,2024-05-14,,DTDC,Same-Day,329.34,Delivered,Surat
+SHP00324,2024-05-14,2024-05-22,FedEx,Standard,65.49,Delivered,Lucknow
+SHP00325,2024-05-15,2024-05-28,DTDC,Economy,35.0,Delivered,Lucknow
+SHP00326,2024-05-15,2024-05-15,DTDC,Same-Day,297.56,Delivered,Jaipur
+SHP00327,2024-05-15,,Ecom Express,Express,154.23,Delivered,Jaipur
+SHP00328,2024-05-16,2024-05-18,BlueDart,Express,158.8,Delivered,Chennai
+SHP00329,2024-05-16,2024-05-17,Delhivery,Express,,Delivered,Surat
+SHP00330,2024-05-17,2024-05-27,BlueDart,Standard,66.98,Cancelled,Mumbai
+SHP00331,2024-05-17,2024-05-24,Ecom Express,Standard,43.87,Cancelled,Mumbai
+SHP00332,2024-05-17,2024-05-31,Delhivery,Economy,20.9,Delivered,Kolkata
+SHP00333,2024-05-18,2024-05-28,DTDC,Standard,45.12,Delivered,Delhi
+SHP00334,2024-05-18,2024-05-26,Ecom Express,Standard,60.52,Delivered,Ahmedabad
+SHP00335,2024-05-19,2024-05-24,DTDC,Standard,86.66,Pending,Chandigarh
+SHP00336,2024-05-19,2024-05-23,FedEx,Standard,71.87,Delivered,Jaipur
+SHP00337,2024-05-20,2024-06-07,Ecom Express,Economy,,Delivered,Chandigarh
+SHP00338,2024-05-20,2024-05-21,FedEx,Same-Day,313.32,Delivered,Hyderabad
+SHP00339,2024-05-20,2024-05-22,Ecom Express,Express,158.08,Delivered,Chennai
+SHP00340,2024-05-21,2024-05-29,Ecom Express,Standard,45.42,Delivered,Lucknow
+SHP00341,2024-05-21,,FedEx,Express,183.8,Cancelled,Ahmedabad
+SHP00342,2024-05-22,2024-05-26,Delhivery,Express,179.16,Delivered,Bangalore
+SHP00343,2024-05-22,2024-05-26,BlueDart,Standard,48.41,Delivered,Chennai
+SHP00344,2024-05-22,2024-05-26,DTDC,Express,165.61,Pending,Bangalore
+SHP00345,2024-05-23,2024-05-27,Ecom Express,Standard,64.37,Cancelled,Kochi
+SHP00346,2024-05-23,2024-05-27,DTDC,Express,171.25,Delivered,Surat
+SHP00347,2024-05-24,2024-05-25,FedEx,Express,187.31,Delivered,Bangalore
+SHP00348,2024-05-24,2024-06-02,DTDC,Standard,68.99,Delivered,Bangalore
+SHP00349,2024-05-25,2024-06-01,FedEx,Standard,67.01,Returned,Chandigarh
+SHP00350,2024-05-25,2024-05-27,DTDC,Express,142.52,Delivered,Kochi
+SHP00351,2024-05-25,2024-05-29,BlueDart,Express,143.15,Returned,Pune
+SHP00352,2024-05-26,2024-06-09,BlueDart,Economy,29.37,Delivered,Nagpur
+SHP00353,2024-05-26,2024-05-26,BlueDart,Same-Day,291.62,Delivered,Pune
+SHP00354,2024-05-27,2024-06-04,BlueDart,Standard,,Delivered,Pune
+SHP00355,2024-05-27,2024-06-01,BlueDart,Standard,76.17,Delivered,Surat
+SHP00356,2024-05-27,2024-05-29,BlueDart,Express,146.8,Delivered,Ahmedabad
+SHP00357,2024-05-28,2024-06-02,FedEx,Standard,81.8,Delivered,Chennai
+SHP00358,2024-05-28,2024-05-29,Ecom Express,Express,147.74,Delivered,Chennai
+SHP00359,2024-05-29,2024-06-11,DTDC,Economy,35.06,Failed,Bhopal
+SHP00360,2024-05-29,,BlueDart,Express,152.45,Delivered,Hyderabad
+SHP00361,2024-05-30,2024-06-07,FedEx,Standard,58.62,Pending,Pune
+SHP00362,2024-05-30,2024-06-03,FedEx,Express,152.73,Delivered,Surat
+SHP00363,2024-05-30,2024-06-01,FedEx,Express,164.45,Delivered,Hyderabad
+SHP00364,2024-05-31,2024-06-02,Ecom Express,Express,160.37,Delivered,Nagpur
+SHP00365,2024-05-31,2024-06-17,DTDC,Economy,69.33,Delivered,Delhi
+SHP00366,2024-06-01,2024-06-06,Ecom Express,Standard,42.8,Returned,Hyderabad
+SHP00367,2024-06-01,2024-06-13,Delhivery,Economy,,Delivered,Chandigarh
+SHP00368,2024-06-01,2024-06-11,FedEx,Economy,22.64,Delivered,Chandigarh
+SHP00369,2024-06-02,2024-06-10,Delhivery,Standard,71.29,Delivered,Ahmedabad
+SHP00370,2024-06-02,2024-06-06,BlueDart,Standard,42.73,Delivered,Jaipur
+SHP00371,2024-06-03,2024-06-13,BlueDart,Standard,81.82,Delivered,Bangalore
+SHP00372,2024-06-03,2024-06-07,Ecom Express,Standard,65.6,Cancelled,Pune
+SHP00373,2024-06-04,2024-06-12,DTDC,Standard,66.35,Pending,Bhopal
+SHP00374,2024-06-04,2024-06-05,Delhivery,Same-Day,318.08,Delivered,Kochi
+SHP00375,2024-06-04,2024-06-10,DTDC,Standard,48.54,Delivered,Bhopal
+SHP00376,2024-06-05,2024-06-10,Ecom Express,Standard,49.88,Delivered,Jaipur
+SHP00377,2024-06-05,2024-06-22,BlueDart,Economy,35.94,Delivered,Lucknow
+SHP00378,2024-06-06,2024-06-10,DTDC,Standard,69.67,Delivered,Hyderabad
+SHP00379,2024-06-06,2024-06-18,DTDC,Economy,30.51,Delivered,Surat
+SHP00380,2024-06-06,2024-06-16,BlueDart,Standard,45.82,Delivered,Nagpur
+SHP00381,2024-06-07,2024-06-15,Delhivery,Standard,88.51,Delivered,Bangalore
+SHP00382,2024-06-07,2024-06-07,BlueDart,Same-Day,291.1,Delivered,Chennai
+SHP00383,2024-06-08,2024-06-11,DTDC,Express,180.13,Delivered,Mumbai
+SHP00384,2024-06-08,2024-06-20,Delhivery,Economy,59.4,Delivered,Bangalore
+SHP00385,2024-06-09,,Delhivery,Same-Day,304.86,Delivered,Nagpur
+SHP00386,2024-06-09,2024-06-25,BlueDart,Economy,26.78,Cancelled,Ahmedabad
+SHP00387,2024-06-09,2024-06-16,DTDC,Standard,47.28,Delivered,Lucknow
+SHP00388,2024-06-10,2024-06-19,Ecom Express,Standard,,Delivered,Ahmedabad
+SHP00389,2024-06-10,2024-06-20,DTDC,Economy,52.14,Delivered,Nagpur
+SHP00390,2024-06-11,2024-06-19,FedEx,Economy,59.14,Cancelled,Chandigarh
+SHP00391,2024-06-11,2024-06-25,Ecom Express,Economy,66.87,Delivered,Hyderabad
+SHP00392,2024-06-11,2024-06-15,Delhivery,Express,174.6,Delivered,Delhi
+SHP00393,2024-06-12,2024-06-16,Ecom Express,Standard,47.79,Delivered,Chandigarh
+SHP00394,2024-06-12,2024-06-25,Delhivery,Economy,32.17,Pending,Ahmedabad
+SHP00395,2024-06-13,2024-06-20,Delhivery,Standard,82.11,Returned,Ahmedabad
+SHP00396,2024-06-13,2024-06-21,Ecom Express,Economy,30.47,Delivered,Surat
+SHP00397,2024-06-14,2024-06-24,Delhivery,Economy,23.63,Cancelled,Hyderabad
+SHP00398,2024-06-14,2024-06-15,Delhivery,Express,175.16,Returned,Bangalore
+SHP00399,2024-06-14,2024-06-23,FedEx,Economy,40.13,Returned,Delhi
+SHP00400,2024-06-15,2024-06-30,DTDC,Economy,,Delivered,Jaipur
+SHP00401,2024-06-15,2024-06-23,DTDC,Standard,72.51,Delivered,Mumbai
+SHP00402,2024-06-16,2024-06-27,FedEx,Economy,24.52,Delivered,Pune
+SHP00403,2024-06-16,2024-06-18,Ecom Express,Express,187.39,Pending,Chennai
+SHP00404,2024-06-16,2024-07-03,BlueDart,Economy,32.93,Delivered,Ahmedabad
+SHP00405,2024-06-17,2024-06-23,BlueDart,Standard,56.86,Delivered,Hyderabad
+SHP00406,2024-06-17,2024-07-07,BlueDart,Economy,40.11,Delivered,Pune
+SHP00407,2024-06-18,2024-06-28,FedEx,Standard,42.56,Pending,Chandigarh
+SHP00408,2024-06-18,2024-06-22,FedEx,Standard,64.83,Cancelled,Chennai
+SHP00409,2024-06-19,2024-07-02,Delhivery,Economy,26.17,Delivered,Nagpur
+SHP00410,2024-06-19,2024-06-24,BlueDart,Standard,60.05,Cancelled,Bhopal
+SHP00411,2024-06-19,2024-06-23,Ecom Express,Standard,57.54,Delivered,Chennai
+SHP00412,2024-06-20,,Ecom Express,Economy,58.64,Cancelled,Bhopal
+SHP00413,2024-06-20,2024-06-30,BlueDart,Economy,60.16,Delivered,Jaipur
+SHP00414,2024-06-21,,BlueDart,Express,147.67,Delivered,Jaipur
+SHP00415,2024-06-21,2024-06-22,BlueDart,Express,158.33,Returned,Chandigarh
+SHP00416,2024-06-21,2024-06-24,FedEx,Express,158.67,Delivered,Jaipur
+SHP00417,2024-06-22,2024-06-30,FedEx,Standard,47.57,Cancelled,Kochi
+SHP00418,2024-06-22,2024-06-27,FedEx,Standard,79.92,Delivered,Kolkata
+SHP00419,2024-06-23,2024-06-23,DTDC,Same-Day,325.36,Delivered,Kolkata
+SHP00420,2024-06-23,2024-07-11,Ecom Express,Economy,29.52,Delivered,Chennai
+SHP00421,2024-06-24,2024-07-10,Ecom Express,Economy,38.34,Delivered,Jaipur
+SHP00422,2024-06-24,2024-07-12,Delhivery,Economy,25.29,Delivered,Surat
+SHP00423,2024-06-24,2024-07-01,FedEx,Standard,71.41,Delivered,Ahmedabad
+SHP00424,2024-06-25,2024-06-26,DTDC,Express,146.07,Delivered,Pune
+SHP00425,2024-06-25,2024-06-30,DTDC,Standard,89.3,Delivered,Pune
+SHP00426,2024-06-26,2024-06-28,Ecom Express,Express,179.03,Failed,Kolkata
+SHP00427,2024-06-26,2024-06-27,FedEx,Express,159.51,Failed,Chennai
+SHP00428,2024-06-26,2024-07-09,Delhivery,Economy,48.93,Delivered,Chandigarh
+SHP00429,2024-06-27,2024-07-02,FedEx,Standard,,Pending,Hyderabad
+SHP00430,2024-06-27,,BlueDart,Standard,67.7,Delivered,Bangalore
+SHP00431,2024-06-28,2024-07-04,FedEx,Standard,48.72,Delivered,Bangalore
+SHP00432,2024-06-28,2024-07-15,BlueDart,Economy,38.94,Pending,Kolkata
+SHP00433,2024-06-29,2024-07-03,BlueDart,Express,182.16,Returned,Nagpur
+SHP00434,2024-06-29,2024-07-05,Delhivery,Standard,72.21,Delivered,Hyderabad
+SHP00435,2024-06-29,2024-07-08,Ecom Express,Standard,72.54,Pending,Kochi
+SHP00436,2024-06-30,2024-07-01,FedEx,Same-Day,333.34,Delivered,Kochi
+SHP00437,2024-06-30,2024-07-09,BlueDart,Standard,84.7,Failed,Kolkata
+SHP00438,2024-07-01,2024-07-14,FedEx,Economy,,Delivered,Bangalore
+SHP00439,2024-07-01,2024-07-02,Ecom Express,Same-Day,294.74,Delivered,Nagpur
+SHP00440,2024-07-01,2024-07-05,Ecom Express,Standard,67.21,Delivered,Hyderabad
+SHP00441,2024-07-02,2024-07-11,DTDC,Standard,77.03,Delivered,Nagpur
+SHP00442,2024-07-02,,Ecom Express,Economy,57.85,Delivered,Jaipur
+SHP00443,2024-07-03,2024-07-13,Delhivery,Standard,70.34,Returned,Chennai
+SHP00444,2024-07-03,2024-07-12,BlueDart,Standard,48.34,Delivered,Chandigarh
+SHP00445,2024-07-04,2024-07-14,DTDC,Economy,59.87,Delivered,Pune
+SHP00446,2024-07-04,2024-07-11,Delhivery,Economy,56.01,Delivered,Surat
+SHP00447,2024-07-04,2024-07-21,FedEx,Economy,24.31,Delivered,Delhi
+SHP00448,2024-07-05,2024-07-20,BlueDart,Economy,43.19,Delivered,Bhopal
+SHP00449,2024-07-05,2024-07-12,Ecom Express,Standard,48.7,Delivered,Bhopal
+SHP00450,2024-07-06,2024-07-16,BlueDart,Standard,56.87,Delivered,Chennai
+SHP00451,2024-07-06,2024-07-19,FedEx,Economy,20.9,Delivered,Jaipur
+SHP00452,2024-07-06,2024-07-08,DTDC,Express,160.02,Delivered,Lucknow
+SHP00453,2024-07-07,2024-07-08,DTDC,Express,167.49,Pending,Bangalore
+SHP00454,2024-07-07,2024-07-21,DTDC,Economy,50.98,Cancelled,Bhopal
+SHP00455,2024-07-08,2024-07-18,Ecom Express,Standard,73.17,Delivered,Jaipur
+SHP00456,2024-07-08,2024-07-10,Delhivery,Express,181.81,Delivered,Bhopal
+SHP00457,2024-07-09,2024-07-19,Delhivery,Standard,50.77,Delivered,Lucknow
+SHP00458,2024-07-09,2024-07-12,BlueDart,Express,146.02,Delivered,Nagpur
+SHP00459,2024-07-09,2024-07-19,Ecom Express,Standard,82.58,Delivered,Kolkata
+SHP00460,2024-07-10,2024-07-20,DTDC,Standard,47.83,Delivered,Hyderabad
+SHP00461,2024-07-10,2024-07-16,DTDC,Standard,88.74,Delivered,Pune
+SHP00462,2024-07-11,,FedEx,Express,182.13,Delivered,Ahmedabad
+SHP00463,2024-07-11,2024-07-12,FedEx,Same-Day,315.04,Delivered,Kolkata
+SHP00464,2024-07-11,2024-07-14,DTDC,Express,189.07,Cancelled,Chennai
+SHP00465,2024-07-12,2024-07-26,DTDC,Economy,24.87,Failed,Kolkata
+SHP00466,2024-07-12,2024-07-16,Ecom Express,Standard,55.15,Delivered,Chennai
+SHP00467,2024-07-13,2024-07-20,Delhivery,Standard,71.91,Delivered,Ahmedabad
+SHP00468,2024-07-13,2024-07-29,FedEx,Economy,37.5,Cancelled,Mumbai
+SHP00469,2024-07-14,2024-07-18,Delhivery,Standard,86.42,Returned,Lucknow
+SHP00470,2024-07-14,2024-08-02,Ecom Express,Economy,23.28,Delivered,Pune
+SHP00471,2024-07-14,2024-07-24,DTDC,Standard,,Delivered,Nagpur
+SHP00472,2024-07-15,2024-08-01,Delhivery,Economy,,Delivered,Surat
+SHP00473,2024-07-15,2024-07-22,DTDC,Standard,72.64,Delivered,Surat
+SHP00474,2024-07-16,2024-08-05,DTDC,Economy,32.78,Delivered,Lucknow
+SHP00475,2024-07-16,2024-07-20,BlueDart,Express,158.23,Delivered,Delhi
+SHP00476,2024-07-16,2024-08-05,Delhivery,Economy,62.18,Delivered,Nagpur
+SHP00477,2024-07-17,,Delhivery,Standard,49.75,Delivered,Bhopal
+SHP00478,2024-07-17,2024-07-20,DTDC,Express,181.34,Pending,Jaipur
+SHP00479,2024-07-18,2024-07-30,Ecom Express,Economy,48.13,Delivered,Mumbai
+SHP00480,2024-07-18,2024-07-19,BlueDart,Express,178.11,Delivered,Lucknow
+SHP00481,2024-07-19,2024-07-21,DTDC,Express,175.68,Delivered,Surat
+SHP00482,2024-07-19,2024-07-20,FedEx,Same-Day,300.38,Delivered,Kolkata
+SHP00483,2024-07-19,2024-07-20,FedEx,Express,168.44,Failed,Jaipur
+SHP00484,2024-07-20,2024-07-22,BlueDart,Express,183.39,Delivered,Mumbai
+SHP00485,2024-07-20,2024-07-23,Ecom Express,Express,161.61,Delivered,Hyderabad
+SHP00486,2024-07-21,2024-08-08,DTDC,Economy,68.33,Pending,Hyderabad
+SHP00487,2024-07-21,2024-07-25,Delhivery,Standard,62.61,Delivered,Nagpur
+SHP00488,2024-07-21,2024-07-28,BlueDart,Standard,47.14,Returned,Jaipur
+SHP00489,2024-07-22,2024-08-04,Ecom Express,Economy,39.47,Delivered,Lucknow
+SHP00490,2024-07-22,2024-08-02,Delhivery,Economy,67.59,Delivered,Chennai
+SHP00491,2024-07-23,2024-07-27,FedEx,Express,155.99,Delivered,Chennai
+SHP00492,2024-07-23,2024-07-27,FedEx,Express,183.4,Delivered,Kolkata
+SHP00493,2024-07-24,2024-08-03,Delhivery,Standard,84.06,Cancelled,Mumbai
+SHP00494,2024-07-24,2024-07-31,BlueDart,Standard,57.51,Pending,Mumbai
+SHP00495,2024-07-24,2024-07-27,FedEx,Express,144.16,Delivered,Nagpur
+SHP00496,2024-07-25,2024-07-30,DTDC,Standard,76.23,Delivered,Jaipur
+SHP00497,2024-07-25,2024-07-28,Delhivery,Express,155.58,Pending,Bangalore
+SHP00498,2024-07-26,2024-08-04,Delhivery,Standard,79.15,Returned,Hyderabad
+SHP00499,2024-07-26,2024-08-06,FedEx,Economy,42.13,Delivered,Mumbai
+SHP00500,2024-07-26,2024-08-05,BlueDart,Economy,44.26,Delivered,Jaipur
+SHP00501,2024-07-27,2024-07-27,DTDC,Same-Day,328.9,Delivered,Nagpur
+SHP00502,2024-07-27,2024-07-30,BlueDart,Express,159.12,Cancelled,Ahmedabad
+SHP00503,2024-07-28,2024-08-04,Ecom Express,Standard,62.16,Delivered,Delhi
+SHP00504,2024-07-28,2024-08-08,Ecom Express,Economy,38.81,Delivered,Ahmedabad
+SHP00505,2024-07-29,2024-07-29,FedEx,Same-Day,308.37,Pending,Nagpur
+SHP00506,2024-07-29,2024-08-08,FedEx,Standard,66.3,Delivered,Pune
+SHP00507,2024-07-29,2024-08-05,FedEx,Economy,,Delivered,Lucknow
+SHP00508,2024-07-30,2024-08-07,Ecom Express,Economy,38.09,Delivered,Kolkata
+SHP00509,2024-07-30,2024-08-10,BlueDart,Economy,46.21,Delivered,Mumbai
+SHP00510,2024-07-31,2024-07-31,BlueDart,Same-Day,323.54,Delivered,Nagpur
+SHP00511,2024-07-31,2024-08-03,FedEx,Express,153.47,Delivered,Pune
+SHP00512,2024-07-31,2024-08-02,DTDC,Express,153.88,Delivered,Surat
+SHP00513,2024-08-01,2024-08-20,BlueDart,Economy,66.67,Delivered,Pune
+SHP00514,2024-08-01,2024-08-09,Ecom Express,Economy,56.18,Pending,Chandigarh
+SHP00515,2024-08-02,2024-08-11,Delhivery,Standard,68.86,Pending,Bhopal
+SHP00516,2024-08-02,2024-08-11,Delhivery,Standard,72.39,Delivered,Jaipur
+SHP00517,2024-08-03,2024-08-10,Delhivery,Standard,41.46,Delivered,Mumbai
+SHP00518,2024-08-03,2024-08-13,DTDC,Economy,50.91,Delivered,Delhi
+SHP00519,2024-08-03,2024-08-13,FedEx,Economy,45.48,Delivered,Lucknow
+SHP00520,2024-08-04,2024-08-11,Ecom Express,Standard,67.29,Delivered,Jaipur
+SHP00521,2024-08-04,2024-08-07,DTDC,Express,157.97,Delivered,Chandigarh
+SHP00522,2024-08-05,2024-08-13,Ecom Express,Standard,44.07,Delivered,Jaipur
+SHP00523,2024-08-05,2024-08-23,Ecom Express,Economy,29.67,Delivered,Chandigarh
+SHP00524,2024-08-05,2024-08-18,FedEx,Economy,67.54,Delivered,Kolkata
+SHP00525,2024-08-06,2024-08-21,Delhivery,Economy,40.43,Delivered,Kolkata
+SHP00526,2024-08-06,2024-08-10,FedEx,Express,163.33,Delivered,Hyderabad
+SHP00527,2024-08-07,2024-08-08,DTDC,Express,142.64,Delivered,Hyderabad
+SHP00528,2024-08-07,2024-08-14,DTDC,Standard,41.88,Delivered,Chennai
+SHP00529,2024-08-08,2024-08-14,DTDC,Standard,75.86,Cancelled,Bangalore
+SHP00530,2024-08-08,2024-08-16,FedEx,Economy,46.9,Cancelled,Mumbai
+SHP00531,2024-08-08,2024-08-16,Ecom Express,Economy,45.44,Delivered,Nagpur
+SHP00532,2024-08-09,,Ecom Express,Economy,32.16,Delivered,Mumbai
+SHP00533,2024-08-09,2024-08-22,BlueDart,Economy,57.24,Delivered,Kochi
+SHP00534,2024-08-10,2024-08-12,DTDC,Express,,Delivered,Nagpur
+SHP00535,2024-08-10,2024-08-26,Ecom Express,Economy,29.5,Delivered,Chandigarh
+SHP00536,2024-08-10,2024-08-25,BlueDart,Economy,43.04,Cancelled,Pune
+SHP00537,2024-08-11,,Ecom Express,Economy,34.31,Delivered,Mumbai
+SHP00538,2024-08-11,2024-08-21,DTDC,Standard,52.37,Cancelled,Mumbai
+SHP00539,2024-08-12,2024-08-13,Delhivery,Express,,Delivered,Bangalore
+SHP00540,2024-08-12,2024-08-17,DTDC,Standard,72.55,Delivered,Surat
+SHP00541,2024-08-13,2024-08-29,FedEx,Economy,61.23,Pending,Nagpur
+SHP00542,2024-08-13,2024-08-15,Ecom Express,Express,160.89,Delivered,Hyderabad
+SHP00543,2024-08-13,2024-08-22,Ecom Express,Standard,43.65,Delivered,Hyderabad
+SHP00544,2024-08-14,2024-08-14,FedEx,Same-Day,303.68,Delivered,Delhi
+SHP00545,2024-08-14,2024-08-18,FedEx,Express,189.0,Delivered,Mumbai
+SHP00546,2024-08-15,2024-08-21,Delhivery,Standard,69.81,Failed,Bangalore
+SHP00547,2024-08-15,2024-08-23,Ecom Express,Standard,75.49,Delivered,Lucknow
+SHP00548,2024-08-15,2024-08-16,Ecom Express,Same-Day,290.37,Failed,Hyderabad
+SHP00549,2024-08-16,2024-08-17,Delhivery,Express,165.91,Failed,Bangalore
+SHP00550,2024-08-16,2024-09-03,BlueDart,Economy,21.88,Pending,Ahmedabad
+SHP00551,2024-08-17,2024-08-18,Delhivery,Express,168.46,Delivered,Bhopal
+SHP00552,2024-08-17,2024-08-30,DTDC,Economy,66.04,Delivered,Surat
+SHP00553,2024-08-18,2024-08-20,Ecom Express,Express,188.42,Cancelled,Mumbai
+SHP00554,2024-08-18,2024-08-19,FedEx,Express,167.03,Delivered,Bhopal
+SHP00555,2024-08-18,2024-09-07,DTDC,Economy,42.91,Delivered,Delhi
+SHP00556,2024-08-19,,Ecom Express,Express,187.25,Delivered,Chandigarh
+SHP00557,2024-08-19,2024-08-23,Delhivery,Standard,73.68,Delivered,Pune
+SHP00558,2024-08-20,2024-08-24,DTDC,Standard,43.24,Delivered,Hyderabad
+SHP00559,2024-08-20,2024-08-27,Ecom Express,Economy,43.29,Delivered,Ahmedabad
+SHP00560,2024-08-20,2024-08-21,BlueDart,Express,152.01,Delivered,Lucknow
+SHP00561,2024-08-21,2024-08-22,BlueDart,Same-Day,313.49,Cancelled,Chandigarh
+SHP00562,2024-08-21,,FedEx,Standard,62.77,Delivered,Bangalore
+SHP00563,2024-08-22,2024-08-31,Ecom Express,Standard,69.11,Returned,Kolkata
+SHP00564,2024-08-22,2024-09-01,BlueDart,Standard,57.84,Delivered,Jaipur
+SHP00565,2024-08-23,2024-08-30,Delhivery,Standard,48.21,Cancelled,Mumbai
+SHP00566,2024-08-23,2024-08-24,Ecom Express,Express,165.19,Delivered,Mumbai
+SHP00567,2024-08-23,2024-09-01,Delhivery,Standard,81.51,Pending,Ahmedabad
+SHP00568,2024-08-24,2024-08-27,Delhivery,Express,173.2,Delivered,Bangalore
+SHP00569,2024-08-24,2024-09-02,BlueDart,Economy,36.92,Pending,Chennai
+SHP00570,2024-08-25,2024-09-01,Ecom Express,Standard,86.78,Delivered,Mumbai
+SHP00571,2024-08-25,2024-08-27,DTDC,Express,185.61,Cancelled,Chennai
+SHP00572,2024-08-25,2024-09-01,BlueDart,Economy,30.47,Failed,Lucknow
+SHP00573,2024-08-26,2024-09-03,BlueDart,Standard,41.97,Delivered,Kolkata
+SHP00574,2024-08-26,2024-08-28,Ecom Express,Express,177.07,Delivered,Ahmedabad
+SHP00575,2024-08-27,2024-09-10,Ecom Express,Economy,61.38,Pending,Chandigarh
+SHP00576,2024-08-27,2024-09-03,Delhivery,Economy,68.39,Delivered,Bhopal
+SHP00577,2024-08-28,2024-09-06,Ecom Express,Standard,84.49,Cancelled,Bangalore
+SHP00578,2024-08-28,2024-09-16,Delhivery,Economy,50.03,Delivered,Bangalore
+SHP00579,2024-08-28,2024-08-31,BlueDart,Express,166.5,Delivered,Kochi
+SHP00580,2024-08-29,2024-09-02,FedEx,Standard,41.39,Failed,Lucknow
+SHP00581,2024-08-29,2024-09-02,DTDC,Express,,Delivered,Lucknow
+SHP00582,2024-08-30,2024-09-15,BlueDart,Economy,42.98,Cancelled,Surat
+SHP00583,2024-08-30,2024-09-03,Ecom Express,Express,171.43,Delivered,Jaipur
+SHP00584,2024-08-30,2024-09-04,DTDC,Standard,67.86,Delivered,Hyderabad
+SHP00585,2024-08-31,2024-09-03,FedEx,Express,177.13,Delivered,Nagpur
+SHP00586,2024-08-31,2024-09-09,FedEx,Standard,53.99,Delivered,Hyderabad
+SHP00587,2024-09-01,2024-09-05,Delhivery,Standard,68.25,Delivered,Kochi
+SHP00588,2024-09-01,2024-09-05,DTDC,Standard,44.41,Delivered,Pune
+SHP00589,2024-09-02,2024-09-12,Delhivery,Standard,60.68,Delivered,Delhi
+SHP00590,2024-09-02,2024-09-07,BlueDart,Standard,77.51,Delivered,Ahmedabad
+SHP00591,2024-09-02,2024-09-08,DTDC,Standard,74.67,Pending,Kolkata
+SHP00592,2024-09-03,2024-09-04,BlueDart,Express,189.53,Delivered,Bangalore
+SHP00593,2024-09-03,,Delhivery,Standard,53.89,Delivered,Jaipur
+SHP00594,2024-09-04,2024-09-14,DTDC,Standard,64.91,Delivered,Chennai
+SHP00595,2024-09-04,2024-09-18,Delhivery,Economy,36.48,Delivered,Ahmedabad
+SHP00596,2024-09-04,2024-09-06,DTDC,Express,162.03,Pending,Pune
+SHP00597,2024-09-05,,Delhivery,Same-Day,332.85,Delivered,Bhopal
+SHP00598,2024-09-05,2024-09-12,FedEx,Standard,74.21,Delivered,Ahmedabad
+SHP00599,2024-09-06,2024-09-13,Delhivery,Standard,84.12,Delivered,Pune
+SHP00600,2024-09-06,2024-09-15,FedEx,Standard,50.18,Delivered,Bangalore
+SHP00601,2024-09-07,2024-09-16,Delhivery,Standard,83.67,Cancelled,Delhi
+SHP00602,2024-09-07,2024-09-11,DTDC,Standard,42.99,Delivered,Pune
+SHP00603,2024-09-07,2024-09-14,DTDC,Standard,84.43,Pending,Bangalore
+SHP00604,2024-09-08,2024-09-16,DTDC,Standard,56.45,Delivered,Bangalore
+SHP00605,2024-09-08,2024-09-16,Ecom Express,Standard,55.73,Delivered,Delhi
+SHP00606,2024-09-09,2024-09-11,BlueDart,Express,165.6,Returned,Hyderabad
+SHP00607,2024-09-09,2024-09-19,DTDC,Standard,87.03,Delivered,Ahmedabad
+SHP00608,2024-09-09,2024-09-18,FedEx,Standard,42.39,Delivered,Kochi
+SHP00609,2024-09-10,2024-09-11,DTDC,Express,157.61,Delivered,Mumbai
+SHP00610,2024-09-10,2024-09-10,Ecom Express,Same-Day,,Delivered,Mumbai
+SHP00611,2024-09-11,2024-09-17,FedEx,Standard,,Delivered,Kochi
+SHP00612,2024-09-11,2024-09-18,Ecom Express,Economy,29.96,Delivered,Bhopal
+SHP00613,2024-09-12,2024-09-13,FedEx,Express,161.24,Delivered,Chennai
+SHP00614,2024-09-12,2024-09-20,Delhivery,Standard,59.28,Delivered,Lucknow
+SHP00615,2024-09-12,2024-09-21,BlueDart,Economy,65.77,Delivered,Chennai
+SHP00616,2024-09-13,2024-09-29,BlueDart,Economy,58.1,Delivered,Lucknow
+SHP00617,2024-09-13,2024-09-21,Ecom Express,Standard,65.26,Delivered,Kochi
+SHP00618,2024-09-14,2024-09-20,BlueDart,Standard,89.42,Delivered,Mumbai
+SHP00619,2024-09-14,2024-09-29,Ecom Express,Economy,43.26,Failed,Kolkata
+SHP00620,2024-09-14,2024-09-15,Ecom Express,Same-Day,292.91,Delivered,Mumbai
+SHP00621,2024-09-15,2024-09-21,Ecom Express,Standard,53.11,Cancelled,Chennai
+SHP00622,2024-09-15,2024-09-19,BlueDart,Standard,61.8,Delivered,Jaipur
+SHP00623,2024-09-16,2024-09-26,Ecom Express,Standard,47.85,Delivered,Kochi
+SHP00624,2024-09-16,2024-09-17,BlueDart,Express,187.38,Delivered,Bhopal
+SHP00625,2024-09-17,2024-09-19,Ecom Express,Express,178.34,Delivered,Chennai
+SHP00626,2024-09-17,2024-09-25,DTDC,Standard,53.41,Delivered,Kolkata
+SHP00627,2024-09-17,2024-09-20,Ecom Express,Express,169.54,Delivered,Ahmedabad
+SHP00628,2024-09-18,2024-09-19,FedEx,Same-Day,326.07,Delivered,Lucknow
+SHP00629,2024-09-18,2024-09-25,Ecom Express,Standard,87.06,Returned,Mumbai
+SHP00630,2024-09-19,,Delhivery,Standard,84.08,Delivered,Bhopal
+SHP00631,2024-09-19,2024-09-19,Ecom Express,Same-Day,315.76,Delivered,Delhi
+SHP00632,2024-09-19,2024-09-27,FedEx,Economy,58.73,Pending,Jaipur
+SHP00633,2024-09-20,2024-09-21,FedEx,Express,168.11,Delivered,Bangalore
+SHP00634,2024-09-20,2024-09-24,BlueDart,Express,167.64,Delivered,Kolkata
+SHP00635,2024-09-21,2024-10-01,DTDC,Standard,45.74,Delivered,Chennai
+SHP00636,2024-09-21,2024-09-25,Ecom Express,Express,,Returned,Lucknow
+SHP00637,2024-09-22,2024-09-25,BlueDart,Express,166.48,Pending,Delhi
+SHP00638,2024-09-22,2024-10-01,DTDC,Standard,53.44,Delivered,Bhopal
+SHP00639,2024-09-22,2024-09-28,Ecom Express,Standard,41.05,Delivered,Nagpur
+SHP00640,2024-09-23,2024-10-01,Delhivery,Standard,76.14,Returned,Pune
+SHP00641,2024-09-23,2024-10-01,Ecom Express,Standard,41.62,Delivered,Hyderabad
+SHP00642,2024-09-24,2024-09-28,FedEx,Standard,69.76,Delivered,Mumbai
+SHP00643,2024-09-24,2024-10-04,FedEx,Standard,66.96,Delivered,Chandigarh
+SHP00644,2024-09-24,2024-09-28,Delhivery,Standard,88.44,Delivered,Hyderabad
+SHP00645,2024-09-25,,BlueDart,Standard,64.21,Delivered,Kolkata
+SHP00646,2024-09-25,2024-10-14,DTDC,Economy,23.18,Delivered,Pune
+SHP00647,2024-09-26,2024-09-28,Ecom Express,Express,167.58,Delivered,Nagpur
+SHP00648,2024-09-26,,FedEx,Same-Day,332.05,Delivered,Pune
+SHP00649,2024-09-27,2024-10-06,BlueDart,Economy,,Pending,Bhopal
+SHP00650,2024-09-27,2024-10-01,Delhivery,Express,161.52,Delivered,Pune
+SHP00651,2024-09-27,2024-10-07,FedEx,Standard,56.01,Delivered,Bangalore
+SHP00652,2024-09-28,2024-09-30,Delhivery,Express,185.33,Delivered,Kolkata
+SHP00653,2024-09-28,2024-10-01,Ecom Express,Express,149.56,Delivered,Chandigarh
+SHP00654,2024-09-29,2024-09-30,DTDC,Same-Day,320.77,Delivered,Ahmedabad
+SHP00655,2024-09-29,2024-10-01,FedEx,Express,160.29,Delivered,Hyderabad
+SHP00656,2024-09-29,2024-10-05,FedEx,Standard,42.05,Cancelled,Chandigarh
+SHP00657,2024-09-30,2024-10-07,Ecom Express,Standard,57.36,Returned,Ahmedabad
+SHP00658,2024-09-30,2024-10-04,BlueDart,Standard,53.26,Delivered,Delhi
+SHP00659,2024-10-01,2024-10-02,DTDC,Express,174.3,Delivered,Nagpur
+SHP00660,2024-10-01,2024-10-04,FedEx,Express,187.44,Delivered,Surat
+SHP00661,2024-10-02,2024-10-12,DTDC,Standard,53.4,Pending,Jaipur
+SHP00662,2024-10-02,2024-10-10,FedEx,Economy,60.57,Pending,Jaipur
+SHP00663,2024-10-02,2024-10-05,DTDC,Express,,Delivered,Ahmedabad
+SHP00664,2024-10-03,,Delhivery,Standard,66.91,Delivered,Surat
+SHP00665,2024-10-03,2024-10-10,FedEx,Standard,43.53,Pending,Bhopal
+SHP00666,2024-10-04,2024-10-10,DTDC,Standard,,Delivered,Chandigarh
+SHP00667,2024-10-04,2024-10-08,BlueDart,Standard,78.32,Delivered,Surat
+SHP00668,2024-10-04,2024-10-12,Delhivery,Standard,72.9,Delivered,Mumbai
+SHP00669,2024-10-05,,Delhivery,Standard,81.19,Delivered,Delhi
+SHP00670,2024-10-05,2024-10-10,BlueDart,Standard,72.38,Cancelled,Kolkata
+SHP00671,2024-10-06,2024-10-14,DTDC,Standard,88.45,Returned,Surat
+SHP00672,2024-10-06,2024-10-18,Ecom Express,Economy,55.7,Delivered,Chennai
+SHP00673,2024-10-07,2024-10-13,BlueDart,Standard,86.23,Delivered,Kochi
+SHP00674,2024-10-07,2024-10-10,DTDC,Express,165.86,Delivered,Bhopal
+SHP00675,2024-10-07,2024-10-08,BlueDart,Express,145.85,Delivered,Jaipur
+SHP00676,2024-10-08,2024-10-21,BlueDart,Economy,46.41,Delivered,Chennai
+SHP00677,2024-10-08,2024-10-15,FedEx,Standard,46.34,Delivered,Delhi
+SHP00678,2024-10-09,2024-10-17,DTDC,Standard,69.62,Delivered,Surat
+SHP00679,2024-10-09,2024-10-19,Ecom Express,Economy,44.12,Delivered,Hyderabad
+SHP00680,2024-10-09,2024-10-21,FedEx,Economy,51.13,Delivered,Jaipur
+SHP00681,2024-10-10,2024-10-25,BlueDart,Economy,,Delivered,Mumbai
+SHP00682,2024-10-10,2024-10-18,BlueDart,Standard,49.74,Delivered,Lucknow
+SHP00683,2024-10-11,2024-10-20,BlueDart,Standard,64.57,Delivered,Mumbai
+SHP00684,2024-10-11,2024-10-12,DTDC,Same-Day,337.53,Failed,Kochi
+SHP00685,2024-10-12,2024-10-22,DTDC,Economy,39.18,Delivered,Pune
+SHP00686,2024-10-12,2024-10-16,FedEx,Express,161.22,Delivered,Lucknow
+SHP00687,2024-10-12,2024-10-13,Ecom Express,Express,175.73,Cancelled,Bangalore
+SHP00688,2024-10-13,2024-10-17,FedEx,Standard,70.19,Failed,Surat
+SHP00689,2024-10-13,2024-10-23,Delhivery,Economy,34.95,Delivered,Delhi
+SHP00690,2024-10-14,2024-10-20,BlueDart,Standard,60.54,Pending,Jaipur
+SHP00691,2024-10-14,2024-10-23,BlueDart,Standard,50.88,Delivered,Bangalore
+SHP00692,2024-10-14,2024-10-15,BlueDart,Express,,Delivered,Delhi
+SHP00693,2024-10-15,,FedEx,Express,,Delivered,Kochi
+SHP00694,2024-10-15,2024-10-20,FedEx,Standard,,Delivered,Ahmedabad
+SHP00695,2024-10-16,2024-10-20,BlueDart,Standard,41.29,Delivered,Surat
+SHP00696,2024-10-16,2024-10-19,FedEx,Express,151.09,Delivered,Kolkata
+SHP00697,2024-10-17,2024-10-24,DTDC,Standard,79.02,Delivered,Kolkata
+SHP00698,2024-10-17,2024-10-19,DTDC,Express,150.06,Delivered,Surat
+SHP00699,2024-10-17,2024-10-21,FedEx,Standard,44.0,Delivered,Lucknow
+SHP00700,2024-10-18,2024-10-20,BlueDart,Express,163.72,Delivered,Pune
+SHP00701,2024-10-18,2024-10-22,FedEx,Express,140.5,Delivered,Pune
+SHP00702,2024-10-19,,FedEx,Standard,44.24,Pending,Lucknow
+SHP00703,2024-10-19,2024-10-25,FedEx,Standard,80.38,Pending,Chandigarh
+SHP00704,2024-10-19,2024-10-29,Delhivery,Standard,78.57,Cancelled,Nagpur
+SHP00705,2024-10-20,2024-10-24,DTDC,Standard,85.76,Delivered,Kolkata
+SHP00706,2024-10-20,2024-10-27,Ecom Express,Economy,62.73,Pending,Hyderabad
+SHP00707,2024-10-21,2024-10-31,Ecom Express,Standard,74.16,Delivered,Lucknow
+SHP00708,2024-10-21,2024-11-08,Delhivery,Economy,22.62,Delivered,Jaipur
+SHP00709,2024-10-22,,FedEx,Standard,79.14,Delivered,Kolkata
+SHP00710,2024-10-22,2024-10-22,Delhivery,Same-Day,332.28,Delivered,Hyderabad
+SHP00711,2024-10-22,2024-11-09,Delhivery,Economy,59.95,Delivered,Kochi
+SHP00712,2024-10-23,2024-10-27,BlueDart,Express,165.42,Delivered,Bangalore
+SHP00713,2024-10-23,2024-10-27,DTDC,Express,151.65,Cancelled,Hyderabad
+SHP00714,2024-10-24,2024-10-25,Ecom Express,Express,182.27,Delivered,Bangalore
+SHP00715,2024-10-24,2024-10-30,FedEx,Standard,76.36,Delivered,Nagpur
+SHP00716,2024-10-24,2024-11-05,Ecom Express,Economy,,Failed,Delhi
+SHP00717,2024-10-25,2024-11-11,Ecom Express,Economy,,Delivered,Bhopal
+SHP00718,2024-10-25,2024-11-03,DTDC,Economy,31.28,Delivered,Chennai
+SHP00719,2024-10-26,2024-11-03,Ecom Express,Standard,50.59,Delivered,Delhi
+SHP00720,2024-10-26,2024-10-27,Ecom Express,Same-Day,329.63,Delivered,Kolkata
+SHP00721,2024-10-27,2024-11-06,Delhivery,Economy,29.35,Delivered,Bangalore
+SHP00722,2024-10-27,2024-10-31,DTDC,Standard,43.33,Delivered,Kolkata
+SHP00723,2024-10-27,2024-11-04,BlueDart,Standard,89.93,Delivered,Nagpur
+SHP00724,2024-10-28,2024-10-28,FedEx,Same-Day,291.24,Delivered,Lucknow
+SHP00725,2024-10-28,2024-10-29,Ecom Express,Express,181.76,Delivered,Surat
+SHP00726,2024-10-29,2024-11-05,FedEx,Economy,38.27,Delivered,Jaipur
+SHP00727,2024-10-29,2024-11-03,BlueDart,Standard,82.08,Delivered,Mumbai
+SHP00728,2024-10-29,2024-11-15,FedEx,Economy,47.73,Cancelled,Kolkata
+SHP00729,2024-10-30,2024-11-05,BlueDart,Standard,85.08,Delivered,Jaipur
+SHP00730,2024-10-30,2024-11-08,Delhivery,Standard,86.31,Delivered,Lucknow
+SHP00731,2024-10-31,,Ecom Express,Standard,40.45,Delivered,Hyderabad
+SHP00732,2024-10-31,2024-11-18,BlueDart,Economy,23.77,Delivered,Lucknow
+SHP00733,2024-11-01,2024-11-02,FedEx,Same-Day,302.52,Delivered,Kochi
+SHP00734,2024-11-01,2024-11-03,Ecom Express,Express,173.47,Delivered,Delhi
+SHP00735,2024-11-01,2024-11-10,Delhivery,Standard,84.41,Cancelled,Chandigarh
+SHP00736,2024-11-02,,Ecom Express,Economy,,Pending,Hyderabad
+SHP00737,2024-11-02,2024-11-09,BlueDart,Standard,70.35,Delivered,Mumbai
+SHP00738,2024-11-03,2024-11-11,Delhivery,Economy,29.42,Pending,Bangalore
+SHP00739,2024-11-03,2024-11-06,FedEx,Express,180.25,Delivered,Surat
+SHP00740,2024-11-03,2024-11-13,Delhivery,Standard,88.37,Delivered,Jaipur
+SHP00741,2024-11-04,2024-11-05,Delhivery,Express,,Delivered,Surat
+SHP00742,2024-11-04,2024-11-12,DTDC,Standard,64.74,Delivered,Chennai
+SHP00743,2024-11-05,2024-11-06,Delhivery,Same-Day,294.31,Pending,Nagpur
+SHP00744,2024-11-05,2024-11-09,Delhivery,Express,167.96,Delivered,Lucknow
+SHP00745,2024-11-06,2024-11-15,Ecom Express,Standard,65.14,Delivered,Kolkata
+SHP00746,2024-11-06,2024-11-26,FedEx,Economy,27.22,Returned,Bangalore
+SHP00747,2024-11-06,2024-11-11,Ecom Express,Standard,62.1,Delivered,Chennai
+SHP00748,2024-11-07,,Ecom Express,Express,156.71,Delivered,Lucknow
+SHP00749,2024-11-07,2024-11-17,BlueDart,Economy,46.09,Delivered,Ahmedabad
+SHP00750,2024-11-08,2024-11-10,Ecom Express,Express,169.28,Pending,Kolkata
+SHP00751,2024-11-08,,DTDC,Standard,40.42,Pending,Hyderabad
+SHP00752,2024-11-08,2024-11-20,DTDC,Economy,58.05,Delivered,Delhi
+SHP00753,2024-11-09,2024-11-12,BlueDart,Express,175.65,Delivered,Bhopal
+SHP00754,2024-11-09,2024-11-19,FedEx,Standard,58.31,Delivered,Jaipur
+SHP00755,2024-11-10,2024-11-14,FedEx,Standard,42.65,Pending,Chandigarh
+SHP00756,2024-11-10,2024-11-27,Ecom Express,Economy,57.75,Delivered,Kochi
+SHP00757,2024-11-11,2024-11-12,Ecom Express,Express,187.76,Delivered,Mumbai
+SHP00758,2024-11-11,2024-11-13,Ecom Express,Express,152.01,Returned,Mumbai
+SHP00759,2024-11-11,2024-11-25,FedEx,Economy,36.18,Delivered,Chandigarh
+SHP00760,2024-11-12,2024-11-21,Delhivery,Economy,29.19,Delivered,Hyderabad
+SHP00761,2024-11-12,2024-11-18,DTDC,Standard,68.85,Delivered,Pune
+SHP00762,2024-11-13,2024-11-18,Delhivery,Standard,47.74,Failed,Mumbai
+SHP00763,2024-11-13,2024-11-21,Delhivery,Standard,57.81,Delivered,Jaipur
+SHP00764,2024-11-13,2024-11-14,FedEx,Same-Day,324.85,Delivered,Hyderabad
+SHP00765,2024-11-14,2024-11-21,Delhivery,Standard,68.01,Delivered,Bangalore
+SHP00766,2024-11-14,2024-11-16,BlueDart,Express,159.32,Delivered,Mumbai
+SHP00767,2024-11-15,2024-11-25,Ecom Express,Economy,41.01,Delivered,Surat
+SHP00768,2024-11-15,2024-11-28,BlueDart,Economy,48.11,Delivered,Hyderabad
+SHP00769,2024-11-16,2024-11-23,DTDC,Standard,40.29,Failed,Jaipur
+SHP00770,2024-11-16,2024-12-01,Ecom Express,Economy,,Delivered,Chandigarh
+SHP00771,2024-11-16,2024-11-23,Delhivery,Standard,84.06,Delivered,Bhopal
+SHP00772,2024-11-17,2024-12-05,DTDC,Economy,23.89,Delivered,Surat
+SHP00773,2024-11-17,,Ecom Express,Standard,75.34,Delivered,Kolkata
+SHP00774,2024-11-18,2024-11-24,Delhivery,Standard,86.0,Cancelled,Kolkata
+SHP00775,2024-11-18,2024-12-08,BlueDart,Economy,33.53,Delivered,Mumbai
+SHP00776,2024-11-18,2024-11-27,Ecom Express,Standard,58.52,Delivered,Surat
+SHP00777,2024-11-19,2024-11-29,Delhivery,Standard,68.45,Delivered,Delhi
+SHP00778,2024-11-19,2024-11-19,BlueDart,Same-Day,334.09,Delivered,Lucknow
+SHP00779,2024-11-20,2024-11-21,DTDC,Same-Day,337.1,Delivered,Kolkata
+SHP00780,2024-11-20,2024-11-24,DTDC,Express,176.98,Delivered,Delhi
+SHP00781,2024-11-21,2024-11-21,DTDC,Same-Day,294.33,Pending,Bangalore
+SHP00782,2024-11-21,2024-11-23,DTDC,Express,173.46,Returned,Hyderabad
+SHP00783,2024-11-21,2024-12-01,FedEx,Standard,60.52,Delivered,Lucknow
+SHP00784,2024-11-22,2024-11-29,Ecom Express,Standard,63.54,Returned,Chennai
+SHP00785,2024-11-22,2024-12-02,Ecom Express,Standard,42.46,Delivered,Nagpur
+SHP00786,2024-11-23,2024-12-07,FedEx,Economy,29.55,Delivered,Jaipur
+SHP00787,2024-11-23,2024-11-24,Delhivery,Express,179.53,Delivered,Kochi
+SHP00788,2024-11-23,2024-11-24,Delhivery,Express,162.7,Delivered,Nagpur
+SHP00789,2024-11-24,2024-11-27,DTDC,Express,155.08,Delivered,Nagpur
+SHP00790,2024-11-24,2024-12-09,BlueDart,Economy,39.2,Delivered,Hyderabad
+SHP00791,2024-11-25,2024-12-05,Delhivery,Standard,82.72,Delivered,Chandigarh
+SHP00792,2024-11-25,2024-11-29,BlueDart,Express,177.45,Delivered,Lucknow
+SHP00793,2024-11-26,2024-11-28,Ecom Express,Express,153.62,Delivered,Jaipur
+SHP00794,2024-11-26,2024-11-27,BlueDart,Express,145.88,Pending,Lucknow
+SHP00795,2024-11-26,2024-12-03,Ecom Express,Standard,52.6,Delivered,Surat
+SHP00796,2024-11-27,2024-12-05,FedEx,Economy,66.04,Delivered,Bangalore
+SHP00797,2024-11-27,2024-12-13,FedEx,Economy,49.08,Delivered,Ahmedabad
+SHP00798,2024-11-28,2024-11-30,DTDC,Express,,Delivered,Kochi
+SHP00799,2024-11-28,2024-11-29,Delhivery,Same-Day,319.82,Cancelled,Mumbai
+SHP00800,2024-11-28,2024-12-16,DTDC,Economy,38.3,Delivered,Lucknow
+SHP00801,2024-11-29,2024-11-29,Ecom Express,Same-Day,330.36,Delivered,Jaipur
+SHP00802,2024-11-29,2024-12-04,DTDC,Standard,66.16,Pending,Jaipur
+SHP00803,2024-11-30,2024-12-02,BlueDart,Express,145.84,Delivered,Surat
+SHP00804,2024-11-30,2024-12-02,Ecom Express,Express,146.45,Delivered,Delhi
+SHP00805,2024-12-01,2024-12-04,FedEx,Express,166.84,Delivered,Hyderabad
+SHP00806,2024-12-01,2024-12-02,Delhivery,Same-Day,336.83,Returned,Chandigarh
+SHP00807,2024-12-01,,Ecom Express,Economy,,Delivered,Ahmedabad
+SHP00808,2024-12-02,2024-12-18,Ecom Express,Economy,63.48,Delivered,Pune
+SHP00809,2024-12-02,2024-12-03,BlueDart,Express,178.2,Delivered,Mumbai
+SHP00810,2024-12-03,2024-12-10,Delhivery,Standard,52.39,Delivered,Chennai
+SHP00811,2024-12-03,2024-12-16,FedEx,Economy,21.82,Delivered,Pune
+SHP00812,2024-12-03,2024-12-23,Ecom Express,Economy,25.09,Delivered,Nagpur
+SHP00813,2024-12-04,2024-12-08,Ecom Express,Standard,76.42,Delivered,Hyderabad
+SHP00814,2024-12-04,2024-12-13,BlueDart,Economy,29.98,Returned,Nagpur
+SHP00815,2024-12-05,2024-12-23,DTDC,Economy,38.56,Pending,Nagpur
+SHP00816,2024-12-05,2024-12-08,FedEx,Express,165.08,Delivered,Mumbai
+SHP00817,2024-12-06,2024-12-09,Delhivery,Express,176.27,Cancelled,Jaipur
+SHP00818,2024-12-06,2024-12-16,Ecom Express,Standard,45.66,Delivered,Bhopal
+SHP00819,2024-12-06,2024-12-16,Ecom Express,Standard,60.32,Delivered,Chennai
+SHP00820,2024-12-07,2024-12-12,FedEx,Standard,64.25,Delivered,Lucknow
+SHP00821,2024-12-07,2024-12-19,DTDC,Economy,47.04,Cancelled,Delhi
+SHP00822,2024-12-08,2024-12-13,Ecom Express,Standard,80.92,Pending,Ahmedabad
+SHP00823,2024-12-08,,FedEx,Standard,48.58,Delivered,Lucknow
+SHP00824,2024-12-08,2024-12-16,BlueDart,Standard,80.39,Returned,Chandigarh
+SHP00825,2024-12-09,2024-12-11,DTDC,Express,174.64,Delivered,Delhi
+SHP00826,2024-12-09,2024-12-18,Delhivery,Economy,47.79,Cancelled,Bangalore
+SHP00827,2024-12-10,,Ecom Express,Standard,74.98,Failed,Bhopal
+SHP00828,2024-12-10,2024-12-15,FedEx,Standard,60.6,Delivered,Surat
+SHP00829,2024-12-11,2024-12-12,BlueDart,Same-Day,296.92,Pending,Mumbai
+SHP00830,2024-12-11,2024-12-14,Delhivery,Express,173.29,Delivered,Lucknow
+SHP00831,2024-12-11,2024-12-20,FedEx,Standard,66.23,Delivered,Delhi
+SHP00832,2024-12-12,2024-12-14,FedEx,Express,171.97,Delivered,Bhopal
+SHP00833,2024-12-12,2024-12-17,Delhivery,Standard,56.9,Delivered,Pune
+SHP00834,2024-12-13,2024-12-21,BlueDart,Standard,85.34,Returned,Surat
+SHP00835,2024-12-13,2024-12-15,BlueDart,Express,169.37,Delivered,Delhi
+SHP00836,2024-12-13,2024-12-17,DTDC,Express,144.27,Delivered,Kolkata
+SHP00837,2024-12-14,2024-12-23,Ecom Express,Economy,42.49,Pending,Nagpur
+SHP00838,2024-12-14,2024-12-20,Delhivery,Standard,77.82,Returned,Bangalore
+SHP00839,2024-12-15,2024-12-17,Delhivery,Express,179.71,Delivered,Hyderabad
+SHP00840,2024-12-15,2024-12-17,Delhivery,Express,164.73,Failed,Lucknow
+SHP00841,2024-12-16,2024-12-21,BlueDart,Standard,84.74,Delivered,Nagpur
+SHP00842,2024-12-16,2024-12-16,Ecom Express,Same-Day,303.38,Pending,Chandigarh
+SHP00843,2024-12-16,2024-12-22,DTDC,Standard,60.53,Delivered,Ahmedabad
+SHP00844,2024-12-17,2025-01-05,FedEx,Economy,64.93,Delivered,Bhopal
+SHP00845,2024-12-17,2024-12-24,FedEx,Standard,84.81,Delivered,Bangalore
+SHP00846,2024-12-18,2024-12-19,Delhivery,Express,,Delivered,Surat
+SHP00847,2024-12-18,2024-12-22,Ecom Express,Standard,82.95,Delivered,Kolkata
+SHP00848,2024-12-18,2024-12-31,BlueDart,Economy,24.44,Delivered,Mumbai
+SHP00849,2024-12-19,2024-12-20,Ecom Express,Express,183.25,Delivered,Pune
+SHP00850,2024-12-19,2024-12-23,Ecom Express,Express,156.03,Returned,Ahmedabad
+SHP00851,2024-12-20,2024-12-25,BlueDart,Standard,48.92,Delivered,Lucknow
+SHP00852,2024-12-20,,Delhivery,Same-Day,301.97,Delivered,Bhopal
+SHP00853,2024-12-21,2024-12-26,Ecom Express,Standard,60.9,Delivered,Ahmedabad
+SHP00854,2024-12-21,2025-01-03,FedEx,Economy,32.56,Delivered,Bangalore
+SHP00855,2024-12-21,,BlueDart,Standard,56.03,Cancelled,Bhopal
+SHP00856,2024-12-22,2024-12-29,DTDC,Standard,46.75,Cancelled,Surat
+SHP00857,2024-12-22,2024-12-31,Delhivery,Standard,54.81,Delivered,Mumbai
+SHP00858,2024-12-23,2024-12-26,BlueDart,Express,168.61,Delivered,Jaipur
+SHP00859,2024-12-23,2024-12-24,DTDC,Express,162.09,Pending,Chandigarh
+SHP00860,2024-12-23,,DTDC,Standard,57.34,Delivered,Kolkata
+SHP00861,2024-12-24,2025-01-08,Ecom Express,Economy,57.32,Cancelled,Lucknow
+SHP00862,2024-12-24,2024-12-27,Ecom Express,Express,184.68,Delivered,Jaipur
+SHP00863,2024-12-25,2024-12-26,Ecom Express,Express,177.84,Pending,Pune
+SHP00864,2024-12-25,2024-12-28,BlueDart,Express,156.6,Delivered,Mumbai
+SHP00865,2024-12-26,2024-12-27,BlueDart,Express,177.22,Delivered,Kochi
+SHP00866,2024-12-26,2024-12-30,Delhivery,Express,147.6,Returned,Kochi
+SHP00867,2024-12-26,2025-01-04,Ecom Express,Standard,,Delivered,Mumbai
+SHP00868,2024-12-27,2025-01-03,DTDC,Standard,57.28,Delivered,Kolkata
+SHP00869,2024-12-27,2025-01-10,FedEx,Economy,60.39,Delivered,Chennai
+SHP00870,2024-12-28,2025-01-14,Delhivery,Economy,32.32,Delivered,Jaipur
+SHP00871,2024-12-28,,BlueDart,Standard,43.16,Delivered,Delhi
+SHP00872,2024-12-28,2025-01-03,Delhivery,Standard,46.59,Delivered,Ahmedabad
+SHP00873,2024-12-29,2025-01-02,Delhivery,Express,182.94,Delivered,Lucknow
+SHP00874,2024-12-29,2024-12-30,Delhivery,Express,171.69,Delivered,Chennai
+SHP00875,2024-12-30,2025-01-07,Delhivery,Standard,52.66,Pending,Delhi
+SHP00876,2024-12-30,2025-01-08,FedEx,Standard,67.76,Delivered,Chandigarh
+SHP00877,2024-12-31,2024-12-31,Ecom Express,Same-Day,316.38,Delivered,Surat
+SHP00878,2024-12-31,2024-12-31,DTDC,Same-Day,322.77,Delivered,Lucknow
+SHP00879,2024-12-31,2025-01-07,Delhivery,Standard,51.66,Delivered,Lucknow
+SHP00880,2025-01-01,2025-01-05,Delhivery,Standard,83.22,Delivered,Kochi
+SHP00881,2025-01-01,2025-01-09,Delhivery,Standard,55.47,Delivered,Kolkata
+SHP00882,2025-01-02,2025-01-03,Ecom Express,Same-Day,324.71,Delivered,Surat
+SHP00883,2025-01-02,2025-01-11,BlueDart,Standard,40.81,Delivered,Ahmedabad
+SHP00884,2025-01-02,2025-01-11,BlueDart,Standard,,Delivered,Hyderabad
+SHP00885,2025-01-03,2025-01-22,FedEx,Economy,37.59,Delivered,Delhi
+SHP00886,2025-01-03,2025-01-09,BlueDart,Standard,67.17,Delivered,Kochi
+SHP00887,2025-01-04,2025-01-05,Delhivery,Same-Day,293.64,Delivered,Lucknow
+SHP00888,2025-01-04,2025-01-08,Delhivery,Standard,79.51,Delivered,Chennai
+SHP00889,2025-01-05,2025-01-12,Delhivery,Standard,50.89,Delivered,Nagpur
+SHP00890,2025-01-05,2025-01-09,FedEx,Standard,73.85,Cancelled,Kochi
+SHP00891,2025-01-05,2025-01-05,Delhivery,Same-Day,330.16,Delivered,Delhi
+SHP00892,2025-01-06,2025-01-13,BlueDart,Economy,48.09,Delivered,Delhi
+SHP00893,2025-01-06,2025-01-21,Ecom Express,Economy,57.04,Delivered,Nagpur
+SHP00894,2025-01-07,2025-01-12,Ecom Express,Standard,73.09,Delivered,Kolkata
+SHP00895,2025-01-07,2025-01-07,DTDC,Same-Day,307.78,Delivered,Lucknow
+SHP00896,2025-01-07,2025-01-15,BlueDart,Standard,80.44,Delivered,Surat
+SHP00897,2025-01-08,2025-01-15,Delhivery,Standard,54.74,Cancelled,Jaipur
+SHP00898,2025-01-08,2025-01-16,Ecom Express,Economy,48.56,Delivered,Chandigarh
+SHP00899,2025-01-09,2025-01-16,BlueDart,Standard,77.27,Returned,Hyderabad
+SHP00900,2025-01-09,2025-01-16,Ecom Express,Standard,58.95,Delivered,Kolkata
+SHP00901,2025-01-10,,Delhivery,Standard,55.14,Delivered,Pune
+SHP00902,2025-01-10,2025-01-16,Ecom Express,Standard,62.97,Delivered,Chandigarh
+SHP00903,2025-01-10,2025-01-15,DTDC,Standard,80.9,Delivered,Lucknow
+SHP00904,2025-01-11,2025-01-13,DTDC,Express,186.5,Delivered,Kolkata
+SHP00905,2025-01-11,2025-01-14,Ecom Express,Express,167.25,Delivered,Ahmedabad
+SHP00906,2025-01-12,2025-01-29,BlueDart,Economy,53.07,Delivered,Hyderabad
+SHP00907,2025-01-12,2025-01-25,BlueDart,Economy,65.16,Returned,Kochi
+SHP00908,2025-01-12,2025-01-18,BlueDart,Standard,44.93,Cancelled,Nagpur
+SHP00909,2025-01-13,2025-01-19,Ecom Express,Standard,51.6,Delivered,Mumbai
+SHP00910,2025-01-13,2025-01-20,BlueDart,Standard,75.45,Delivered,Pune
+SHP00911,2025-01-14,2025-01-16,Delhivery,Express,181.19,Delivered,Bangalore
+SHP00912,2025-01-14,2025-01-21,DTDC,Standard,82.85,Delivered,Bhopal
+SHP00913,2025-01-15,,Delhivery,Express,160.76,Delivered,Kolkata
+SHP00914,2025-01-15,2025-01-16,BlueDart,Express,144.47,Delivered,Delhi
+SHP00915,2025-01-15,2025-01-19,Delhivery,Express,161.89,Delivered,Jaipur
+SHP00916,2025-01-16,2025-01-19,BlueDart,Express,151.54,Delivered,Mumbai
+SHP00917,2025-01-16,2025-01-26,Ecom Express,Standard,54.56,Failed,Kolkata
+SHP00918,2025-01-17,2025-02-05,Delhivery,Economy,58.61,Delivered,Kolkata
+SHP00919,2025-01-17,2025-02-01,Ecom Express,Economy,23.78,Returned,Chennai
+SHP00920,2025-01-17,2025-01-21,Ecom Express,Standard,81.38,Delivered,Chandigarh
+SHP00921,2025-01-18,,FedEx,Economy,41.38,Delivered,Chennai
+SHP00922,2025-01-18,2025-01-19,BlueDart,Express,169.8,Delivered,Mumbai
+SHP00923,2025-01-19,2025-02-06,DTDC,Economy,24.48,Delivered,Surat
+SHP00924,2025-01-19,2025-02-07,BlueDart,Economy,,Delivered,Kochi
+SHP00925,2025-01-20,2025-01-24,DTDC,Express,144.49,Delivered,Chennai
+SHP00926,2025-01-20,2025-01-25,BlueDart,Standard,88.08,Delivered,Delhi
+SHP00927,2025-01-20,2025-01-24,Ecom Express,Standard,80.36,Delivered,Pune
+SHP00928,2025-01-21,2025-01-22,Delhivery,Express,162.98,Delivered,Bangalore
+SHP00929,2025-01-21,2025-01-25,Delhivery,Express,151.18,Delivered,Chandigarh
+SHP00930,2025-01-22,2025-01-31,FedEx,Standard,,Delivered,Nagpur
+SHP00931,2025-01-22,,DTDC,Standard,57.23,Delivered,Hyderabad
+SHP00932,2025-01-22,2025-01-31,DTDC,Economy,28.05,Delivered,Bangalore
+SHP00933,2025-01-23,2025-02-01,DTDC,Economy,48.16,Delivered,Bangalore
+SHP00934,2025-01-23,,Ecom Express,Express,187.19,Returned,Hyderabad
+SHP00935,2025-01-24,2025-02-01,DTDC,Standard,40.19,Delivered,Chennai
+SHP00936,2025-01-24,2025-01-29,Delhivery,Standard,51.91,Pending,Mumbai
+SHP00937,2025-01-25,2025-01-31,Ecom Express,Standard,86.92,Delivered,Hyderabad
+SHP00938,2025-01-25,2025-02-14,BlueDart,Economy,28.55,Delivered,Kochi
+SHP00939,2025-01-25,2025-02-04,DTDC,Standard,45.66,Delivered,Kochi
+SHP00940,2025-01-26,2025-01-27,DTDC,Express,168.51,Delivered,Lucknow
+SHP00941,2025-01-26,,BlueDart,Standard,83.09,Delivered,Ahmedabad
+SHP00942,2025-01-27,2025-01-29,DTDC,Express,163.86,Pending,Surat
+SHP00943,2025-01-27,2025-01-28,BlueDart,Same-Day,339.73,Delivered,Pune
+SHP00944,2025-01-27,,Ecom Express,Economy,53.96,Delivered,Jaipur
+SHP00945,2025-01-28,2025-02-03,Delhivery,Standard,43.7,Delivered,Chennai
+SHP00946,2025-01-28,2025-02-07,BlueDart,Standard,,Returned,Chandigarh
+SHP00947,2025-01-29,2025-02-04,FedEx,Standard,60.39,Delivered,Nagpur
+SHP00948,2025-01-29,2025-02-17,BlueDart,Economy,34.37,Delivered,Surat
+SHP00949,2025-01-30,2025-02-12,DTDC,Economy,47.89,Delivered,Hyderabad
+SHP00950,2025-01-30,2025-01-31,Ecom Express,Express,155.22,Pending,Ahmedabad
+SHP00951,2025-01-30,2025-02-01,Ecom Express,Express,144.32,Failed,Jaipur
+SHP00952,2025-01-31,2025-02-01,BlueDart,Same-Day,290.07,Delivered,Chandigarh
+SHP00953,2025-01-31,2025-02-04,Delhivery,Standard,62.48,Cancelled,Pune
+SHP00954,2025-02-01,2025-02-11,FedEx,Economy,,Cancelled,Bhopal
+SHP00955,2025-02-01,2025-02-02,Ecom Express,Express,168.62,Delivered,Pune
+SHP00956,2025-02-01,,DTDC,Standard,89.96,Delivered,Chennai
+SHP00957,2025-02-02,2025-02-04,DTDC,Express,154.34,Delivered,Hyderabad
+SHP00958,2025-02-02,2025-02-06,Delhivery,Standard,54.02,Failed,Bhopal
+SHP00959,2025-02-03,,Ecom Express,Standard,47.99,Delivered,Surat
+SHP00960,2025-02-03,2025-02-03,BlueDart,Same-Day,298.2,Pending,Mumbai
+SHP00961,2025-02-04,,DTDC,Standard,54.26,Delivered,Surat
+SHP00962,2025-02-04,2025-02-05,Delhivery,Express,179.64,Pending,Surat
+SHP00963,2025-02-04,2025-02-12,Ecom Express,Standard,85.29,Delivered,Pune
+SHP00964,2025-02-05,2025-02-11,Ecom Express,Standard,88.75,Delivered,Mumbai
+SHP00965,2025-02-05,2025-02-14,Ecom Express,Standard,51.61,Cancelled,Mumbai
+SHP00966,2025-02-06,2025-02-14,Ecom Express,Standard,84.06,Pending,Chennai
+SHP00967,2025-02-06,2025-02-06,Ecom Express,Same-Day,306.41,Cancelled,Chandigarh
+SHP00968,2025-02-06,,DTDC,Standard,45.64,Delivered,Jaipur
+SHP00969,2025-02-07,2025-02-09,Delhivery,Express,183.5,Delivered,Kolkata
+SHP00970,2025-02-07,2025-02-09,Ecom Express,Express,171.81,Delivered,Bangalore
+SHP00971,2025-02-08,2025-02-09,FedEx,Same-Day,298.24,Delivered,Chandigarh
+SHP00972,2025-02-08,2025-02-16,FedEx,Economy,41.49,Delivered,Bangalore
+SHP00973,2025-02-09,2025-02-10,Delhivery,Same-Day,304.36,Delivered,Pune
+SHP00974,2025-02-09,2025-02-18,BlueDart,Standard,76.84,Delivered,Kolkata
+SHP00975,2025-02-09,2025-02-16,BlueDart,Standard,62.67,Failed,Jaipur
+SHP00976,2025-02-10,2025-02-14,BlueDart,Standard,89.46,Delivered,Kolkata
+SHP00977,2025-02-10,2025-02-13,FedEx,Express,142.74,Delivered,Chennai
+SHP00978,2025-02-11,2025-02-18,BlueDart,Standard,57.75,Delivered,Surat
+SHP00979,2025-02-11,2025-02-12,DTDC,Express,164.1,Delivered,Pune
+SHP00980,2025-02-11,2025-02-12,Ecom Express,Express,165.16,Delivered,Mumbai
+SHP00981,2025-02-12,2025-02-20,FedEx,Standard,55.8,Returned,Kochi
+SHP00982,2025-02-12,2025-02-19,Delhivery,Economy,56.46,Cancelled,Pune
+SHP00983,2025-02-13,2025-02-20,Delhivery,Standard,83.74,Returned,Bangalore
+SHP00984,2025-02-13,2025-02-17,Ecom Express,Standard,86.94,Failed,Bhopal
+SHP00985,2025-02-14,2025-02-15,FedEx,Same-Day,330.25,Delivered,Jaipur
+SHP00986,2025-02-14,2025-02-16,BlueDart,Express,182.53,Delivered,Nagpur
+SHP00987,2025-02-14,2025-02-14,BlueDart,Same-Day,317.53,Delivered,Kolkata
+SHP00988,2025-02-15,2025-02-16,DTDC,Express,181.29,Delivered,Jaipur
+SHP00989,2025-02-15,2025-02-25,DTDC,Standard,55.18,Delivered,Chandigarh
+SHP00990,2025-02-16,,BlueDart,Economy,39.92,Delivered,Nagpur
+SHP00991,2025-02-16,2025-02-28,Delhivery,Economy,35.85,Delivered,Chennai
+SHP00992,2025-02-16,2025-02-17,Delhivery,Same-Day,313.37,Delivered,Pune
+SHP00993,2025-02-17,2025-02-25,DTDC,Standard,54.28,Delivered,Chandigarh
+SHP00994,2025-02-17,2025-02-18,Ecom Express,Express,188.08,Delivered,Bhopal
+SHP00995,2025-02-18,,BlueDart,Standard,55.64,Delivered,Hyderabad
+SHP00996,2025-02-18,2025-02-24,DTDC,Standard,44.9,Delivered,Nagpur
+SHP00997,2025-02-19,2025-03-07,DTDC,Economy,46.34,Delivered,Pune
+SHP00998,2025-02-19,2025-03-01,BlueDart,Standard,42.85,Pending,Chandigarh
+SHP00999,2025-02-19,2025-03-07,BlueDart,Economy,25.53,Delivered,Mumbai
+SHP01000,2025-02-20,2025-02-23,Delhivery,Express,150.97,Delivered,Pune
+SHP01001,2025-02-20,2025-02-27,Ecom Express,Standard,63.22,Pending,Ahmedabad
+SHP01002,2025-02-21,2025-02-23,Ecom Express,Express,,Delivered,Chennai
+SHP01003,2025-02-21,,BlueDart,Economy,59.98,Delivered,Delhi
+SHP01004,2025-02-21,2025-02-21,FedEx,Same-Day,326.97,Delivered,Chennai
+SHP01005,2025-02-22,2025-03-06,DTDC,Economy,41.32,Delivered,Kolkata
+SHP01006,2025-02-22,2025-02-23,DTDC,Same-Day,306.69,Pending,Kochi
+SHP01007,2025-02-23,2025-02-23,BlueDart,Same-Day,305.82,Pending,Delhi
+SHP01008,2025-02-23,2025-03-03,FedEx,Economy,58.7,Delivered,Bhopal
+SHP01009,2025-02-24,2025-03-03,Delhivery,Standard,42.6,Delivered,Kolkata
+SHP01010,2025-02-24,2025-02-26,BlueDart,Express,,Delivered,Kolkata
+SHP01011,2025-02-24,2025-03-05,BlueDart,Standard,79.78,Delivered,Mumbai
+SHP01012,2025-02-25,2025-03-16,DTDC,Economy,43.86,Delivered,Bhopal
+SHP01013,2025-02-25,2025-03-12,BlueDart,Economy,26.54,Delivered,Mumbai
+SHP01014,2025-02-26,2025-03-04,BlueDart,Standard,,Delivered,Bhopal
+SHP01015,2025-02-26,2025-02-26,BlueDart,Same-Day,,Delivered,Lucknow
+SHP01016,2025-02-26,2025-03-11,DTDC,Economy,62.98,Delivered,Surat
+SHP01017,2025-02-27,2025-03-06,Delhivery,Standard,75.49,Delivered,Bangalore
+SHP01018,2025-02-27,,Delhivery,Express,164.11,Delivered,Bhopal
+SHP01019,2025-02-28,2025-03-13,BlueDart,Economy,46.02,Pending,Surat
+SHP01020,2025-02-28,,DTDC,Standard,88.76,Delivered,Surat
+SHP01021,2025-03-01,2025-03-02,Delhivery,Same-Day,338.29,Delivered,Nagpur
+SHP01022,2025-03-01,2025-03-09,Delhivery,Standard,50.76,Returned,Kochi
+SHP01023,2025-03-01,2025-03-18,Delhivery,Economy,60.56,Delivered,Bangalore
+SHP01024,2025-03-02,2025-03-22,DTDC,Economy,29.86,Delivered,Hyderabad
+SHP01025,2025-03-02,2025-03-18,DTDC,Economy,30.68,Delivered,Delhi
+SHP01026,2025-03-03,2025-03-04,BlueDart,Express,173.8,Delivered,Jaipur
+SHP01027,2025-03-03,2025-03-20,Ecom Express,Economy,40.25,Delivered,Surat
+SHP01028,2025-03-03,,Delhivery,Economy,66.58,Delivered,Kochi
+SHP01029,2025-03-04,2025-03-14,Ecom Express,Standard,44.45,Delivered,Lucknow
+SHP01030,2025-03-04,2025-03-20,DTDC,Economy,45.58,Cancelled,Bhopal
+SHP01031,2025-03-05,,DTDC,Standard,85.93,Delivered,Pune
+SHP01032,2025-03-05,2025-03-06,DTDC,Express,185.21,Delivered,Pune
+SHP01033,2025-03-06,2025-03-12,Ecom Express,Standard,47.83,Cancelled,Nagpur
+SHP01034,2025-03-06,2025-03-15,DTDC,Standard,58.33,Delivered,Kolkata
+SHP01035,2025-03-06,2025-03-14,BlueDart,Standard,70.96,Cancelled,Nagpur
+SHP01036,2025-03-07,2025-03-07,DTDC,Same-Day,297.97,Delivered,Bangalore
+SHP01037,2025-03-07,,FedEx,Standard,88.4,Pending,Kolkata
+SHP01038,2025-03-08,,Ecom Express,Same-Day,335.74,Delivered,Nagpur
+SHP01039,2025-03-08,2025-03-16,FedEx,Standard,48.35,Pending,Bhopal
+SHP01040,2025-03-08,2025-03-18,DTDC,Standard,46.06,Returned,Kochi
+SHP01041,2025-03-09,2025-03-13,BlueDart,Express,144.27,Delivered,Ahmedabad
+SHP01042,2025-03-09,2025-03-25,Delhivery,Economy,65.47,Delivered,Ahmedabad
+SHP01043,2025-03-10,2025-03-20,DTDC,Standard,49.68,Delivered,Lucknow
+SHP01044,2025-03-10,2025-03-13,BlueDart,Express,160.81,Delivered,Chandigarh
+SHP01045,2025-03-11,2025-03-26,Ecom Express,Economy,42.44,Delivered,Jaipur
+SHP01046,2025-03-11,,FedEx,Express,169.95,Delivered,Nagpur
+SHP01047,2025-03-11,2025-03-19,FedEx,Standard,,Delivered,Mumbai
+SHP01048,2025-03-12,2025-03-21,FedEx,Standard,51.34,Delivered,Bhopal
+SHP01049,2025-03-12,2025-03-31,Ecom Express,Economy,66.57,Delivered,Mumbai
+SHP01050,2025-03-13,2025-03-18,BlueDart,Standard,85.42,Delivered,Bangalore
+SHP01051,2025-03-13,2025-03-22,Ecom Express,Economy,59.06,Delivered,Bangalore
+SHP01052,2025-03-13,2025-03-16,FedEx,Express,140.97,Delivered,Surat
+SHP01053,2025-03-14,2025-03-24,DTDC,Economy,36.35,Delivered,Ahmedabad
+SHP01054,2025-03-14,,Delhivery,Economy,51.4,Delivered,Nagpur
+SHP01055,2025-03-15,2025-03-24,Ecom Express,Economy,33.76,Delivered,Surat
+SHP01056,2025-03-15,,Ecom Express,Standard,85.48,Delivered,Mumbai
+SHP01057,2025-03-16,2025-03-26,BlueDart,Economy,51.69,Delivered,Chandigarh
+SHP01058,2025-03-16,2025-03-19,BlueDart,Express,143.6,Pending,Delhi
+SHP01059,2025-03-16,2025-03-17,Ecom Express,Express,185.45,Delivered,Delhi
+SHP01060,2025-03-17,2025-03-19,FedEx,Express,187.89,Delivered,Bangalore
+SHP01061,2025-03-17,2025-04-02,Delhivery,Economy,23.89,Delivered,Chandigarh
+SHP01062,2025-03-18,2025-04-04,BlueDart,Economy,46.62,Pending,Kolkata
+SHP01063,2025-03-18,2025-04-04,FedEx,Economy,35.17,Returned,Mumbai
+SHP01064,2025-03-18,2025-03-19,DTDC,Express,159.64,Delivered,Delhi
+SHP01065,2025-03-19,2025-03-20,BlueDart,Express,148.98,Delivered,Chandigarh
+SHP01066,2025-03-19,2025-03-19,FedEx,Same-Day,318.9,Cancelled,Nagpur
+SHP01067,2025-03-20,2025-03-30,FedEx,Standard,87.9,Delivered,Chandigarh
+SHP01068,2025-03-20,2025-03-29,Delhivery,Standard,65.15,Delivered,Mumbai
+SHP01069,2025-03-21,2025-03-30,Delhivery,Standard,44.15,Delivered,Chennai
+SHP01070,2025-03-21,2025-03-26,DTDC,Standard,71.0,Delivered,Chandigarh
+SHP01071,2025-03-21,2025-03-27,FedEx,Standard,57.01,Returned,Chandigarh
+SHP01072,2025-03-22,,FedEx,Standard,82.8,Failed,Pune
+SHP01073,2025-03-22,2025-03-28,Delhivery,Standard,61.73,Pending,Ahmedabad
+SHP01074,2025-03-23,2025-04-02,BlueDart,Standard,49.64,Delivered,Surat
+SHP01075,2025-03-23,2025-03-31,BlueDart,Economy,29.56,Cancelled,Mumbai
+SHP01076,2025-03-23,2025-03-26,Ecom Express,Express,178.44,Delivered,Pune
+SHP01077,2025-03-24,2025-03-28,Delhivery,Standard,53.28,Delivered,Chandigarh
+SHP01078,2025-03-24,2025-03-24,Ecom Express,Same-Day,328.36,Cancelled,Chennai
+SHP01079,2025-03-25,2025-03-31,Delhivery,Standard,50.29,Delivered,Surat
+SHP01080,2025-03-25,2025-04-03,DTDC,Economy,36.08,Delivered,Mumbai
+SHP01081,2025-03-26,2025-04-13,FedEx,Economy,43.27,Delivered,Bangalore
+SHP01082,2025-03-26,2025-04-05,DTDC,Standard,87.16,Cancelled,Pune
+SHP01083,2025-03-26,2025-03-27,Delhivery,Express,,Delivered,Surat
+SHP01084,2025-03-27,2025-04-11,FedEx,Economy,30.34,Delivered,Mumbai
+SHP01085,2025-03-27,2025-04-13,BlueDart,Economy,37.91,Delivered,Pune
+SHP01086,2025-03-28,2025-03-30,BlueDart,Express,147.47,Pending,Chennai
+SHP01087,2025-03-28,2025-04-01,Ecom Express,Express,165.5,Pending,Mumbai
+SHP01088,2025-03-28,2025-04-03,Delhivery,Standard,63.03,Delivered,Mumbai
+SHP01089,2025-03-29,2025-04-07,Delhivery,Economy,65.04,Delivered,Bhopal
+SHP01090,2025-03-29,2025-04-03,BlueDart,Standard,86.5,Delivered,Mumbai
+SHP01091,2025-03-30,2025-04-07,DTDC,Economy,39.18,Failed,Lucknow
+SHP01092,2025-03-30,2025-04-01,FedEx,Express,164.59,Delivered,Jaipur
+SHP01093,2025-03-31,2025-04-04,DTDC,Express,,Returned,Lucknow
+SHP01094,2025-03-31,2025-04-01,DTDC,Express,,Delivered,Chandigarh
+SHP01095,2025-03-31,2025-04-05,BlueDart,Standard,40.18,Pending,Bangalore
+SHP01096,2025-04-01,2025-04-09,BlueDart,Standard,56.0,Pending,Nagpur
+SHP01097,2025-04-01,2025-04-05,BlueDart,Standard,61.09,Delivered,Chandigarh
+SHP01098,2025-04-02,2025-04-07,Ecom Express,Standard,51.49,Failed,Chennai
+SHP01099,2025-04-02,2025-04-10,DTDC,Economy,29.98,Delivered,Lucknow
+SHP01100,2025-04-02,2025-04-09,Delhivery,Standard,41.89,Delivered,Surat
+SHP01101,2025-04-03,2025-04-12,FedEx,Standard,72.17,Delivered,Kochi
+SHP01102,2025-04-03,,Ecom Express,Economy,33.13,Pending,Jaipur
+SHP01103,2025-04-04,,Delhivery,Economy,22.62,Delivered,Kolkata
+SHP01104,2025-04-04,2025-04-12,DTDC,Economy,31.55,Delivered,Kochi
+SHP01105,2025-04-05,2025-04-23,BlueDart,Economy,60.1,Delivered,Jaipur
+SHP01106,2025-04-05,2025-04-12,DTDC,Standard,82.57,Delivered,Ahmedabad
+SHP01107,2025-04-05,2025-04-14,FedEx,Standard,64.15,Delivered,Ahmedabad
+SHP01108,2025-04-06,2025-04-17,Ecom Express,Economy,40.8,Delivered,Mumbai
+SHP01109,2025-04-06,2025-04-06,Ecom Express,Same-Day,338.89,Pending,Chandigarh
+SHP01110,2025-04-07,2025-04-17,FedEx,Standard,50.03,Delivered,Jaipur
+SHP01111,2025-04-07,2025-04-19,Delhivery,Economy,30.77,Delivered,Kolkata
+SHP01112,2025-04-07,2025-04-11,Delhivery,Standard,54.59,Delivered,Jaipur
+SHP01113,2025-04-08,2025-04-14,Ecom Express,Standard,48.64,Delivered,Bangalore
+SHP01114,2025-04-08,2025-04-10,Ecom Express,Express,158.97,Pending,Kochi
+SHP01115,2025-04-09,,BlueDart,Express,185.54,Returned,Bangalore
+SHP01116,2025-04-09,2025-04-11,Delhivery,Express,170.77,Delivered,Kolkata
+SHP01117,2025-04-10,2025-04-15,FedEx,Standard,60.6,Pending,Jaipur
+SHP01118,2025-04-10,2025-04-29,Delhivery,Economy,66.72,Cancelled,Pune
+SHP01119,2025-04-10,2025-04-18,BlueDart,Standard,42.42,Cancelled,Bhopal
+SHP01120,2025-04-11,2025-04-19,Ecom Express,Standard,50.51,Delivered,Chandigarh
+SHP01121,2025-04-11,2025-04-27,Ecom Express,Economy,48.29,Returned,Bangalore
+SHP01122,2025-04-12,2025-04-24,BlueDart,Economy,50.78,Delivered,Bangalore
+SHP01123,2025-04-12,2025-04-30,FedEx,Economy,21.98,Delivered,Delhi
+SHP01124,2025-04-12,2025-04-28,Ecom Express,Economy,40.15,Delivered,Jaipur
+SHP01125,2025-04-13,2025-04-14,DTDC,Same-Day,322.46,Delivered,Chandigarh
+SHP01126,2025-04-13,2025-04-14,Ecom Express,Express,174.9,Delivered,Nagpur
+SHP01127,2025-04-14,2025-04-23,DTDC,Standard,71.91,Delivered,Bangalore
+SHP01128,2025-04-14,2025-04-17,BlueDart,Express,156.03,Delivered,Lucknow
+SHP01129,2025-04-15,,BlueDart,Standard,44.68,Pending,Chennai
+SHP01130,2025-04-15,2025-04-19,Ecom Express,Standard,61.36,Cancelled,Bhopal
+SHP01131,2025-04-15,2025-04-16,Delhivery,Same-Day,296.44,Delivered,Bhopal
+SHP01132,2025-04-16,,DTDC,Express,187.38,Cancelled,Jaipur
+SHP01133,2025-04-16,2025-04-22,FedEx,Standard,63.76,Cancelled,Ahmedabad
+SHP01134,2025-04-17,2025-04-24,Ecom Express,Standard,55.86,Pending,Delhi
+SHP01135,2025-04-17,2025-04-17,FedEx,Same-Day,328.32,Delivered,Bangalore
+SHP01136,2025-04-17,2025-04-27,Ecom Express,Standard,64.9,Delivered,Delhi
+SHP01137,2025-04-18,2025-05-07,Delhivery,Economy,35.5,Returned,Ahmedabad
+SHP01138,2025-04-18,2025-04-22,Delhivery,Express,180.6,Delivered,Kolkata
+SHP01139,2025-04-19,2025-04-23,Delhivery,Express,183.36,Delivered,Kolkata
+SHP01140,2025-04-19,2025-04-22,Delhivery,Express,173.65,Delivered,Kochi
+SHP01141,2025-04-20,2025-05-07,BlueDart,Economy,22.35,Delivered,Nagpur
+SHP01142,2025-04-20,2025-04-28,BlueDart,Standard,68.32,Delivered,Jaipur
+SHP01143,2025-04-20,2025-04-21,DTDC,Same-Day,328.16,Delivered,Ahmedabad
+SHP01144,2025-04-21,2025-04-23,FedEx,Express,146.83,Delivered,Hyderabad
+SHP01145,2025-04-21,2025-04-27,Ecom Express,Standard,51.43,Pending,Nagpur
+SHP01146,2025-04-22,2025-05-04,Ecom Express,Economy,64.12,Cancelled,Kochi
+SHP01147,2025-04-22,2025-05-08,BlueDart,Economy,21.01,Delivered,Hyderabad
+SHP01148,2025-04-22,2025-04-23,Ecom Express,Same-Day,327.64,Returned,Jaipur
+SHP01149,2025-04-23,2025-05-13,BlueDart,Economy,43.69,Delivered,Mumbai
+SHP01150,2025-04-23,2025-05-10,DTDC,Economy,42.34,Delivered,Chandigarh
+SHP01151,2025-04-24,,FedEx,Same-Day,290.35,Pending,Delhi
+SHP01152,2025-04-24,2025-05-14,DTDC,Economy,60.97,Pending,Delhi
+SHP01153,2025-04-25,,Delhivery,Same-Day,307.99,Returned,Chandigarh
+SHP01154,2025-04-25,2025-04-25,Delhivery,Same-Day,317.04,Delivered,Chandigarh
+SHP01155,2025-04-25,2025-04-29,Delhivery,Express,173.87,Cancelled,Kolkata
+SHP01156,2025-04-26,2025-05-10,DTDC,Economy,,Delivered,Nagpur
+SHP01157,2025-04-26,2025-04-30,Ecom Express,Standard,87.8,Pending,Hyderabad
+SHP01158,2025-04-27,2025-05-08,FedEx,Economy,46.57,Pending,Chandigarh
+SHP01159,2025-04-27,2025-05-10,Delhivery,Economy,,Delivered,Lucknow
+SHP01160,2025-04-27,2025-05-06,Delhivery,Standard,87.69,Delivered,Surat
+SHP01161,2025-04-28,,Delhivery,Economy,52.11,Cancelled,Chandigarh
+SHP01162,2025-04-28,2025-05-04,FedEx,Standard,54.91,Delivered,Bangalore
+SHP01163,2025-04-29,2025-05-08,Delhivery,Standard,46.32,Delivered,Bangalore
+SHP01164,2025-04-29,2025-04-29,FedEx,Same-Day,332.13,Pending,Bangalore
+SHP01165,2025-04-30,2025-05-08,Delhivery,Standard,58.11,Delivered,Kolkata
+SHP01166,2025-04-30,2025-05-14,DTDC,Economy,53.02,Cancelled,Bhopal
+SHP01167,2025-04-30,2025-05-10,DTDC,Economy,43.54,Delivered,Ahmedabad
+SHP01168,2025-05-01,2025-05-05,FedEx,Express,149.95,Delivered,Lucknow
+SHP01169,2025-05-01,2025-05-06,DTDC,Standard,70.08,Cancelled,Pune
+SHP01170,2025-05-02,2025-05-11,FedEx,Standard,43.03,Delivered,Bhopal
+SHP01171,2025-05-02,2025-05-05,DTDC,Express,160.67,Delivered,Hyderabad
+SHP01172,2025-05-02,2025-05-10,DTDC,Economy,47.33,Pending,Lucknow
+SHP01173,2025-05-03,2025-05-04,FedEx,Express,161.8,Delivered,Kochi
+SHP01174,2025-05-03,2025-05-11,Ecom Express,Standard,77.43,Delivered,Hyderabad
+SHP01175,2025-05-04,2025-05-08,DTDC,Express,181.4,Delivered,Lucknow
+SHP01176,2025-05-04,2025-05-05,Delhivery,Express,,Cancelled,Surat
+SHP01177,2025-05-05,2025-05-25,Ecom Express,Economy,21.94,Cancelled,Nagpur
+SHP01178,2025-05-05,2025-05-10,FedEx,Standard,49.71,Pending,Lucknow
+SHP01179,2025-05-05,2025-05-21,Ecom Express,Economy,46.83,Delivered,Lucknow
+SHP01180,2025-05-06,2025-05-07,BlueDart,Express,186.74,Cancelled,Bhopal
+SHP01181,2025-05-06,2025-05-18,BlueDart,Economy,61.75,Delivered,Lucknow
+SHP01182,2025-05-07,2025-05-14,DTDC,Standard,82.13,Delivered,Delhi
+SHP01183,2025-05-07,2025-05-11,DTDC,Express,155.16,Delivered,Bhopal
+SHP01184,2025-05-07,2025-05-26,Delhivery,Economy,41.47,Cancelled,Mumbai
+SHP01185,2025-05-08,2025-05-17,Ecom Express,Standard,63.54,Pending,Jaipur
+SHP01186,2025-05-08,2025-05-19,BlueDart,Economy,27.87,Delivered,Kochi
+SHP01187,2025-05-09,2025-05-10,DTDC,Same-Day,291.55,Delivered,Nagpur
+SHP01188,2025-05-09,2025-05-19,Ecom Express,Standard,87.35,Cancelled,Kochi
+SHP01189,2025-05-10,2025-05-20,DTDC,Standard,52.04,Delivered,Delhi
+SHP01190,2025-05-10,2025-05-10,DTDC,Same-Day,302.0,Failed,Chandigarh
+SHP01191,2025-05-10,2025-05-18,BlueDart,Standard,44.17,Delivered,Ahmedabad
+SHP01192,2025-05-11,2025-05-15,BlueDart,Express,186.43,Delivered,Nagpur
+SHP01193,2025-05-11,2025-05-20,DTDC,Standard,68.99,Delivered,Jaipur
+SHP01194,2025-05-12,2025-05-16,FedEx,Express,173.35,Delivered,Hyderabad
+SHP01195,2025-05-12,2025-05-21,DTDC,Standard,85.58,Returned,Ahmedabad
+SHP01196,2025-05-12,2025-06-01,DTDC,Economy,37.28,Delivered,Jaipur
+SHP01197,2025-05-13,2025-05-24,Delhivery,Economy,51.08,Pending,Surat
+SHP01198,2025-05-13,2025-05-20,Delhivery,Economy,21.94,Delivered,Surat
+SHP01199,2025-05-14,2025-05-14,Delhivery,Same-Day,299.34,Delivered,Chennai
+SHP01200,2025-05-14,,FedEx,Standard,81.56,Delivered,Chandigarh
+SHP01201,2025-05-15,2025-05-30,FedEx,Economy,58.34,Delivered,Bhopal
+SHP01202,2025-05-15,2025-05-25,DTDC,Standard,57.53,Failed,Pune
+SHP01203,2025-05-15,2025-05-21,Delhivery,Standard,58.84,Delivered,Surat
+SHP01204,2025-05-16,2025-05-24,FedEx,Standard,66.68,Delivered,Hyderabad
+SHP01205,2025-05-16,2025-05-18,BlueDart,Express,140.01,Delivered,Mumbai
+SHP01206,2025-05-17,2025-06-05,DTDC,Economy,32.06,Delivered,Bangalore
+SHP01207,2025-05-17,2025-05-17,Ecom Express,Same-Day,300.41,Delivered,Chennai
+SHP01208,2025-05-17,2025-05-18,DTDC,Express,152.52,Cancelled,Bangalore
+SHP01209,2025-05-18,2025-05-24,Ecom Express,Standard,80.3,Delivered,Kochi
+SHP01210,2025-05-18,2025-06-05,Delhivery,Economy,33.98,Delivered,Chandigarh
+SHP01211,2025-05-19,2025-05-23,Ecom Express,Express,149.58,Delivered,Lucknow
+SHP01212,2025-05-19,,Delhivery,Express,165.21,Failed,Pune
+SHP01213,2025-05-20,2025-05-30,BlueDart,Standard,83.28,Delivered,Kochi
+SHP01214,2025-05-20,,Ecom Express,Economy,32.07,Delivered,Jaipur
+SHP01215,2025-05-20,2025-05-20,DTDC,Same-Day,293.93,Delivered,Nagpur
+SHP01216,2025-05-21,2025-05-26,Delhivery,Standard,57.82,Delivered,Kochi
+SHP01217,2025-05-21,2025-05-31,DTDC,Standard,77.38,Delivered,Kolkata
+SHP01218,2025-05-22,2025-05-23,FedEx,Same-Day,317.53,Delivered,Chandigarh
+SHP01219,2025-05-22,2025-05-23,Delhivery,Same-Day,330.84,Pending,Surat
+SHP01220,2025-05-22,2025-05-26,Ecom Express,Standard,87.98,Delivered,Mumbai
+SHP01221,2025-05-23,2025-06-09,Delhivery,Economy,59.63,Cancelled,Pune
+SHP01222,2025-05-23,2025-05-28,DTDC,Standard,70.19,Delivered,Nagpur
+SHP01223,2025-05-24,2025-05-26,BlueDart,Express,164.67,Delivered,Bangalore
+SHP01224,2025-05-24,,Delhivery,Economy,22.0,Delivered,Chennai
+SHP01225,2025-05-25,2025-05-26,Ecom Express,Express,189.22,Delivered,Surat
+SHP01226,2025-05-25,2025-05-26,FedEx,Express,159.17,Pending,Hyderabad
+SHP01227,2025-05-25,2025-06-02,BlueDart,Standard,47.61,Delivered,Surat
+SHP01228,2025-05-26,2025-06-01,FedEx,Standard,73.34,Delivered,Chennai
+SHP01229,2025-05-26,2025-06-02,Delhivery,Economy,34.21,Delivered,Chennai
+SHP01230,2025-05-27,2025-05-30,DTDC,Express,,Failed,Kolkata
+SHP01231,2025-05-27,2025-06-12,DTDC,Economy,49.34,Delivered,Bhopal
+SHP01232,2025-05-27,2025-06-01,Ecom Express,Standard,62.29,Returned,Surat
+SHP01233,2025-05-28,2025-06-04,DTDC,Standard,81.81,Delivered,Kochi
+SHP01234,2025-05-28,2025-06-01,BlueDart,Standard,53.25,Delivered,Surat
+SHP01235,2025-05-29,2025-05-30,DTDC,Same-Day,312.43,Delivered,Chandigarh
+SHP01236,2025-05-29,2025-06-06,Ecom Express,Standard,66.88,Delivered,Chandigarh
+SHP01237,2025-05-30,2025-06-08,Delhivery,Economy,53.18,Delivered,Lucknow
+SHP01238,2025-05-30,2025-06-01,Delhivery,Express,179.2,Delivered,Kolkata
+SHP01239,2025-05-30,2025-06-18,DTDC,Economy,39.74,Returned,Ahmedabad
+SHP01240,2025-05-31,2025-06-05,FedEx,Standard,72.3,Cancelled,Ahmedabad
+SHP01241,2025-05-31,2025-06-12,Delhivery,Economy,27.53,Pending,Lucknow
+SHP01242,2025-06-01,2025-06-12,DTDC,Economy,,Delivered,Jaipur
+SHP01243,2025-06-01,2025-06-09,Ecom Express,Economy,39.15,Delivered,Ahmedabad
+SHP01244,2025-06-01,2025-06-17,DTDC,Economy,56.48,Delivered,Chandigarh
+SHP01245,2025-06-02,,Delhivery,Economy,21.02,Pending,Lucknow
+SHP01246,2025-06-02,2025-06-04,Ecom Express,Express,150.26,Returned,Delhi
+SHP01247,2025-06-03,2025-06-13,DTDC,Standard,64.35,Delivered,Bhopal
+SHP01248,2025-06-03,2025-06-08,BlueDart,Standard,83.91,Delivered,Bhopal
+SHP01249,2025-06-04,2025-06-22,Ecom Express,Economy,46.36,Delivered,Kochi
+SHP01250,2025-06-04,2025-06-06,BlueDart,Express,186.49,Delivered,Surat
+SHP01251,2025-06-04,2025-06-15,FedEx,Economy,44.19,Delivered,Kochi
+SHP01252,2025-06-05,2025-06-09,Ecom Express,Express,164.52,Delivered,Lucknow
+SHP01253,2025-06-05,2025-06-15,BlueDart,Standard,45.99,Pending,Nagpur
+SHP01254,2025-06-06,2025-06-13,Delhivery,Standard,80.13,Delivered,Mumbai
+SHP01255,2025-06-06,2025-06-06,Delhivery,Same-Day,302.35,Delivered,Surat
+SHP01256,2025-06-06,2025-06-07,FedEx,Express,184.98,Failed,Delhi
+SHP01257,2025-06-07,2025-06-11,Ecom Express,Standard,85.54,Delivered,Delhi
+SHP01258,2025-06-07,2025-06-10,Ecom Express,Express,187.17,Delivered,Kochi
+SHP01259,2025-06-08,2025-06-12,Ecom Express,Standard,66.01,Delivered,Bangalore
+SHP01260,2025-06-08,2025-06-09,FedEx,Express,173.85,Delivered,Surat
+SHP01261,2025-06-09,,Ecom Express,Standard,,Delivered,Pune
+SHP01262,2025-06-09,2025-06-28,Delhivery,Economy,26.55,Pending,Delhi
+SHP01263,2025-06-09,2025-06-18,BlueDart,Standard,70.05,Delivered,Bhopal
+SHP01264,2025-06-10,2025-06-11,Delhivery,Express,141.71,Delivered,Mumbai
+SHP01265,2025-06-10,2025-06-20,Delhivery,Standard,64.88,Delivered,Bhopal
+SHP01266,2025-06-11,2025-06-17,BlueDart,Standard,47.74,Delivered,Kolkata
+SHP01267,2025-06-11,2025-06-20,Delhivery,Standard,49.15,Cancelled,Jaipur
+SHP01268,2025-06-11,2025-06-14,FedEx,Express,158.25,Cancelled,Nagpur
+SHP01269,2025-06-12,,BlueDart,Express,161.62,Delivered,Bangalore
+SHP01270,2025-06-12,2025-06-21,Delhivery,Standard,71.16,Pending,Kolkata
+SHP01271,2025-06-13,2025-06-14,DTDC,Same-Day,293.72,Delivered,Bangalore
+SHP01272,2025-06-13,,Delhivery,Economy,45.18,Failed,Bhopal
+SHP01273,2025-06-14,2025-07-03,FedEx,Economy,29.13,Delivered,Chandigarh
+SHP01274,2025-06-14,2025-06-19,Ecom Express,Standard,68.7,Failed,Mumbai
+SHP01275,2025-06-14,,Delhivery,Express,171.87,Pending,Bhopal
+SHP01276,2025-06-15,2025-06-19,Ecom Express,Standard,67.84,Delivered,Chandigarh
+SHP01277,2025-06-15,2025-06-25,DTDC,Standard,76.91,Delivered,Kochi
+SHP01278,2025-06-16,2025-07-02,Delhivery,Economy,36.78,Failed,Chennai
+SHP01279,2025-06-16,2025-06-22,BlueDart,Standard,78.26,Cancelled,Surat
+SHP01280,2025-06-16,,Ecom Express,Express,161.64,Delivered,Bhopal
+SHP01281,2025-06-17,2025-06-21,DTDC,Express,164.21,Pending,Chandigarh
+SHP01282,2025-06-17,2025-06-18,BlueDart,Same-Day,322.41,Delivered,Lucknow
+SHP01283,2025-06-18,2025-06-22,BlueDart,Express,,Delivered,Hyderabad
+SHP01284,2025-06-18,2025-06-24,BlueDart,Standard,72.7,Delivered,Pune
+SHP01285,2025-06-19,2025-06-23,BlueDart,Standard,70.93,Delivered,Kolkata
+SHP01286,2025-06-19,2025-06-22,Delhivery,Express,155.49,Pending,Surat
+SHP01287,2025-06-19,2025-06-28,Delhivery,Standard,44.29,Delivered,Pune
+SHP01288,2025-06-20,2025-06-30,Delhivery,Standard,44.55,Cancelled,Chennai
+SHP01289,2025-06-20,2025-06-30,DTDC,Standard,86.16,Delivered,Nagpur
+SHP01290,2025-06-21,,DTDC,Standard,74.46,Delivered,Nagpur
+SHP01291,2025-06-21,2025-06-26,DTDC,Standard,46.36,Delivered,Hyderabad
+SHP01292,2025-06-21,2025-06-27,FedEx,Standard,57.84,Delivered,Pune
+SHP01293,2025-06-22,2025-06-23,DTDC,Express,169.62,Delivered,Pune
+SHP01294,2025-06-22,2025-06-22,Delhivery,Same-Day,331.78,Delivered,Kolkata
+SHP01295,2025-06-23,2025-07-09,Delhivery,Economy,,Delivered,Ahmedabad
+SHP01296,2025-06-23,2025-06-29,FedEx,Standard,51.83,Delivered,Hyderabad
+SHP01297,2025-06-24,2025-07-01,FedEx,Standard,84.49,Delivered,Surat
+SHP01298,2025-06-24,2025-06-30,DTDC,Standard,40.46,Delivered,Chennai
+SHP01299,2025-06-24,2025-06-25,Ecom Express,Express,150.07,Cancelled,Hyderabad
+SHP01300,2025-06-25,2025-06-25,FedEx,Same-Day,337.95,Returned,Kochi
+SHP01301,2025-06-25,2025-07-03,BlueDart,Standard,70.67,Delivered,Mumbai
+SHP01302,2025-06-26,2025-07-12,Delhivery,Economy,33.08,Delivered,Kochi
+SHP01303,2025-06-26,2025-07-02,BlueDart,Standard,43.35,Delivered,Ahmedabad
+SHP01304,2025-06-26,2025-06-28,Delhivery,Express,141.41,Returned,Mumbai
+SHP01305,2025-06-27,2025-06-28,Delhivery,Same-Day,302.24,Delivered,Chennai
+SHP01306,2025-06-27,2025-07-10,FedEx,Economy,64.07,Delivered,Nagpur
+SHP01307,2025-06-28,2025-06-28,FedEx,Same-Day,310.8,Delivered,Kolkata
+SHP01308,2025-06-28,2025-07-14,BlueDart,Economy,56.02,Delivered,Kolkata
+SHP01309,2025-06-29,2025-07-04,Delhivery,Standard,85.91,Delivered,Chandigarh
+SHP01310,2025-06-29,2025-07-12,BlueDart,Economy,40.4,Pending,Chennai
+SHP01311,2025-06-29,2025-07-09,Ecom Express,Standard,49.56,Delivered,Bangalore
+SHP01312,2025-06-30,,BlueDart,Economy,,Delivered,Nagpur
+SHP01313,2025-06-30,2025-07-03,DTDC,Express,185.4,Delivered,Chennai
+SHP01314,2025-07-01,2025-07-10,BlueDart,Economy,60.22,Delivered,Kochi
+SHP01315,2025-07-01,2025-07-05,DTDC,Express,143.29,Returned,Ahmedabad
+SHP01316,2025-07-01,2025-07-04,DTDC,Express,174.63,Delivered,Bhopal
+SHP01317,2025-07-02,2025-07-03,DTDC,Express,168.59,Cancelled,Delhi
+SHP01318,2025-07-02,2025-07-03,Ecom Express,Same-Day,335.37,Delivered,Kolkata
+SHP01319,2025-07-03,2025-07-07,BlueDart,Standard,46.12,Delivered,Jaipur
+SHP01320,2025-07-03,2025-07-11,BlueDart,Standard,66.7,Returned,Ahmedabad
+SHP01321,2025-07-04,2025-07-14,Ecom Express,Standard,83.97,Delivered,Bhopal
+SHP01322,2025-07-04,2025-07-09,Delhivery,Standard,60.5,Cancelled,Lucknow
+SHP01323,2025-07-04,2025-07-19,FedEx,Economy,,Delivered,Ahmedabad
+SHP01324,2025-07-05,2025-07-15,BlueDart,Standard,43.52,Cancelled,Ahmedabad
+SHP01325,2025-07-05,2025-07-18,FedEx,Economy,33.91,Delivered,Nagpur
+SHP01326,2025-07-06,2025-07-13,Ecom Express,Standard,56.23,Delivered,Chandigarh
+SHP01327,2025-07-06,2025-07-13,Delhivery,Standard,87.26,Pending,Pune
+SHP01328,2025-07-06,2025-07-14,Delhivery,Economy,34.13,Returned,Ahmedabad
+SHP01329,2025-07-07,,Delhivery,Same-Day,313.04,Returned,Chandigarh
+SHP01330,2025-07-07,2025-07-11,Ecom Express,Express,,Pending,Kolkata
+SHP01331,2025-07-08,2025-07-12,DTDC,Express,148.11,Cancelled,Delhi
+SHP01332,2025-07-08,2025-07-09,DTDC,Same-Day,314.32,Delivered,Delhi
+SHP01333,2025-07-09,2025-07-17,FedEx,Standard,76.93,Delivered,Ahmedabad
+SHP01334,2025-07-09,2025-07-16,DTDC,Economy,63.34,Delivered,Lucknow
+SHP01335,2025-07-09,2025-07-27,DTDC,Economy,51.31,Delivered,Mumbai
+SHP01336,2025-07-10,2025-07-11,Delhivery,Same-Day,323.45,Delivered,Kolkata
+SHP01337,2025-07-10,2025-07-16,Delhivery,Standard,46.31,Delivered,Chandigarh
+SHP01338,2025-07-11,2025-07-12,FedEx,Same-Day,337.29,Delivered,Kolkata
+SHP01339,2025-07-11,2025-07-20,BlueDart,Standard,46.63,Delivered,Lucknow
+SHP01340,2025-07-11,2025-07-20,FedEx,Standard,78.73,Delivered,Hyderabad
+SHP01341,2025-07-12,2025-07-19,FedEx,Standard,53.24,Delivered,Kochi
+SHP01342,2025-07-12,2025-07-13,Ecom Express,Express,186.68,Delivered,Lucknow
+SHP01343,2025-07-13,2025-07-26,Ecom Express,Economy,56.0,Pending,Chandigarh
+SHP01344,2025-07-13,2025-07-13,FedEx,Same-Day,327.69,Pending,Nagpur
+SHP01345,2025-07-14,2025-07-15,FedEx,Same-Day,300.95,Delivered,Lucknow
+SHP01346,2025-07-14,2025-07-16,FedEx,Express,162.15,Delivered,Chandigarh
+SHP01347,2025-07-14,2025-07-20,DTDC,Standard,70.89,Delivered,Surat
+SHP01348,2025-07-15,2025-07-19,Ecom Express,Standard,78.5,Delivered,Bangalore
+SHP01349,2025-07-15,2025-07-26,FedEx,Economy,25.2,Delivered,Chandigarh
+SHP01350,2025-07-16,,Delhivery,Standard,88.12,Delivered,Lucknow
+SHP01351,2025-07-16,2025-07-28,Delhivery,Economy,64.51,Delivered,Bangalore
+SHP01352,2025-07-16,2025-07-20,DTDC,Express,153.52,Delivered,Nagpur
+SHP01353,2025-07-17,2025-07-20,DTDC,Express,181.14,Returned,Nagpur
+SHP01354,2025-07-17,2025-07-17,BlueDart,Same-Day,315.92,Returned,Chandigarh
+SHP01355,2025-07-18,2025-07-22,BlueDart,Express,163.09,Delivered,Chandigarh
+SHP01356,2025-07-18,2025-07-29,BlueDart,Economy,35.72,Delivered,Mumbai
+SHP01357,2025-07-19,2025-07-30,DTDC,Economy,49.05,Delivered,Bangalore
+SHP01358,2025-07-19,2025-07-23,DTDC,Express,176.49,Delivered,Hyderabad
+SHP01359,2025-07-19,2025-07-26,DTDC,Standard,60.55,Returned,Lucknow
+SHP01360,2025-07-20,2025-07-24,Delhivery,Express,171.46,Delivered,Lucknow
+SHP01361,2025-07-20,2025-07-30,DTDC,Economy,54.97,Pending,Chennai
+SHP01362,2025-07-21,2025-07-28,Delhivery,Standard,75.56,Delivered,Bangalore
+SHP01363,2025-07-21,2025-07-22,BlueDart,Express,142.6,Failed,Kolkata
+SHP01364,2025-07-21,2025-07-23,BlueDart,Express,182.99,Delivered,Lucknow
+SHP01365,2025-07-22,2025-07-23,BlueDart,Same-Day,312.91,Pending,Bhopal
+SHP01366,2025-07-22,2025-07-26,FedEx,Standard,53.12,Delivered,Nagpur
+SHP01367,2025-07-23,2025-07-24,FedEx,Same-Day,,Delivered,Kochi
+SHP01368,2025-07-23,2025-08-04,Ecom Express,Economy,44.15,Delivered,Chennai
+SHP01369,2025-07-24,2025-07-29,Ecom Express,Standard,84.34,Delivered,Bangalore
+SHP01370,2025-07-24,2025-08-01,Ecom Express,Standard,58.92,Returned,Kolkata
+SHP01371,2025-07-24,2025-08-03,FedEx,Economy,57.49,Returned,Kolkata
+SHP01372,2025-07-25,2025-08-01,FedEx,Standard,44.84,Cancelled,Nagpur
+SHP01373,2025-07-25,2025-08-07,Ecom Express,Economy,43.8,Delivered,Bhopal
+SHP01374,2025-07-26,2025-07-29,Ecom Express,Express,189.58,Pending,Ahmedabad
+SHP01375,2025-07-26,,DTDC,Standard,78.52,Delivered,Delhi
+SHP01376,2025-07-26,2025-08-14,Ecom Express,Economy,30.53,Delivered,Mumbai
+SHP01377,2025-07-27,2025-07-29,DTDC,Express,165.07,Delivered,Hyderabad
+SHP01378,2025-07-27,2025-07-29,Delhivery,Express,151.68,Delivered,Pune
+SHP01379,2025-07-28,2025-08-05,FedEx,Standard,,Delivered,Nagpur
+SHP01380,2025-07-28,2025-07-29,Ecom Express,Express,179.0,Delivered,Lucknow
+SHP01381,2025-07-29,2025-08-05,FedEx,Standard,78.56,Delivered,Surat
+SHP01382,2025-07-29,2025-08-08,FedEx,Standard,51.41,Pending,Bangalore
+SHP01383,2025-07-29,2025-08-07,FedEx,Economy,66.11,Delivered,Bangalore
+SHP01384,2025-07-30,2025-08-03,Delhivery,Standard,69.63,Delivered,Chennai
+SHP01385,2025-07-30,2025-07-30,BlueDart,Same-Day,309.0,Delivered,Chennai
+SHP01386,2025-07-31,2025-08-09,Ecom Express,Standard,65.1,Delivered,Chandigarh
+SHP01387,2025-07-31,2025-08-07,BlueDart,Economy,50.25,Delivered,Surat
+SHP01388,2025-07-31,2025-08-08,BlueDart,Standard,67.99,Delivered,Bangalore
+SHP01389,2025-08-01,2025-08-09,BlueDart,Economy,,Delivered,Jaipur
+SHP01390,2025-08-01,2025-08-05,FedEx,Express,165.25,Delivered,Hyderabad
+SHP01391,2025-08-02,2025-08-11,DTDC,Standard,48.82,Delivered,Chandigarh
+SHP01392,2025-08-02,2025-08-11,FedEx,Standard,80.64,Cancelled,Chandigarh
+SHP01393,2025-08-03,2025-08-09,FedEx,Standard,67.09,Delivered,Nagpur
+SHP01394,2025-08-03,,BlueDart,Express,146.55,Delivered,Bangalore
+SHP01395,2025-08-03,2025-08-09,FedEx,Standard,78.31,Pending,Lucknow
+SHP01396,2025-08-04,2025-08-20,BlueDart,Economy,66.62,Delivered,Delhi
+SHP01397,2025-08-04,2025-08-07,DTDC,Express,,Delivered,Surat
+SHP01398,2025-08-05,2025-08-10,Ecom Express,Standard,58.45,Cancelled,Chandigarh
+SHP01399,2025-08-05,2025-08-08,BlueDart,Express,146.78,Delivered,Lucknow
+SHP01400,2025-08-05,2025-08-05,DTDC,Same-Day,315.92,Delivered,Jaipur
+SHP01401,2025-08-06,2025-08-13,Ecom Express,Standard,45.63,Delivered,Hyderabad
+SHP01402,2025-08-06,2025-08-11,Delhivery,Standard,86.7,Delivered,Bangalore
+SHP01403,2025-08-07,2025-08-13,BlueDart,Standard,49.18,Delivered,Pune
+SHP01404,2025-08-07,2025-08-07,BlueDart,Same-Day,,Delivered,Ahmedabad
+SHP01405,2025-08-08,2025-08-08,Delhivery,Same-Day,310.33,Delivered,Lucknow
+SHP01406,2025-08-08,2025-08-11,Delhivery,Express,159.16,Delivered,Bhopal
+SHP01407,2025-08-08,2025-08-19,BlueDart,Economy,59.73,Delivered,Delhi
+SHP01408,2025-08-09,2025-08-17,Delhivery,Economy,42.82,Delivered,Pune
+SHP01409,2025-08-09,,FedEx,Express,148.54,Delivered,Kochi
+SHP01410,2025-08-10,2025-08-20,Ecom Express,Economy,33.36,Delivered,Chennai
+SHP01411,2025-08-10,2025-08-17,Ecom Express,Standard,65.46,Delivered,Nagpur
+SHP01412,2025-08-10,2025-08-18,Ecom Express,Standard,47.37,Returned,Lucknow
+SHP01413,2025-08-11,2025-08-21,FedEx,Standard,70.58,Delivered,Chennai
+SHP01414,2025-08-11,2025-08-20,Delhivery,Standard,68.29,Delivered,Bangalore
+SHP01415,2025-08-12,2025-08-15,DTDC,Express,175.74,Delivered,Chennai
+SHP01416,2025-08-12,2025-08-30,Delhivery,Economy,,Delivered,Kochi
+SHP01417,2025-08-13,2025-08-19,BlueDart,Standard,85.61,Returned,Delhi
+SHP01418,2025-08-13,2025-08-21,Ecom Express,Standard,87.3,Delivered,Hyderabad
+SHP01419,2025-08-13,2025-08-14,Delhivery,Express,152.24,Failed,Kolkata
+SHP01420,2025-08-14,2025-08-30,DTDC,Economy,26.58,Delivered,Mumbai
+SHP01421,2025-08-14,2025-08-19,BlueDart,Standard,55.11,Pending,Surat
+SHP01422,2025-08-15,2025-08-19,FedEx,Express,184.75,Delivered,Hyderabad
+SHP01423,2025-08-15,2025-08-20,FedEx,Standard,88.6,Cancelled,Kolkata
+SHP01424,2025-08-15,2025-08-21,DTDC,Standard,82.97,Delivered,Jaipur
+SHP01425,2025-08-16,2025-08-23,BlueDart,Economy,25.5,Delivered,Bhopal
+SHP01426,2025-08-16,2025-08-27,Ecom Express,Economy,67.37,Delivered,Lucknow
+SHP01427,2025-08-17,2025-08-25,Delhivery,Standard,61.17,Delivered,Lucknow
+SHP01428,2025-08-17,2025-09-02,BlueDart,Economy,20.47,Returned,Chandigarh
+SHP01429,2025-08-18,2025-08-19,FedEx,Express,162.12,Delivered,Delhi
+SHP01430,2025-08-18,2025-08-25,DTDC,Economy,22.3,Delivered,Lucknow
+SHP01431,2025-08-18,2025-08-19,DTDC,Express,167.19,Pending,Pune
+SHP01432,2025-08-19,,Delhivery,Express,156.93,Delivered,Kolkata
+SHP01433,2025-08-19,2025-08-23,DTDC,Express,163.67,Returned,Delhi
+SHP01434,2025-08-20,2025-08-21,DTDC,Same-Day,320.66,Pending,Ahmedabad
+SHP01435,2025-08-20,2025-08-24,BlueDart,Standard,83.44,Delivered,Pune
+SHP01436,2025-08-20,,Ecom Express,Standard,73.1,Cancelled,Lucknow
+SHP01437,2025-08-21,2025-08-25,Delhivery,Standard,61.7,Delivered,Chennai
+SHP01438,2025-08-21,2025-08-21,BlueDart,Same-Day,330.97,Delivered,Kochi
+SHP01439,2025-08-22,2025-08-30,Ecom Express,Standard,85.28,Delivered,Chennai
+SHP01440,2025-08-22,2025-08-23,BlueDart,Same-Day,295.99,Delivered,Pune
+SHP01441,2025-08-23,2025-09-12,BlueDart,Economy,46.6,Pending,Jaipur
+SHP01442,2025-08-23,2025-08-27,DTDC,Standard,54.23,Returned,Lucknow
+SHP01443,2025-08-23,2025-08-23,Ecom Express,Same-Day,292.35,Delivered,Nagpur
+SHP01444,2025-08-24,2025-08-26,Delhivery,Express,173.43,Delivered,Jaipur
+SHP01445,2025-08-24,2025-09-07,Delhivery,Economy,63.14,Failed,Jaipur
+SHP01446,2025-08-25,2025-08-30,Ecom Express,Standard,48.15,Delivered,Kolkata
+SHP01447,2025-08-25,2025-08-25,DTDC,Same-Day,330.62,Delivered,Surat
+SHP01448,2025-08-25,2025-09-13,FedEx,Economy,62.67,Delivered,Kolkata
+SHP01449,2025-08-26,2025-09-05,BlueDart,Economy,65.72,Returned,Bangalore
+SHP01450,2025-08-26,2025-08-27,DTDC,Same-Day,303.26,Delivered,Mumbai
+SHP01451,2025-08-27,2025-08-29,Ecom Express,Express,185.2,Pending,Pune
+SHP01452,2025-08-27,2025-08-28,BlueDart,Express,156.03,Pending,Hyderabad
+SHP01453,2025-08-28,2025-09-04,Delhivery,Economy,47.62,Delivered,Mumbai
+SHP01454,2025-08-28,2025-09-01,FedEx,Express,142.53,Delivered,Nagpur
+SHP01455,2025-08-28,2025-09-07,Delhivery,Standard,42.19,Cancelled,Ahmedabad
+SHP01456,2025-08-29,2025-09-15,Ecom Express,Economy,56.02,Delivered,Kochi
+SHP01457,2025-08-29,2025-08-30,BlueDart,Same-Day,312.22,Pending,Kolkata
+SHP01458,2025-08-30,2025-08-30,Ecom Express,Same-Day,302.81,Returned,Kolkata
+SHP01459,2025-08-30,2025-09-05,BlueDart,Standard,49.52,Delivered,Delhi
+SHP01460,2025-08-30,2025-08-31,DTDC,Same-Day,323.5,Pending,Nagpur
+SHP01461,2025-08-31,2025-09-09,FedEx,Standard,40.02,Pending,Mumbai
+SHP01462,2025-08-31,2025-09-01,DTDC,Same-Day,330.29,Cancelled,Chandigarh
+SHP01463,2025-09-01,2025-09-10,DTDC,Standard,43.96,Delivered,Bhopal
+SHP01464,2025-09-01,2025-09-01,Ecom Express,Same-Day,299.57,Delivered,Bhopal
+SHP01465,2025-09-02,2025-09-18,FedEx,Economy,39.31,Delivered,Delhi
+SHP01466,2025-09-02,2025-09-07,BlueDart,Standard,64.24,Delivered,Hyderabad
+SHP01467,2025-09-02,2025-09-18,BlueDart,Economy,37.75,Delivered,Delhi
+SHP01468,2025-09-03,2025-09-06,Delhivery,Express,156.04,Pending,Mumbai
+SHP01469,2025-09-03,2025-09-13,BlueDart,Economy,68.2,Delivered,Pune
+SHP01470,2025-09-04,2025-09-20,Ecom Express,Economy,52.08,Delivered,Lucknow
+SHP01323,2025-09-04,2025-09-08,DTDC,Express,141.17,Delivered,Lucknow
+SHP00700,2025-09-04,2025-09-04,DTDC,Same-Day,311.51,Pending,Nagpur
+SHP00589,2025-09-05,2025-09-20,DTDC,Economy,63.75,Delivered,Kochi
+SHP00190,2025-09-05,2025-09-07,FedEx,Express,155.07,Delivered,Ahmedabad
+SHP00838,2025-09-06,2025-09-14,BlueDart,Standard,44.73,Delivered,Kolkata
+SHP00482,2025-09-06,,Ecom Express,Same-Day,327.92,Pending,Hyderabad
+SHP00856,2025-09-07,2025-09-20,FedEx,Economy,50.3,Delivered,Bhopal
+SHP00885,2025-09-07,2025-09-27,Delhivery,Economy,48.52,Delivered,Kolkata
+SHP00360,2025-09-07,,Ecom Express,Economy,22.68,Failed,Bangalore
+SHP01470,2025-09-08,2025-09-12,Ecom Express,Express,147.02,Pending,Kochi
+SHP01174,2025-09-08,2025-09-18,Ecom Express,Economy,51.13,Returned,Ahmedabad
+SHP01126,2025-09-09,2025-09-17,DTDC,Standard,50.39,Delivered,Surat
+SHP00264,2025-09-09,2025-09-13,Ecom Express,Express,165.2,Delivered,Bhopal
+SHP00170,2025-09-09,,BlueDart,Standard,67.24,Cancelled,Chandigarh
+SHP00971,2025-09-10,2025-09-15,Ecom Express,Standard,54.18,Delivered,Chandigarh
+SHP00712,2025-09-10,2025-09-17,DTDC,Standard,87.42,Pending,Delhi
+SHP00572,2025-09-11,2025-09-19,Ecom Express,Standard,,Delivered,Chennai
+SHP00353,2025-09-11,2025-09-12,Delhivery,Same-Day,326.12,Delivered,Mumbai
+SHP01068,2025-09-12,2025-09-20,Delhivery,Standard,43.9,Delivered,Kolkata
+SHP01093,2025-09-12,,DTDC,Express,145.31,Delivered,Delhi
+SHP01061,2025-09-12,2025-09-20,BlueDart,Standard,64.64,Delivered,Hyderabad
+SHP00533,2025-09-13,2025-09-17,BlueDart,Standard,48.04,Delivered,Kolkata
+SHP00067,2025-09-13,2025-09-18,FedEx,Standard,88.91,Failed,Surat
+SHP01353,2025-09-14,2025-09-18,DTDC,Standard,47.93,Delivered,Lucknow
+SHP01012,2025-09-14,2025-09-16,Ecom Express,Express,164.37,Delivered,Ahmedabad
+SHP00600,2025-09-14,2025-09-14,DTDC,Same-Day,308.21,Cancelled,Kochi
+SHP00544,2025-09-15,2025-09-17,FedEx,Express,171.97,Delivered,Ahmedabad
+SHP00279,2025-09-15,2025-09-17,DTDC,Express,146.45,Delivered,Lucknow
+SHP00637,2025-09-16,2025-09-23,DTDC,Standard,61.52,Pending,Kolkata
+SHP00543,2025-09-16,2025-10-05,FedEx,Economy,,Delivered,Hyderabad
