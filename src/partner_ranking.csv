@@ -1,0 +1,6 @@
+Delivery_Partner,Total_Shipments,Delivered_Shipments,Avg_Delivery_Days,Success_Rate_Pct,Speed_Rank,Volume_Rank
+SpeedPost,163,136,3.37,83.44,1,5
+FedEx,436,359,3.59,82.34,2,1
+BlueDart,224,185,3.92,82.59,3,4
+DHL,333,270,4.06,81.08,4,3
+UPS,344,293,4.1,85.17,5,2

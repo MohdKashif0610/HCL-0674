@@ -1,0 +1,5 @@
+Shipping_Method,Total_Orders,Delivered_Orders,Cancelled_Orders,In_Transit_Orders,Returned_Orders,Success_Rate_Pct
+Overnight,174,151,17,2,4,86.78
+Same Day,161,138,12,10,1,85.71
+Standard,722,594,67,35,26,82.27
+Express,443,360,36,29,18,81.26
